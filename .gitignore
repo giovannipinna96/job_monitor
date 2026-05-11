@@ -1,0 +1,23 @@
+# File con credenziali/lista privata - tenuti nei GitHub Secrets
+settings.json
+sites.json
+
+# Log generati ad ogni esecuzione
+job_monitor.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
