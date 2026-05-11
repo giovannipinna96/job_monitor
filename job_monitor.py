@@ -991,20 +991,39 @@ def check_site(site, state, settings, *, test_mode=False):
         log.info(f"  Prima esecuzione: {len(jobs)} offerte salvate")
         return 0
     new_count = 0
+    silent_count = 0
     token = settings["telegram_token"]
     chat_id = settings["telegram_chat_id"]
+    # Filtro per parole chiave nel titolo. Se la lista e' vuota o assente,
+    # tutte le offerte nuove generano una notifica (comportamento storico).
+    # Altrimenti notifica solo quelle il cui titolo contiene almeno una
+    # keyword (case-insensitive). Le altre vengono comunque salvate in
+    # seen_jobs.json per evitare di rivalutarle ad ogni ciclo.
+    raw_keywords = settings.get("title_keyword") or []
+    keywords_lower = [k.lower().strip() for k in raw_keywords if k and k.strip()]
     for j in jobs:
         jid = make_id(j["title"], j["url"])
-        if jid not in state[sk]["jobs"]:
-            log.info(f"  NEW: {j['title']}")
-            state[sk]["jobs"][jid] = {
-                "title": j["title"], "seen": datetime.now().isoformat()
-            }
+        if jid in state[sk]["jobs"]:
+            continue
+        title_l = (j.get("title") or "").lower()
+        # se la lista keywords e' vuota -> notifica tutto; altrimenti
+        # cerca match parziale (case-insensitive)
+        notify = (not keywords_lower) or any(kw in title_l for kw in keywords_lower)
+        state[sk]["jobs"][jid] = {
+            "title": j["title"], "seen": datetime.now().isoformat()
+        }
+        if notify:
+            log.info(f"  NEW [notify]: {j['title']}")
             send_telegram(token, chat_id, format_message(name, j))
             new_count += 1
             time.sleep(1)
-    if new_count == 0:
+        else:
+            log.info(f"  NEW [silent, no keyword match]: {j['title']}")
+            silent_count += 1
+    if new_count == 0 and silent_count == 0:
         log.info("  Nessuna novità")
+    elif new_count == 0:
+        log.info(f"  {silent_count} nuove offerte salvate ma nessuna matcha le keyword")
     return new_count
 
 
@@ -1047,6 +1066,45 @@ def main():
     sites = load_sites()
     log.info("=" * 60)
     log.info(f"Job Monitor v4 - {len(sites)} siti - ogni {interval} min")
+    log.info("=" * 60)
+
+    if args.test:
+        try:
+            run_cycle(settings, test_mode=True, only_site=args.site)
+        finally:
+            close_browser()
+        return
+
+    if args.once:
+        log.info("Modalita --once: un solo ciclo poi exit")
+        try:
+            run_cycle(settings, only_site=args.site)
+        finally:
+            close_browser()
+        return
+
+    send_telegram(
+        settings["telegram_token"],
+        settings["telegram_chat_id"],
+        f"<b>Job Monitor v4 avviato!</b>\nMonitoraggio {len(sites)} siti ogni {interval} min.",
+    )
+    try:
+        while True:
+            try:
+                run_cycle(settings)
+            except Exception as e:
+                log.error(f"Errore ciclo: {e}", exc_info=True)
+            log.info(f"Prossimo ciclo tra {interval} min...")
+            time.sleep(interval * 60)
+    except KeyboardInterrupt:
+        log.info("Arresto.")
+    finally:
+        close_browser()
+
+
+if __name__ == "__main__":
+    main()
+nitor v4 - {len(sites)} siti - ogni {interval} min")
     log.info("=" * 60)
 
     if args.test:
