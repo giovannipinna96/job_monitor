@@ -1,0 +1,100 @@
+name: Job Monitor
+
+on:
+  # Esecuzione automatica ogni 30 minuti.
+  # NB: GitHub Actions cron NON e' garantito puntuale - puo' ritardare di 5-15 min.
+  schedule:
+    - cron: '*/30 * * * *'
+
+  # Permette esecuzione manuale dal pulsante "Run workflow" sulla UI di GitHub.
+  workflow_dispatch:
+
+# Necessario per committare seen_jobs.json dal bot di Actions.
+permissions:
+  contents: write
+
+# Evita run multipli sovrapposti: se ne parte uno mentre il precedente sta
+# ancora girando, il nuovo viene messo in coda (non cancella quello in corso).
+concurrency:
+  group: job-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-chromium-v1
+
+      - name: Install Playwright Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: playwright install chromium --with-deps
+
+      - name: Install Playwright system deps (sempre, anche con cache)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: playwright install-deps chromium
+
+      - name: Restore settings.json from secret
+        env:
+          SETTINGS_JSON: ${{ secrets.SETTINGS_JSON }}
+        run: |
+          if [ -z "$SETTINGS_JSON" ]; then
+            echo "ERRORE: secret SETTINGS_JSON non configurato!" >&2
+            exit 1
+          fi
+          printf '%s' "$SETTINGS_JSON" > settings.json
+          echo "settings.json scritto ($(wc -c < settings.json) byte)"
+
+      - name: Restore sites.json from secret
+        env:
+          SITES_JSON: ${{ secrets.SITES_JSON }}
+        run: |
+          if [ -z "$SITES_JSON" ]; then
+            echo "ERRORE: secret SITES_JSON non configurato!" >&2
+            exit 1
+          fi
+          printf '%s' "$SITES_JSON" > sites.json
+          # Validazione JSON
+          python3 -c "import json; json.load(open('sites.json'))" || (echo "sites.json non valido!" >&2; exit 1)
+          echo "sites.json scritto ($(python3 -c "import json; print(len(json.load(open('sites.json'))))") siti)"
+
+      - name: Run monitor (one cycle)
+        run: python job_monitor.py --once
+
+      - name: Commit seen_jobs.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento in seen_jobs.json, niente da committare."
+          else
+            git commit -m "[bot] Update seen_jobs.json $(date -u +%Y-%m-%dT%H:%M)Z"
+            git push
+          fi
+
+      - name: Upload log as artifact (debug)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-monitor-log-${{ github.run_id }}
+          path: job_monitor.log
+          retention-days: 7
