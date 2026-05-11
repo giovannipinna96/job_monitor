@@ -1104,8 +1104,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-nitor v4 - {len(sites)} siti - ogni {interval} min")
-    log.info("=" * 60)
 
     if args.test:
         try:
