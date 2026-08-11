@@ -83,10 +83,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "c740c450c534c081": {
-        "title": "Senior Treasury Operations",
-        "seen": "2026-05-11T23:58:21.025768"
-      },
       "484a6d2967f5dc1a": {
         "title": "Applied AI Architect, Industries",
         "seen": "2026-05-12T20:30:04.922026"
@@ -2706,28 +2702,16 @@
       "f41ad2b64b3c78d9": {
         "title": "Staff Software Engineer, Inference",
         "seen": "2026-08-10T23:33:07.855750"
+      },
+      "c9b05975ea70c2ab": {
+        "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+        "seen": "2026-08-11T01:28:39.887905"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "e5365ea76f1973ee": {
-        "title": "AI Deployment Engineer- Codex",
-        "seen": "2026-05-11T23:58:23.445190"
-      },
-      "3a159593d8ea9bb7": {
-        "title": "AI Deployment Engineer - Startups",
-        "seen": "2026-05-11T23:58:24.828111"
-      },
-      "ec9c1e2ed80ddc32": {
-        "title": "Protective Intelligence & Threat Analyst",
-        "seen": "2026-05-11T23:58:26.163962"
-      },
-      "948c5979642e0a65": {
-        "title": "Regional Client Partner, Ads Solutions",
-        "seen": "2026-05-11T23:58:26.164529"
-      },
       "7fc2fb6967284752": {
         "title": "AI Deployment Engineer | Codex",
         "seen": "2026-05-12T03:35:12.584618"
@@ -7327,64 +7311,24 @@
       "3b6cb4d0a63258f4": {
         "title": "Technical Commodity Manager - Robotics",
         "seen": "2026-08-10T23:33:18.282068"
+      },
+      "4ae85e8b6e54de22": {
+        "title": "Applied AI Engineer, Digital Natives",
+        "seen": "2026-08-11T01:28:43.912788"
+      },
+      "17d085064208703e": {
+        "title": "Federal Account Director, National Security",
+        "seen": "2026-08-11T01:28:45.416199"
+      },
+      "89b08e6fa0949260": {
+        "title": "Support Program Manager",
+        "seen": "2026-08-11T01:28:45.417451"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "ec088976ef002d66": {
-        "title": "Data & AI Platform Architect (Professional Services)",
-        "seen": "2026-05-11T23:58:28.256154"
-      },
-      "2ff2b1ef6fdc3ee9": {
-        "title": "Finance Manager",
-        "seen": "2026-05-11T23:58:29.599394"
-      },
-      "bf579cfbbb2ba711": {
-        "title": "Named Account Executive - Manufacturing, m/f/d",
-        "seen": "2026-05-11T23:58:29.600146"
-      },
-      "284e542a3842d56e": {
-        "title": "Resident Solutions Architect",
-        "seen": "2026-05-11T23:58:29.600319"
-      },
-      "520b7c3474c1ac64": {
-        "title": "Resident Solutions Architect - Financial Services",
-        "seen": "2026-05-11T23:58:29.600397"
-      },
-      "dd60e5b5d5b4dcf5": {
-        "title": "Resident Solutions Architect - Manufacturing",
-        "seen": "2026-05-11T23:58:29.600490"
-      },
-      "45f7c01f7e37eca1": {
-        "title": "Resident Solutions Architect - Public Sector",
-        "seen": "2026-05-11T23:58:29.600566"
-      },
-      "52d56c0ed755f4e3": {
-        "title": "Senior Software Engineer - Backend",
-        "seen": "2026-05-11T23:58:29.600693"
-      },
-      "12c00d26ba8aa2ee": {
-        "title": "Senior Software Engineer - Distributed Data Systems",
-        "seen": "2026-05-11T23:58:30.930227"
-      },
-      "e1f21ecc6eb46759": {
-        "title": "Senior Staff Software Engineer - Delta",
-        "seen": "2026-05-11T23:58:32.258813"
-      },
-      "542b5dcd210a37b4": {
-        "title": "Sr. Solutions Architect",
-        "seen": "2026-05-11T23:58:33.586717"
-      },
-      "695cbacf421b94dc": {
-        "title": "Sr. Technical Program Manager, Professional Services - Digital Native Business (DNB)",
-        "seen": "2026-05-11T23:58:33.587375"
-      },
-      "d98c78c5d34c0781": {
-        "title": "Strategic Core Account Executive - Discrete Manufacturing",
-        "seen": "2026-05-11T23:58:33.587676"
-      },
       "39f789091b477b16": {
         "title": "AI Engineer - FDE (Forward Deployed Engineer)",
         "seen": "2026-05-12T03:35:18.707316"
@@ -12348,16 +12292,52 @@
       "562b224d28f060ca": {
         "title": "Staff Software Engineer - IAM",
         "seen": "2026-08-10T23:33:34.247841"
+      },
+      "363b00db3acb0c18": {
+        "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+        "seen": "2026-08-11T01:28:47.506704"
+      },
+      "d75ce74fdc4e7a8f": {
+        "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+        "seen": "2026-08-11T01:28:49.012967"
+      },
+      "6796d0d7e813f6fc": {
+        "title": "Deployment Strategist",
+        "seen": "2026-08-11T01:28:49.013584"
+      },
+      "865f2fc8bf56d4de": {
+        "title": "Senior Software Engineer - Fullstack",
+        "seen": "2026-08-11T01:28:49.014201"
+      },
+      "9cedfcbb36d947fa": {
+        "title": "Senior Solutions Engineer",
+        "seen": "2026-08-11T01:28:50.506883"
+      },
+      "6d8df9522eb766a3": {
+        "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement",
+        "seen": "2026-08-11T01:28:52.017785"
+      },
+      "011c8cc93ffa4505": {
+        "title": "Staff Backend Software Engineer- (AI Platform)",
+        "seen": "2026-08-11T01:28:53.544901"
+      },
+      "93e1b3d429bcb2be": {
+        "title": "Staff Product Manager, AI Platform",
+        "seen": "2026-08-11T01:28:55.038952"
+      },
+      "fac9923224b25455": {
+        "title": "Staff Software Engineer - Backend",
+        "seen": "2026-08-11T01:28:56.641997"
+      },
+      "51e193b184f1e3c1": {
+        "title": "Staff Software Engineer - Distributed Data Systems",
+        "seen": "2026-08-11T01:28:58.141497"
       }
     }
   },
   "ee8f20ad1418": {
     "name": "BCG X",
     "jobs": {
-      "fc222e42981b7386": {
-        "title": "Forward Deployed AI Engineer, Canada - BCG X",
-        "seen": "2026-05-11T23:58:59.362168"
-      },
       "5aa67ac007f5d82a": {
         "title": "Forward Deployed AI Scientist, Mexico - BCG X",
         "seen": "2026-05-12T06:37:24.251469"
@@ -12383,22 +12363,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "e0d0523f10b9f0d0": {
-        "title": "Executive Director - Life Sciences Banking - Executive Director",
-        "seen": "2026-05-11T23:59:06.702272"
-      },
-      "eca7d1a3713ee398": {
-        "title": "Senior Product Associate Digital Payments - Transfers & EAM",
-        "seen": "2026-05-11T23:59:06.702452"
-      },
-      "60ffcf5d1d3d7acd": {
-        "title": "J.P. Morgan Wealth Management - Private Client Advisor - North Ft Myers",
-        "seen": "2026-05-11T23:59:06.702613"
-      },
-      "a2a2933fc6b88650": {
-        "title": "Product Manager II — Card Pricing Terms & Conditions Strategies",
-        "seen": "2026-05-11T23:59:06.702758"
-      },
       "4ff998449ef746e6": {
         "title": "Vice President, Product Manager, Payment Experiences & Services",
         "seen": "2026-05-12T03:36:03.235530"
@@ -68794,6 +68758,10 @@
       "1fba6c2b1e3e7ebf": {
         "title": "Associate Relationship Banker - Tschache Ln & N 19th Ave - Bozeman, MT",
         "seen": "2026-08-10T22:35:50.168280"
+      },
+      "1fa0f445dc5f8e86": {
+        "title": "U.S. Private Bank - AWM Program Analyst",
+        "seen": "2026-08-11T01:29:07.558619"
       }
     }
   },
@@ -69462,42 +69430,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "e8bc7327e8375327": {
-        "title": "Operations Program Manager, AWS Global Field Ops (GFO)",
-        "seen": "2026-05-12T00:00:30.421634"
-      },
-      "d873684214910069": {
-        "title": "Sr ServiceNow Application Development Engineer, Ops Tech Solutions",
-        "seen": "2026-05-12T00:00:31.802146"
-      },
-      "3ae6701255008c76": {
-        "title": "Software Development Manager, Rendering Foundations",
-        "seen": "2026-05-12T00:00:33.126434"
-      },
-      "89371a2381a21a9d": {
-        "title": "Principal ASIC Engineer, Annapurna Labs",
-        "seen": "2026-05-12T00:00:34.475311"
-      },
-      "613c4fcbbe1e08ac": {
-        "title": "PD Engineer, Annapurna Labs",
-        "seen": "2026-05-12T00:00:35.798514"
-      },
-      "d1ac3d8c155d34a7": {
-        "title": "Sr. Tech Business Development Mng, Alexa Brazil",
-        "seen": "2026-05-12T00:00:37.144231"
-      },
-      "61b8d88d30cde599": {
-        "title": "Program Manager II, Applied AI, Applied AI",
-        "seen": "2026-05-12T00:00:37.144525"
-      },
-      "4433574cbbde6d82": {
-        "title": "Embedded Software Engineer, Annapurna ML Software",
-        "seen": "2026-05-12T00:00:38.477767"
-      },
-      "e586c1e28d82e578": {
-        "title": "Sr. Manager , Annapurna Labs - Cloud Scale Machine Learning Acceleration Team",
-        "seen": "2026-05-12T00:00:39.796426"
-      },
       "f2696d9b757dd008": {
         "title": "Senior Solutions Architect, AWS Global Sales, Financial Services",
         "seen": "2026-05-12T03:37:36.131366"
@@ -104445,36 +104377,28 @@
       "a3077638cccc5c28": {
         "title": "Power Test Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo",
         "seen": "2026-08-10T23:33:58.642754"
+      },
+      "9fdd096409900841": {
+        "title": "Global Supply Manager",
+        "seen": "2026-08-11T01:29:20.471022"
+      },
+      "f556dfc7d56e666e": {
+        "title": "Solutions Architect, Fintech",
+        "seen": "2026-08-11T01:29:20.471114"
+      },
+      "961bdc3c18b171e0": {
+        "title": "Technical Infrastructure Program Manager, Data Center Planning Delivery",
+        "seen": "2026-08-11T01:29:20.471341"
+      },
+      "f36b406d026a5745": {
+        "title": "Pr ProServe Account Executive - Financial Services, NAMER FINANCIAL SERVICES",
+        "seen": "2026-08-11T01:29:21.994608"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "074349c7332baee7": {
-        "title": "Forward Deployed AI Accelerator, Marketing",
-        "seen": "2026-05-12T00:01:37.231657"
-      },
-      "e7d80c20e97fb04e": {
-        "title": "IT Support Engineer",
-        "seen": "2026-05-12T00:01:38.551327"
-      },
-      "e819a2feecdb6336": {
-        "title": "Manager, Sales Development",
-        "seen": "2026-05-12T00:01:39.880427"
-      },
-      "cc9dc92a8a17b651": {
-        "title": "Product Marketing Manager, Apps and Ecosystem",
-        "seen": "2026-05-12T00:01:39.881234"
-      },
-      "9147c6b5a6f132df": {
-        "title": "Product Marketing Manager, Growth",
-        "seen": "2026-05-12T00:01:39.881319"
-      },
-      "f65ed1ca16140612": {
-        "title": "Sales Development Representative",
-        "seen": "2026-05-12T00:01:39.881495"
-      },
       "315cf8932fb04596": {
         "title": "Backend Engineer, Core Technology",
         "seen": "2026-05-12T03:38:36.161860"
@@ -108346,6 +108270,10 @@
       "1e75bf83ba650304": {
         "title": "Account Executive, Product Sales, Billing (Hunter)",
         "seen": "2026-08-10T23:34:06.153386"
+      },
+      "b0f3058dcf5e2d84": {
+        "title": "Enterprise Account Executive - Hunter",
+        "seen": "2026-08-11T01:29:28.083528"
       }
     }
   },
@@ -123464,6 +123392,10 @@
       "9d5ed25b5904f494": {
         "title": "Development Expert for SAP Cloud Infrastructure (Bratislava/Kosice)",
         "seen": "2026-08-10T22:36:36.394369"
+      },
+      "2535f03cb0e90afa": {
+        "title": "Services Sales Executive",
+        "seen": "2026-08-11T01:29:49.099267"
       }
     }
   },
@@ -129340,6 +129272,10 @@
       "8a3e86358f584728": {
         "title": "Software Engineer II - Developer Experience",
         "seen": "2026-08-10T17:01:14.276384"
+      },
+      "645bd3ca33dd30d9": {
+        "title": "Account Manager, São Paulo",
+        "seen": "2026-08-11T01:30:13.114392"
       }
     }
   },
