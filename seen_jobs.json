@@ -83,14 +83,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "d7ee80e52542fb79": {
-        "title": "Incident Response Manager, Enforcement",
-        "seen": "2026-05-13T23:58:28.578959"
-      },
-      "a7b97158dbd7778b": {
-        "title": "Network Engineer",
-        "seen": "2026-05-13T23:58:28.579139"
-      },
       "ff72ab00eed91f6a": {
         "title": "Product Support Manager",
         "seen": "2026-05-14T03:43:12.411335"
@@ -7563,16 +7555,24 @@
       "bd7f9767c661d35f": {
         "title": "Partner Director, McKinsey Alliance",
         "seen": "2026-08-12T22:38:21.187487"
+      },
+      "cc4d486c3f07a0a6": {
+        "title": "Forward Deployed Engineer - Sydney",
+        "seen": "2026-08-13T01:48:57.162074"
+      },
+      "62a0565baf7f546c": {
+        "title": "Strategic Sourcing Manager, Data Center Infrastructure: Electrical",
+        "seen": "2026-08-13T01:48:58.585292"
+      },
+      "135f6137399095a8": {
+        "title": "Support Delivery Lead, EMEA - Dublin",
+        "seen": "2026-08-13T01:48:59.915839"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "1f990439bb409392": {
-        "title": "Solutions Architect - Public Sector",
-        "seen": "2026-05-13T23:58:34.748461"
-      },
       "c683eb1d8f7481cf": {
         "title": "Enterprise Account Executive - FSI",
         "seen": "2026-05-14T03:43:18.515548"
@@ -12411,18 +12411,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "57b241d72086271a": {
-        "title": "Product Manager -  Loan Booking",
-        "seen": "2026-05-13T23:59:03.174966"
-      },
-      "9dcf664328e3e729": {
-        "title": "Associate Relationship Banker - Bergen Park, Evergreen CO - Metro Southwest",
-        "seen": "2026-05-13T23:59:03.175260"
-      },
-      "2d8eb0500d19e45a": {
-        "title": "Private Client Banker - Bergen Park, Evergreen CO - Metro Southwest",
-        "seen": "2026-05-13T23:59:03.175340"
-      },
       "fd41c6ffe86f8bf1": {
         "title": "Quick Deposit UAT Senior Associate",
         "seen": "2026-05-14T03:43:47.100848"
@@ -68342,6 +68330,14 @@
       "787296b1e212c0fe": {
         "title": "Applied AI, Product Manager-Payments-Vice President",
         "seen": "2026-08-12T23:39:06.105948"
+      },
+      "9b06298b5e68208e": {
+        "title": "Securities Services - Client Account Services - Analyst (Fixed-term Contract)",
+        "seen": "2026-08-13T01:49:09.990846"
+      },
+      "133945227e08b718": {
+        "title": "Part Time Associate Banker West Hollywood Hills (30 Hours)",
+        "seen": "2026-08-13T01:49:09.990948"
       }
     }
   },
@@ -68944,32 +68940,11 @@
   },
   "aea130f690fc": {
     "name": "Snowflake",
-    "jobs": {
-      "9141a13bea9b8be1": {
-        "title": "Patent Analyst",
-        "seen": "2026-05-14T00:00:25.473765"
-      }
-    }
+    "jobs": {}
   },
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "c6197e4f7cae7780": {
-        "title": "Area Manager",
-        "seen": "2026-05-14T00:00:29.107156"
-      },
-      "fdcce6913169e2e9": {
-        "title": "Data Center Technician (Night Shift), DCC Communities",
-        "seen": "2026-05-14T00:00:29.107273"
-      },
-      "c786a069c1d5b894": {
-        "title": "Data Center Technician",
-        "seen": "2026-05-14T00:00:30.602502"
-      },
-      "070ce5e51fbaae7f": {
-        "title": "Software Development Engineer, Software Defined Network Controller, Amazon LEO",
-        "seen": "2026-05-14T00:00:32.067698"
-      },
       "2c0b2c86a927edb7": {
         "title": "Strategic CAE Leader",
         "seen": "2026-05-14T03:45:10.250548"
@@ -103965,6 +103940,30 @@
       "df9bfc77498f240e": {
         "title": "Sr. Vendor Manager, Canada Fashion",
         "seen": "2026-08-12T23:39:27.457179"
+      },
+      "001545530c2daaa1": {
+        "title": "Area Manager",
+        "seen": "2026-08-13T01:49:22.777390"
+      },
+      "a611989263704381": {
+        "title": "Applied Scientist , Sponsored Products",
+        "seen": "2026-08-13T01:49:22.777522"
+      },
+      "1cf06b55d7de2041": {
+        "title": "Executive Assistant , Senior Talent & Transformation (STT)",
+        "seen": "2026-08-13T01:49:22.777616"
+      },
+      "c12c4b57368c7da2": {
+        "title": "Customer Solutions Manager, Enterprise ACS, Energy & ECRT",
+        "seen": "2026-08-13T01:49:22.777713"
+      },
+      "47e7179c8a8a57f9": {
+        "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
+        "seen": "2026-08-13T01:49:22.777862"
+      },
+      "c676ddeaeb0f9050": {
+        "title": "Sr. Strategic Commodity Spec. , Amazon Prime Air - Marketing, Planning, Supply Chain, Data & Annotation (MPSD&A)",
+        "seen": "2026-08-13T01:49:24.114213"
       }
     }
   },
@@ -107842,6 +107841,18 @@
       "2710ac5c829e2e4c": {
         "title": "Engineering Manager, Product (Privy)",
         "seen": "2026-08-12T22:38:57.877177"
+      },
+      "fec4d72e7b513c90": {
+        "title": "Account Executive, Startups (Grower)",
+        "seen": "2026-08-13T01:49:31.588895"
+      },
+      "0c375a3d562c32d2": {
+        "title": "Engineering Manager, Infrastructure",
+        "seen": "2026-08-13T01:49:31.589221"
+      },
+      "6dd2a032a7343d81": {
+        "title": "Staff Software Engineer, Dashboard",
+        "seen": "2026-08-13T01:49:33.051096"
       }
     }
   },
@@ -108373,10 +108384,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "8fa62fd9010241bb": {
-        "title": "Associate Sustainability Specialist for IT Asset Disposition (ITAD) & Hardware Remarketing (1 year)",
-        "seen": "2026-05-14T00:02:54.881256"
-      },
       "8b31bdd63287a5bf": {
         "title": "Are You Interested in a Digital Sales Development Executive Role at Our Digital Hub in Barcelona?",
         "seen": "2026-05-14T03:47:33.925690"
@@ -122704,6 +122711,10 @@
       "38351a166caed396": {
         "title": "Trainee Program - SAP Next Gen - SAP Academy for Customer Success - Brazil",
         "seen": "2026-08-12T21:43:42.214709"
+      },
+      "7e42ad5cf2df4804": {
+        "title": "People & Culture Service Associate",
+        "seen": "2026-08-13T01:49:50.633960"
       }
     }
   },
@@ -126335,10 +126346,6 @@
   "7c6062845910": {
     "name": "Replit",
     "jobs": {
-      "e60302ac34abfb9b": {
-        "title": "Staff Software Engineer, Replit Cloud",
-        "seen": "2026-05-14T00:03:59.372212"
-      },
       "3e8591e41d6123be": {
         "title": "Data Scientist, People",
         "seen": "2026-05-19T20:50:54.230584"
@@ -130387,6 +130394,14 @@
       "9a4780b756d09fee": {
         "title": "Technical Program Manager 4 - Enterprise Engineering",
         "seen": "2026-08-12T21:44:35.302862"
+      },
+      "221f284dab52d87a": {
+        "title": "Media Solutions & Planning Manager (UCAN - Market Planning & Operations)",
+        "seen": "2026-08-13T01:50:24.560231"
+      },
+      "d6c121960f0a1ef1": {
+        "title": "Technical Project Manager - Netflix Animation Studios",
+        "seen": "2026-08-13T01:50:24.560331"
       }
     }
   },
