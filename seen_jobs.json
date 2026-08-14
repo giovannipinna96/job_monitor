@@ -79,10 +79,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "0424e4c1ec1f6630": {
-        "title": "Employment Counsel",
-        "seen": "2026-05-15T22:30:52.418527"
-      },
       "3f9108896695aec4": {
         "title": "Enterprise Account Executive",
         "seen": "2026-05-16T02:47:52.458557"
@@ -2910,6 +2906,10 @@
       "11b54518818f459b": {
         "title": "Strategic Business Development Lead",
         "seen": "2026-08-14T22:20:17.754127"
+      },
+      "406bd66092522bc4": {
+        "title": "IT Support Engineer, Application Administrator",
+        "seen": "2026-08-14T22:49:29.360942"
       }
     }
   },
@@ -7659,6 +7659,14 @@
       "60ae70041bed71ac": {
         "title": "Integrated Marketing Manager, Brand & Customer",
         "seen": "2026-08-14T19:46:18.372513"
+      },
+      "6a659a35d6f14635": {
+        "title": "Professional Services Commercial Lead",
+        "seen": "2026-08-14T22:49:33.340028"
+      },
+      "bc13082f9d155f06": {
+        "title": "Senior Counsel, AI Product (Enterprise/API)",
+        "seen": "2026-08-14T22:49:33.340239"
       }
     }
   },
@@ -12516,6 +12524,14 @@
       "d6bac764202d8bf5": {
         "title": "Staff Software Engineer - AI Research Infrastructure",
         "seen": "2026-08-14T21:51:29.688263"
+      },
+      "8ef671b5b8805721": {
+        "title": "Specialist Solutions Architect - AI/ML",
+        "seen": "2026-08-14T22:49:36.873216"
+      },
+      "0be2d20285fdb395": {
+        "title": "Sr. Manager, Developer Relations - Databricks",
+        "seen": "2026-08-14T22:49:38.248668"
       }
     }
   },
@@ -12535,34 +12551,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "dea9265a366f1d11": {
-        "title": "D&PS Finance Management Associate —Wholesale Lending Services",
-        "seen": "2026-05-15T22:31:24.883178"
-      },
-      "5584f0cbfa6ab751": {
-        "title": "Part Time Associate Banker Chicago South West (30 Hours)",
-        "seen": "2026-05-15T22:31:24.883272"
-      },
-      "e8bf63296d526396": {
-        "title": "Design Program Manager",
-        "seen": "2026-05-15T22:31:24.883341"
-      },
-      "9208721cf3e2ed0f": {
-        "title": "Quantitative Trading & Research - SPG - Associate",
-        "seen": "2026-05-15T22:31:24.883446"
-      },
-      "409d617f6d840011": {
-        "title": "Full Time (40 Hours) Associate Banker, Studio City Branch, Studio City, CA",
-        "seen": "2026-05-15T22:31:26.294534"
-      },
-      "879284e27706b2f2": {
-        "title": "Communications Manager Auto",
-        "seen": "2026-05-15T22:31:26.295271"
-      },
-      "7719323822bcc9d4": {
-        "title": "Part Time (20 Hours) Associate Banker, Grandville Branch, Grandville, MI",
-        "seen": "2026-05-15T22:31:26.295456"
-      },
       "93edd01797daa7d8": {
         "title": "AI/ML Software Engineer III- Java / Python",
         "seen": "2026-05-15T23:32:35.712331"
@@ -68737,38 +68725,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "b298adb53377204b": {
-        "title": "Sr. Data Scientist, Enterprise Security Products",
-        "seen": "2026-05-15T22:32:50.008981"
-      },
-      "f2dd6941f1dcd66b": {
-        "title": "Data Center Technician",
-        "seen": "2026-05-15T22:32:51.384484"
-      },
-      "139fb32b4cc74fb1": {
-        "title": "Hardware Development Engineer",
-        "seen": "2026-05-15T22:32:52.710670"
-      },
-      "032d8bbac13056c5": {
-        "title": "Data Center Engineering Operations Technician , DCEO Engr 4",
-        "seen": "2026-05-15T22:32:54.050185"
-      },
-      "6cc84c7baa2f82ad": {
-        "title": "Executive Assistant, Amazon Ads, Amazon Ads, Amazon Ads",
-        "seen": "2026-05-15T22:32:55.368508"
-      },
-      "961d357024ed2d38": {
-        "title": "Satellite Hardware Test Engineer, Integrated Vehicle Test Team",
-        "seen": "2026-05-15T22:32:55.368813"
-      },
-      "63870b7c742f12c5": {
-        "title": "Analista Operações Logísticas, AMZL",
-        "seen": "2026-05-15T22:32:56.684731"
-      },
-      "0efa3c7cdaa43c27": {
-        "title": "Sr. Advertising Sales - Account Executive, Ads International Expansion",
-        "seen": "2026-05-15T22:32:56.685214"
-      },
       "577e826aac113881": {
         "title": "Business Intelligence Engineer, Amazon",
         "seen": "2026-05-15T23:34:00.871242"
@@ -103768,16 +103724,20 @@
       "69aac696822ba229": {
         "title": "Engagement Manager, AWS Professional Services",
         "seen": "2026-08-14T22:20:45.283064"
+      },
+      "8ddd5e86c50c14c3": {
+        "title": "Senior Engagement Manager, Professional Services, AWSI HCLS",
+        "seen": "2026-08-14T22:50:00.946148"
+      },
+      "944d9cdbc3302e41": {
+        "title": "SAP Plant Maintenance Architect, Project LEO",
+        "seen": "2026-08-14T22:50:00.946288"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "d228fe331b495f08": {
-        "title": "KYB/KYC Operations Associate, Bridge (CDMX)",
-        "seen": "2026-05-15T22:33:53.865207"
-      },
       "bd34f435ee9db4ea": {
         "title": "Campaign Operations Manager",
         "seen": "2026-05-18T01:34:33.630515"
@@ -128791,10 +128751,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "20783614eb241d34": {
-        "title": "Executive Assistant, Business Affairs, Sports",
-        "seen": "2026-05-15T22:38:39.655847"
-      },
       "d37e8eea075f3ccb": {
         "title": "Senior Manager, Program Management, Design",
         "seen": "2026-05-16T02:56:34.313926"
@@ -129842,6 +129798,10 @@
       "257b845bc5d6b59e": {
         "title": "Analyst, Content and Production Clearance, Intellectual Property",
         "seen": "2026-08-14T16:51:31.894112"
+      },
+      "4499b95dfa841378": {
+        "title": "Manager, Franchise Planning UK - FTC",
+        "seen": "2026-08-14T22:51:01.050397"
       }
     }
   },
