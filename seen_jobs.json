@@ -2990,16 +2990,16 @@
       "c53f229ead9beef6": {
         "title": "Regional Safety & Security Manager, Americas",
         "seen": "2026-08-17T20:24:02.847358"
+      },
+      "a68e1cd74959cd68": {
+        "title": "Enterprise Intelligence Specialist",
+        "seen": "2026-08-17T20:54:02.728800"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "dc16fc4f5e4b0696": {
-        "title": "Commercial Compute & Ecosystem Strategy",
-        "seen": "2026-05-18T20:52:59.447864"
-      },
       "97b55d960513632e": {
         "title": "Sales Manager, Startups",
         "seen": "2026-05-18T22:01:41.754797"
@@ -7811,6 +7811,10 @@
       "68308df2919931bf": {
         "title": "Senior Operations Analyst, User Safety & Risk Operations",
         "seen": "2026-08-17T19:51:08.660445"
+      },
+      "3dc378fedd296432": {
+        "title": "Technical Program Manager, AI Accelerator Software",
+        "seen": "2026-08-17T20:54:05.143422"
       }
     }
   },
@@ -12698,50 +12702,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "189ae293e7ddc029": {
-        "title": "Product Delivery Associate - System Configurations",
-        "seen": "2026-05-18T20:53:09.344359"
-      },
-      "0d1a69edf3c96233": {
-        "title": "Relationship Banker - Portland South Market - West Linn, OR",
-        "seen": "2026-05-18T20:53:09.344495"
-      },
-      "ca3f5dfea6a59e6d": {
-        "title": "Experience Design Vice President",
-        "seen": "2026-05-18T20:53:09.344553"
-      },
-      "9f483049e15d57ff": {
-        "title": "Executive Administrative Assistant",
-        "seen": "2026-05-18T20:53:09.344633"
-      },
-      "85930f047b103205": {
-        "title": "Part Time (30 Hours) Associate Banker - New Build- Sylvania Central Ave, Toledo, OH",
-        "seen": "2026-05-18T20:53:09.344742"
-      },
-      "fae40d6aa0b09b16": {
-        "title": "Computational Linguist, Generative AI - Sr. Associate",
-        "seen": "2026-05-18T20:53:09.344804"
-      },
-      "951b9d282decf580": {
-        "title": "Loan Origination Associate I",
-        "seen": "2026-05-18T20:53:10.740928"
-      },
-      "e3b4142c7bfe9a74": {
-        "title": "Control Manager Vice President",
-        "seen": "2026-05-18T20:53:10.741181"
-      },
-      "b3b53583e39852ce": {
-        "title": "Technical Security Product Delivery Manager-Network Segmentation",
-        "seen": "2026-05-18T20:53:10.741261"
-      },
-      "86e64cec975f3ff4": {
-        "title": "Product Manager - BAT",
-        "seen": "2026-05-18T20:53:10.741312"
-      },
-      "697c69f014d11ec7": {
-        "title": "Executive Director-Chase Home Lending – Partnership &  American Dream Marketing Strategy",
-        "seen": "2026-05-18T20:53:10.741449"
-      },
       "85e02172374b7f4e": {
         "title": "Part Time Associate Banker San Fernando Valley South Blvd (30 hours)",
         "seen": "2026-05-18T22:01:53.588360"
@@ -68161,6 +68121,14 @@
       "50fa6afac443e38e": {
         "title": "Chief Data & Analytics Office- Data Privacy Governance- Executive Director",
         "seen": "2026-08-17T20:24:17.357748"
+      },
+      "bd4a14ec55556826": {
+        "title": "Software Engineer II - Data Platform Engineer Python/AWS",
+        "seen": "2026-08-17T20:54:20.893217"
+      },
+      "83e4b75c38631ae9": {
+        "title": "Part Time (30 Hours) Associate Banker, Seminole Shoppes at Atlantic, Neptune Beach, FL",
+        "seen": "2026-08-17T20:54:22.221082"
       }
     }
   },
@@ -68780,54 +68748,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "3c0d1b3f220d7100": {
-        "title": "Sr Opto Mechanical Engineer, Amazon Leo",
-        "seen": "2026-05-18T20:53:24.746547"
-      },
-      "214b596f0cee290c": {
-        "title": "Sales Manager, Sales",
-        "seen": "2026-05-18T20:53:26.069438"
-      },
-      "5ee6d6887b187fa1": {
-        "title": "Strategic Partner Manager",
-        "seen": "2026-05-18T20:53:26.069716"
-      },
-      "80ef31d5bd914e98": {
-        "title": "Vendor Maintenance Program Manager, Business Operations, Global Connectivity Infrastructure Development (GCID), Business Operations, Global Connectivity Infrastructure Development (GCID)",
-        "seen": "2026-05-18T20:53:26.069796"
-      },
-      "f8e749f74b026ce7": {
-        "title": "Real Estate Development Manager, AWS Data Center Supply Solutions",
-        "seen": "2026-05-18T20:53:27.389109"
-      },
-      "ff42bbe850078286": {
-        "title": "Data Center Technician (Night Shift)",
-        "seen": "2026-05-18T20:53:28.767562"
-      },
-      "1cf7a8972ead68e1": {
-        "title": "DCEO Chief Engineer, Data Center Engineering Operations",
-        "seen": "2026-05-18T20:53:30.178068"
-      },
-      "1000c4dd1100972e": {
-        "title": "Principal Product Manager , Fauna",
-        "seen": "2026-05-18T20:53:31.481382"
-      },
-      "347b0d62ce6080d8": {
-        "title": "Data Center Operations Tech IV",
-        "seen": "2026-05-18T20:53:31.481660"
-      },
-      "0648a2216a3b8280": {
-        "title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-        "seen": "2026-05-18T20:53:32.793322"
-      },
-      "aa8dc2e896955754": {
-        "title": "Component Recovery Specialist, Value Recovery",
-        "seen": "2026-05-18T20:53:34.113402"
-      },
-      "7c5b989fc55d285e": {
-        "title": "FA Capacity Planning, re:Cycle Reverse Logistics",
-        "seen": "2026-05-18T20:53:34.113694"
-      },
       "812a218641f7ac70": {
         "title": "HR Partner (Fix Term Contract)",
         "seen": "2026-05-18T22:02:10.656349"
@@ -103867,20 +103787,28 @@
       "029b921b70ddcf7e": {
         "title": "Security Engineer III - AMZ9971078",
         "seen": "2026-08-17T20:24:31.541809"
+      },
+      "2bf10da111e985bb": {
+        "title": "InfraDelivery Technician",
+        "seen": "2026-08-17T20:54:35.529137"
+      },
+      "f952083595a1f541": {
+        "title": "Sr. Solutions Architect- Bilingual, Alexa International",
+        "seen": "2026-08-17T20:54:35.529380"
+      },
+      "3fd0504624e7fbb2": {
+        "title": "Senior Mechatronics & Robotics Technician, RME",
+        "seen": "2026-08-17T20:54:36.848827"
+      },
+      "0cc4da8ed050f39e": {
+        "title": "Mechatronics & Robotics Tech",
+        "seen": "2026-08-17T20:54:36.849011"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "3393461bc60fc94e": {
-        "title": "Full Stack Engineer, Support Experience",
-        "seen": "2026-05-18T20:53:40.526235"
-      },
-      "9a7f22373d05ab3f": {
-        "title": "Staff Full Stack Engineer - Support Experience",
-        "seen": "2026-05-18T20:53:41.846087"
-      },
       "0c289b2b938e86f3": {
         "title": "Account Executive, SMB (New Business)",
         "seen": "2026-05-18T23:36:53.179131"
@@ -107824,6 +107752,14 @@
       "1b82f7c904a2bde3": {
         "title": "Implementation Specialist, GTM Accelerate",
         "seen": "2026-08-17T19:51:49.427569"
+      },
+      "ae71e10a42e9fa0b": {
+        "title": "Program Manager, Performance and Talent Planning",
+        "seen": "2026-08-17T20:54:43.000187"
+      },
+      "7dff790362fece88": {
+        "title": "Sales Manager, Funded Startups",
+        "seen": "2026-08-17T20:54:43.000313"
       }
     }
   },
@@ -108355,14 +108291,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "d559027e5f9b09ff": {
-        "title": "SAP Basis Technology Senior Consultant - EMEA North",
-        "seen": "2026-05-18T20:53:58.931562"
-      },
-      "1fe91dcc48b80ca5": {
-        "title": "SAP iXp Intern - Operational Excellence & AI Automation",
-        "seen": "2026-05-18T20:53:58.931638"
-      },
       "0d2ff5b765c53521": {
         "title": "Product Marketing Consultant",
         "seen": "2026-05-18T22:02:48.893695"
@@ -121738,6 +121666,10 @@
       "69eb1d3d8e91fbec": {
         "title": "SAP iXp Intern- Support Engineer Fieldglass",
         "seen": "2026-08-17T17:56:36.016970"
+      },
+      "98f0a01f4fead4c6": {
+        "title": "SAP iXp Intern - Operations, Employee Engagement & Ecosystem Program Support [Palo Alto, CA]",
+        "seen": "2026-08-17T20:54:59.287735"
       }
     }
   },
@@ -121748,10 +121680,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "44f9abf324145d40": {
-        "title": "Equity Research Analyst, Vice President",
-        "seen": "2026-05-18T20:54:07.370286"
-      },
       "ae6d70ded5913c34": {
         "title": "Associate, Business Audit",
         "seen": "2026-05-18T22:02:57.482066"
@@ -125291,6 +125219,10 @@
       "05af73e58546e620": {
         "title": "Vice President, GIP Mid-Market Funds",
         "seen": "2026-08-17T20:25:07.556973"
+      },
+      "bbf2fa11199b45b8": {
+        "title": "Investment Associate, Infrastructure Secondaries & Co-Investments - Global Infrastructure Partners",
+        "seen": "2026-08-17T20:55:08.158199"
       }
     }
   },
