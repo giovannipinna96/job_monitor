@@ -79,10 +79,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "1a0c18a487b60e7d": {
-        "title": "Data Scientist, Developer Productivity",
-        "seen": "2026-05-19T07:01:35.829169"
-      },
       "f18d331f00cf2b34": {
         "title": "Applied AI Architect, Partnerships",
         "seen": "2026-05-19T10:47:42.080266"
@@ -3016,10 +3012,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "93a14f2711ccf23f": {
-        "title": "VC Partnerships Manager",
-        "seen": "2026-05-19T07:01:39.880864"
-      },
       "379a2b6bdf8482ba": {
         "title": "Analytics Engineer",
         "seen": "2026-05-19T16:50:00.703320"
@@ -12718,58 +12710,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "861954c7d1afa72c": {
-        "title": "Manager of Software Engineering - Java, AWS",
-        "seen": "2026-05-19T07:01:49.766266"
-      },
-      "5d8148b111b96708": {
-        "title": "Experience Design Vice President",
-        "seen": "2026-05-19T07:01:51.219074"
-      },
-      "6d5edbe935270b4a": {
-        "title": "Process Improvement Senior Associate - Training Data and Technology",
-        "seen": "2026-05-19T07:01:51.219352"
-      },
-      "55f8f3f74b5f928a": {
-        "title": "Learning Experience Designer - Talent Enablement (Instructional Designer)",
-        "seen": "2026-05-19T07:01:52.704830"
-      },
-      "c94ee50a353a992b": {
-        "title": "Executive Director - Securities Services Reconciliations Product Delivery",
-        "seen": "2026-05-19T07:01:52.705461"
-      },
-      "70e1c7bd9a523a1e": {
-        "title": "Automation & Data - Analyst",
-        "seen": "2026-05-19T07:01:52.705529"
-      },
-      "eda4bc8e5792775c": {
-        "title": "Client Onboarding Manager - Implementation Manager",
-        "seen": "2026-05-19T07:01:54.152762"
-      },
-      "95af44edd2023391": {
-        "title": "Lead Security Engineer - Java, AWS",
-        "seen": "2026-05-19T07:01:54.153376"
-      },
-      "10206982e52a1582": {
-        "title": "Head of Compliance - PT JPMorgan Sekuritas Indonesia - Vice President",
-        "seen": "2026-05-19T07:01:55.597293"
-      },
-      "92ef1eee535f5e07": {
-        "title": "Fund Servicing Associate I",
-        "seen": "2026-05-19T07:01:55.597893"
-      },
-      "fb84f3a503be0b2d": {
-        "title": "Fund Servicing Associate",
-        "seen": "2026-05-19T07:01:55.597941"
-      },
-      "5d57a8b9bce7c757": {
-        "title": "Financial Planning & Analysis- Associate",
-        "seen": "2026-05-19T07:01:55.598002"
-      },
-      "28f1c60e586535f1": {
-        "title": "Commercial & Investment Bank – Local Markets Sales (Corporate FX & Rates) – Analyst",
-        "seen": "2026-05-19T07:01:55.598085"
-      },
       "3adb6d89cf3cf5b4": {
         "title": "Global Investment Banking- Infrastructure Finance and Advisory -Analyst/ Associate",
         "seen": "2026-05-19T10:47:57.015915"
@@ -68189,6 +68129,10 @@
       "e0198cb9b48966cd": {
         "title": "Payments Industry Solutions Manager - Vice President",
         "seen": "2026-08-18T06:39:38.044380"
+      },
+      "6396646f81295695": {
+        "title": "Associate - Compliance and Ops Risk Test Sr Specialist",
+        "seen": "2026-08-18T07:36:19.195790"
       }
     }
   },
@@ -68808,50 +68752,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "df8f4c135d17ca7e": {
-        "title": "Software Development Engineer III, HST Health Foundation",
-        "seen": "2026-05-19T07:02:10.506449"
-      },
-      "d10962a65466264d": {
-        "title": "Associate Learning & Development Trainer, Associate Learning & Development",
-        "seen": "2026-05-19T07:02:11.956354"
-      },
-      "c8119d26d358afe2": {
-        "title": "Associate Learning & Development Trainer",
-        "seen": "2026-05-19T07:02:13.429311"
-      },
-      "bd240e7d42d3f1dd": {
-        "title": "Sr. Manager, Learning Programs, AU Learning Programs",
-        "seen": "2026-05-19T07:02:14.890453"
-      },
-      "6ac10c1d3359da2a": {
-        "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
-        "seen": "2026-05-19T07:02:14.890693"
-      },
-      "810e2bc3803ce62c": {
-        "title": "AI Solution Architect",
-        "seen": "2026-05-19T07:02:16.352580"
-      },
-      "5101ca5cfd32f86d": {
-        "title": "Sr. Software Development Engineer, Amazon Quick",
-        "seen": "2026-05-19T07:02:17.824301"
-      },
-      "c7755faaa8ad130a": {
-        "title": "Data Center Logistics Specialist, DCC Communities",
-        "seen": "2026-05-19T07:02:19.299541"
-      },
-      "ee8b5dd66ce7ddac": {
-        "title": "Embedded Software Engineer II , Connectivity Systems at eero",
-        "seen": "2026-05-19T07:02:20.769942"
-      },
-      "bdf6c06761fb6294": {
-        "title": "Manager Finance Management",
-        "seen": "2026-05-19T07:02:22.222841"
-      },
-      "cae8c5b11eca8668": {
-        "title": "Program Manager Retail , Global Vendor Credit Note",
-        "seen": "2026-05-19T07:02:22.223025"
-      },
       "bba4a41703265d4a": {
         "title": "Brand Specialist - Italian",
         "seen": "2026-05-19T10:48:23.250461"
@@ -103899,16 +103799,36 @@
       "3f51646df823df0d": {
         "title": "Finance Manager, Accounting, EMEA Accounting Policy",
         "seen": "2026-08-18T06:39:52.744307"
+      },
+      "e0ead885376d6d72": {
+        "title": "Operations Program Manager",
+        "seen": "2026-08-18T07:36:34.102720"
+      },
+      "f3f3fd4bb5064552": {
+        "title": "L&D Specialist UAE National",
+        "seen": "2026-08-18T07:36:34.102781"
+      },
+      "d5f02b170aa70561": {
+        "title": "Koordinator/in für Arbeitssicherheit",
+        "seen": "2026-08-18T07:36:34.102877"
+      },
+      "9fca5779b67263e5": {
+        "title": "Principal ABM Marketing Manager, Field Marketing-APJ",
+        "seen": "2026-08-18T07:36:34.103027"
+      },
+      "a1f61bfdac69e4af": {
+        "title": "Account Executive, ANZ Public Sector",
+        "seen": "2026-08-18T07:36:34.103116"
+      },
+      "262eff40700eb845": {
+        "title": "【Class of 2029／Internship】Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
+        "seen": "2026-08-18T07:36:34.103361"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "e9c50d2a88d219b7": {
-        "title": "Product Designer, Terminal",
-        "seen": "2026-05-19T07:02:29.850083"
-      },
       "79a5c9765c5bf088": {
         "title": "Network Solution Specialist",
         "seen": "2026-05-19T16:51:33.572867"
@@ -121596,26 +121516,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "bba2b24ac7dca13a": {
-        "title": "APAC Finance Controller, Associate",
-        "seen": "2026-05-19T07:02:56.908881"
-      },
-      "b8dc40af7ad229e6": {
-        "title": "Full Stack Engineer, Aladdin Product Engineering CXE, Associate",
-        "seen": "2026-05-19T07:02:56.908938"
-      },
-      "3f65e80de310c7b0": {
-        "title": "Application Engineer (Java, Python), Aladdin Engineering, Associate",
-        "seen": "2026-05-19T07:02:58.396170"
-      },
-      "8f191be4edba4ac6": {
-        "title": "Vice President, Application Engineer",
-        "seen": "2026-05-19T07:02:59.842520"
-      },
-      "42798974c9ef0f59": {
-        "title": "Principal, Capital Formation & Solutions, Infrastructure Solutions",
-        "seen": "2026-05-19T07:03:01.292861"
-      },
       "7c4027e5e78b7d16": {
         "title": "Head of APAC Payroll and Global Employee Payments",
         "seen": "2026-05-19T10:49:03.293258"
@@ -125135,6 +125035,10 @@
       "8e3a8c24a6acdfa9": {
         "title": "Vice President, Financial Institutions Group (FIG), Hong Kong",
         "seen": "2026-08-18T06:40:25.748508"
+      },
+      "f698d975ec3e74cd": {
+        "title": "Fund Accounting & Oversight, Tech & Ops, Associate",
+        "seen": "2026-08-18T07:37:06.636559"
       }
     }
   },
@@ -125771,10 +125675,6 @@
   "479a3d3a21de": {
     "name": "Booking.com",
     "jobs": {
-      "3111c0a0ff173cc0": {
-        "title": "Machine Learning Scientist II - Benefits &  Pricing Track",
-        "seen": "2026-05-19T07:03:16.384211"
-      },
       "0ca3845d336cc4bb": {
         "title": "Account Manager - Bangalore",
         "seen": "2026-05-19T10:49:19.554372"
@@ -129217,6 +129117,14 @@
       "56e394c67438e729": {
         "title": "Senior Manager, Communications - India",
         "seen": "2026-08-18T05:57:02.330309"
+      },
+      "c6817bc0e036cbf0": {
+        "title": "Administrative Assistant, Talent EMEA",
+        "seen": "2026-08-18T07:37:34.436224"
+      },
+      "7ca677a8a733e1c5": {
+        "title": "Analyst, UK Tax",
+        "seen": "2026-08-18T07:37:34.436310"
       }
     }
   },
