@@ -3032,14 +3032,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "385fd9c4b9c581d6": {
-        "title": "3D Printing Lab Technician, Robotics",
-        "seen": "2026-05-19T22:15:34.787963"
-      },
-      "dafe65e2e6171b31": {
-        "title": "Software Engineer, Enterprise AI Platform",
-        "seen": "2026-05-19T22:15:34.788887"
-      },
       "85e6a3c80060c04a": {
         "title": "Director, Certifications",
         "seen": "2026-05-20T03:27:14.746720"
@@ -7881,14 +7873,6 @@
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "d00e60725109dadb": {
-        "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
-        "seen": "2026-05-19T22:15:38.541416"
-      },
-      "e0c344ecddb11f57": {
-        "title": "Sr. Delivery Solutions Architect - High-Tech & Manufacturing",
-        "seen": "2026-05-19T22:15:38.542070"
-      },
       "10e30d355d459366": {
         "title": "Sr. Delivery Solutions Architect",
         "seen": "2026-05-19T23:40:21.194065"
@@ -12782,86 +12766,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "407a8b0d528bb3a4": {
-        "title": "Control Management - Firmwide Control Programs – Associate",
-        "seen": "2026-05-19T22:15:46.833092"
-      },
-      "61a77427a10340fa": {
-        "title": "Part Time Associate Banker Ventura Valley West (30 hours)",
-        "seen": "2026-05-19T22:15:46.833205"
-      },
-      "b12a27aa3ce205c3": {
-        "title": "Part Time Associate Banker San Gabriel (30 Hours)",
-        "seen": "2026-05-19T22:15:46.833284"
-      },
-      "c12e6a439f32b435": {
-        "title": "Part Time Associate Banker Chicago Central West (30 Hours)",
-        "seen": "2026-05-19T22:15:46.833380"
-      },
-      "5f74c4997d0c15c7": {
-        "title": "Experience Research Executive Director - Digital Channels",
-        "seen": "2026-05-19T22:15:46.833464"
-      },
-      "1b2e524b6fe62af5": {
-        "title": "Quant Analytics - Senior Associate - Alternative Lending Analytics Team",
-        "seen": "2026-05-19T22:15:48.353266"
-      },
-      "3532cea5e551fc1c": {
-        "title": "Relationship Banker - Virginia Metro Market - Herndon, VA",
-        "seen": "2026-05-19T22:15:49.881086"
-      },
-      "bfe2a0538f63a993": {
-        "title": "Vice President, High Net Worth Card Product Strategy",
-        "seen": "2026-05-19T22:15:49.881761"
-      },
-      "9c5feccd78afc3a9": {
-        "title": "Part Time Associate Banker Chicago Dupage County (30 Hours)",
-        "seen": "2026-05-19T22:15:49.881857"
-      },
-      "2624c6a480cfa786": {
-        "title": "J.P. Morgan Wealth Management - Private Client Investment Associate - Manhattan Beach, CA",
-        "seen": "2026-05-19T22:15:49.881951"
-      },
-      "f1dd35a3062639cd": {
-        "title": "Home Lending Mortgage Processor II - Columbus, OH",
-        "seen": "2026-05-19T22:15:49.882035"
-      },
-      "f27293dcaa9dcb86": {
-        "title": "Project Management & Governance - Global Cash Operations",
-        "seen": "2026-05-19T22:15:49.882116"
-      },
-      "7d1442de3f75a440": {
-        "title": "Subsidiary Payments Sales Manager - Vice President - Saudi Arabia",
-        "seen": "2026-05-19T22:15:49.882225"
-      },
-      "6a837b1228ff9959": {
-        "title": "Structured Working Capital- Payments - Associate - London",
-        "seen": "2026-05-19T22:15:49.882309"
-      },
-      "4394e0b4ac8a2fbd": {
-        "title": "Vice President- Process Improvement Manager",
-        "seen": "2026-05-19T22:15:49.882403"
-      },
-      "856340f917a975d6": {
-        "title": "Corporate Meetings & Events - Associate",
-        "seen": "2026-05-19T22:15:49.882484"
-      },
-      "0aaebebd4f56a17f": {
-        "title": "Employee Success Associate",
-        "seen": "2026-05-19T22:15:49.882569"
-      },
-      "80b805d4fe4f4454": {
-        "title": "Executive Director, Ultimate Rewards Operations and Enablement",
-        "seen": "2026-05-19T22:15:49.882646"
-      },
-      "6ae708c647c79bc3": {
-        "title": "Relationship Banker - Marin Napa Market- San Rafael, CA",
-        "seen": "2026-05-19T22:15:49.882743"
-      },
-      "d7d38af0dec645aa": {
-        "title": "Branch Manager- San Rafael, Petaluma, Fairfield and surrounding areas- Sonoma, CA",
-        "seen": "2026-05-19T22:15:49.882886"
-      },
       "9c5471e7c2e930e2": {
         "title": "Risk Management - Credit Risk Associate",
         "seen": "2026-05-19T23:40:29.099107"
@@ -68189,6 +68093,18 @@
       "e4f1100d2c1b3bd4": {
         "title": "Treasury Management Officer - Multinational Corporations - Executive Director",
         "seen": "2026-08-18T21:49:44.042403"
+      },
+      "e45f82727ba2991c": {
+        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Castle Rock / Lone Tree / Parker, CO",
+        "seen": "2026-08-18T22:21:01.834431"
+      },
+      "c872e052514d9807": {
+        "title": "Lead Software Engineer - Data Engg. - Databricks / Snowflake",
+        "seen": "2026-08-18T22:21:01.834683"
+      },
+      "d1b867c5e3cfa3cf": {
+        "title": "Lead Software Engineer- Agentic Identity Access",
+        "seen": "2026-08-18T22:21:03.207140"
       }
     }
   },
@@ -68812,46 +68728,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "bdd6f072ad812295": {
-        "title": "Certified Pharmacy Technician, Fulfillment - Amazon Pharmacy",
-        "seen": "2026-05-19T22:16:05.451413"
-      },
-      "5dd554b6bb0aecec": {
-        "title": "Delivery Consultant – SAP , Professional Services, SAP",
-        "seen": "2026-05-19T22:16:05.451501"
-      },
-      "26f0342b167f561e": {
-        "title": "MLA IP Design Verification Engineer, Annapurna Labs",
-        "seen": "2026-05-19T22:16:05.451577"
-      },
-      "4c0c514d32f3841a": {
-        "title": "Sr. Customer Solutions Manager",
-        "seen": "2026-05-19T22:16:07.017070"
-      },
-      "c5e4f536f24cfd57": {
-        "title": "Sub-Regional EHS Manager II",
-        "seen": "2026-05-19T22:16:07.017289"
-      },
-      "192e42b73d4809c2": {
-        "title": "Senior Financial Analyst, Global Finance Solutions (GFS)",
-        "seen": "2026-05-19T22:16:07.017400"
-      },
-      "1fb1d72090149940": {
-        "title": "Manager III, Software Dev - AMZ9970765",
-        "seen": "2026-05-19T22:16:07.017499"
-      },
-      "a263afb46901abdf": {
-        "title": "Engineering Operations Technician",
-        "seen": "2026-05-19T22:16:08.531393"
-      },
-      "3c9a3274d8cec3fe": {
-        "title": "Software Development Engineer, Amazon Music, App Foundry",
-        "seen": "2026-05-19T22:16:10.024178"
-      },
-      "24a998de320bbe6f": {
-        "title": "Finance Manager, Strategy & Analytics, Amazon Ads",
-        "seen": "2026-05-19T22:16:11.548295"
-      },
       "7749072fb537c7b3": {
         "title": "Senior Account Executive, US LCS, Consumer Services",
         "seen": "2026-05-19T23:40:43.865715"
@@ -103991,20 +103867,28 @@
       "f9ec4b3e3ca6e7b2": {
         "title": "CDE Sr. Solutions Architect, Software and Technology",
         "seen": "2026-08-18T21:50:02.246456"
+      },
+      "e9b70d8264c8b877": {
+        "title": "Principal Engagement Manager, Professional Services (ProServe) team",
+        "seen": "2026-08-18T22:21:18.360175"
+      },
+      "f3b3a44eff9549e4": {
+        "title": "AWS Demand Generation Intern",
+        "seen": "2026-08-18T22:21:18.360269"
+      },
+      "c911bb6080f11638": {
+        "title": "Sr. Applied Scientist, Sponsored Products and Brands Agent",
+        "seen": "2026-08-18T22:21:19.672115"
+      },
+      "a4840f1490e9dd4c": {
+        "title": "Software Development Engineer II, Amazon Fulfillment Technologies (AFT) - Workforce Optimization",
+        "seen": "2026-08-18T22:21:20.991051"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "7c7ea2a0e69fcbcd": {
-        "title": "Account Executive, Commercial (New Business)",
-        "seen": "2026-05-19T22:16:18.140046"
-      },
-      "b76cac3dee0e663e": {
-        "title": "Product Manager, Growth AI Outreach Motion",
-        "seen": "2026-05-19T22:16:18.140498"
-      },
       "a8aa8846ab389726": {
         "title": "Regional Product Marketing Manager, United Kingdom",
         "seen": "2026-05-19T23:40:59.441840"
@@ -108543,14 +108427,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "2f5025782eaa9f2f": {
-        "title": "SAP iXp Intern - Business Development",
-        "seen": "2026-05-19T22:16:38.277920"
-      },
-      "9828cc113ff9b780": {
-        "title": "Solution Advisor Expert Cloud ERP",
-        "seen": "2026-05-19T22:16:39.871917"
-      },
       "5cde7165c41d5d44": {
         "title": "SAP iXp Intern (f/m/d) - Adoption & Consumption Business Intelligence Analyst",
         "seen": "2026-05-20T03:28:34.371535"
@@ -121664,10 +121540,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "8df60d8164e4129c": {
-        "title": "Administrative Business Lead, Fundamental Equities",
-        "seen": "2026-05-19T22:16:48.884612"
-      },
       "5b32b257cc56005e": {
         "title": "Thematic Risk Assessment, RQA, Analyst",
         "seen": "2026-05-20T03:29:19.319419"
