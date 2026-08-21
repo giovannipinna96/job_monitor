@@ -63,14 +63,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "c5bd1a7101f2ac01": {
-        "title": "Engineering Manager, Research Tools",
-        "seen": "2026-05-22T22:34:04.570048"
-      },
-      "662931feebb2ff5f": {
-        "title": "Support Engineer",
-        "seen": "2026-05-22T22:34:06.087750"
-      },
       "6fdd16c35c57fcd1": {
         "title": "Technical Program Manager, Data Center Infrastructure",
         "seen": "2026-05-23T19:24:27.971167"
@@ -3220,14 +3212,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "cba316b4c11d2572": {
-        "title": "Customer Marketing Manager, SMB",
-        "seen": "2026-05-22T22:34:09.962710"
-      },
-      "4b22ddfe41595f03": {
-        "title": "Regional Client Partner, Ads Solutions",
-        "seen": "2026-05-22T22:34:09.963080"
-      },
       "8e6b90fbf4ef308c": {
         "title": "Researcher, Artifacts - Agent Post-Training",
         "seen": "2026-05-23T00:06:23.668776"
@@ -8123,16 +8107,16 @@
       "b7ba350712babdc9": {
         "title": "Electrical Engineer, Actuator test infrastructure",
         "seen": "2026-08-21T22:22:15.419482"
+      },
+      "de29059778b34498": {
+        "title": "Applied AI Architect - EDU",
+        "seen": "2026-08-21T22:50:32.454276"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "58a3476da4b59897": {
-        "title": "Sr. Solutions Engineer - Oil, Gas, Energy",
-        "seen": "2026-05-22T22:34:12.126111"
-      },
       "d4ca034a69b986d5": {
         "title": "Staff Designated Support Engineer",
         "seen": "2026-05-24T13:54:46.627713"
@@ -13010,26 +12994,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "3c7955fa233809b3": {
-        "title": "Hiring Event - Part Time Associate Banker Contra Costa South (30 Hours)",
-        "seen": "2026-05-22T22:34:21.461007"
-      },
-      "40e47db627deeb17": {
-        "title": "Client Solutions Architect Manager - Payments - Vice President",
-        "seen": "2026-05-22T22:34:21.461161"
-      },
-      "03c3022f65929dde": {
-        "title": "Virtual Banker II- Tempe, AZ",
-        "seen": "2026-05-22T22:34:21.461229"
-      },
-      "a099e84e1c38a3e1": {
-        "title": "Customer Success Manager - Data Platforms",
-        "seen": "2026-05-22T22:34:21.461541"
-      },
-      "687ee260a90eb2d9": {
-        "title": "Part Time (30 Hours) Associate Banker, New Paltz Branch, New Paltz, NY",
-        "seen": "2026-05-22T22:34:22.915666"
-      },
       "2263da5602b8bc8b": {
         "title": "Part Time Associate Banker Chicago Far South (30 Hours)",
         "seen": "2026-05-23T00:06:42.622800"
@@ -67929,6 +67893,10 @@
       "fa300bdbc54962fc": {
         "title": "Software Engineer III - React/UI",
         "seen": "2026-08-21T22:22:35.483560"
+      },
+      "a10480d00225a498": {
+        "title": "Principal Technical Program Manager",
+        "seen": "2026-08-21T22:50:47.958310"
       }
     }
   },
@@ -68536,30 +68504,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "99fab5156b1915d2": {
-        "title": "Senior Finance Analyst, NACF, WW Ops Finance - CF Support",
-        "seen": "2026-05-22T22:34:36.396962"
-      },
-      "bc5e02bf0c7198f5": {
-        "title": "Senior Solutions Architect, Enterprise - Retail, CPG and Travel & Hospitality",
-        "seen": "2026-05-22T22:34:37.848026"
-      },
-      "c9310ebb1eb140fd": {
-        "title": "Member of Technical Staff - Simulation, Frontier AI Robotics",
-        "seen": "2026-05-22T22:34:39.288732"
-      },
-      "0fdd82342e3cf6d1": {
-        "title": "Sr. Partner Sales Manager, Retail, Restaurants, CPG",
-        "seen": "2026-05-22T22:34:40.733532"
-      },
-      "a84f0e01a0decd8c": {
-        "title": "Front-End Engineer – 2026 (US)",
-        "seen": "2026-05-22T22:34:42.181077"
-      },
-      "aa0a3666f6db8dc7": {
-        "title": "Sr Mgr, Amazon Science Engineering, Academic Research Initiatives & Science Community",
-        "seen": "2026-05-22T22:34:43.647638"
-      },
       "0a3435da32eb406c": {
         "title": "Applied Science Manager, Prime Video Personalization & Discovery",
         "seen": "2026-05-23T00:07:03.029812"
@@ -103659,6 +103603,14 @@
       "d486894aaa2b3256": {
         "title": "Senior Customer Success Manager, Canada Strategic Account Services",
         "seen": "2026-08-21T22:22:52.017351"
+      },
+      "cc2a2d85da760cfe": {
+        "title": "Account Manager, ISV, Developer AI",
+        "seen": "2026-08-21T22:51:00.710703"
+      },
+      "af6b78ac01ff382e": {
+        "title": "Satellite Systems Engineer, Space Networking Solutions",
+        "seen": "2026-08-21T22:51:02.087373"
       }
     }
   },
@@ -107712,6 +107664,10 @@
       "9cbbdd85003663fb": {
         "title": "Fraud Operations Associate SDC",
         "seen": "2026-08-21T20:50:21.540840"
+      },
+      "49d4fb9452df809f": {
+        "title": "Fraud Strategist",
+        "seen": "2026-08-21T22:51:09.506417"
       }
     }
   },
@@ -108227,10 +108183,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "f7f650f1cc933a4c": {
-        "title": "Senior Account Executive - Midwest Enterprise Manufacturing",
-        "seen": "2026-05-22T22:35:10.023009"
-      },
       "8ef795c932718f47": {
         "title": "SAP Academy for Services & Consulting - Success Plan Manager - Alpharetta (Hybrid)",
         "seen": "2026-05-23T04:25:29.765467"
@@ -120684,10 +120636,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "04e527a7e0461282": {
-        "title": "Vice President, ETF Servicing",
-        "seen": "2026-05-22T22:35:18.524723"
-      },
       "d7798376aebb6650": {
         "title": "Associate, Technology Relationship Management – Limited Partner",
         "seen": "2026-05-23T15:03:46.999024"
