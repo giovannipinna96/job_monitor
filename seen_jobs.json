@@ -55,10 +55,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "2048809514aec98d": {
-        "title": "Communications Manager, Enterprise",
-        "seen": "2026-05-26T23:09:39.318422"
-      },
       "221c9b7e0f03f20b": {
         "title": "Manager of Applied AI Architecture, Startups",
         "seen": "2026-05-27T01:34:27.504309"
@@ -3406,16 +3402,16 @@
       "65879e5e6ffdf7f2": {
         "title": "Data Center Portfolio Lead",
         "seen": "2026-08-25T21:53:20.555127"
+      },
+      "2030d2e4033cf3f3": {
+        "title": "AI Engineer, GTM Claudification",
+        "seen": "2026-08-25T23:23:35.758654"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "22888a0137d2e4d0": {
-        "title": "Strategic Sourcing Leader, Go-to-Market",
-        "seen": "2026-05-26T23:09:41.870095"
-      },
       "ddbf1f5965047792": {
         "title": "Business Development Representative - EMEA (French Speaking)",
         "seen": "2026-05-27T01:34:31.311320"
@@ -8405,18 +8401,6 @@
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "90593a6296b676fe": {
-        "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-        "seen": "2026-05-26T23:09:44.028857"
-      },
-      "510859834cc17c07": {
-        "title": "Lead GTM Enablement & Scale Architect, Lakebase",
-        "seen": "2026-05-26T23:09:45.585667"
-      },
-      "f4ed5a218030cf1f": {
-        "title": "Strategic Alliance Operations Director",
-        "seen": "2026-05-26T23:09:45.586905"
-      },
       "b2d85f904074b55a": {
         "title": "Forward Deployed Engineer",
         "seen": "2026-05-27T10:37:53.840630"
@@ -13368,6 +13352,10 @@
       "9e22cc29c26a1749": {
         "title": "Senior Solutions Architect - Consumer Product Goods",
         "seen": "2026-08-25T21:25:53.856464"
+      },
+      "11799cea5b8be7a9": {
+        "title": "AI Transformation Leader",
+        "seen": "2026-08-25T23:23:42.165247"
       }
     }
   },
@@ -13378,18 +13366,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "abbe1cd589ae5f97": {
-        "title": "Facilities and Business Operations, Analyst",
-        "seen": "2026-05-26T23:09:53.404503"
-      },
-      "af3a92a1909653b6": {
-        "title": "Part-Time (30HR) Associate Banker - (New Build) - Hutchinson Branch - Hutchinson, KS",
-        "seen": "2026-05-26T23:09:53.404618"
-      },
-      "2ae973d5ae45c967": {
-        "title": "Lead Software Engineer - US Securities, Java, Spring,",
-        "seen": "2026-05-26T23:09:53.404861"
-      },
       "3db8ad9f7599487f": {
         "title": "Part Time (30 Hours) Associate Banker, Monticello Branch, Monticello, NY",
         "seen": "2026-05-27T01:34:43.829708"
@@ -68925,6 +68901,10 @@
       "1e82668d31028e57": {
         "title": "Product Manager - Payments - Vice President",
         "seen": "2026-08-25T21:53:38.216002"
+      },
+      "af9ae67f3be8000a": {
+        "title": "US Loyalty and Retention Client Relationship Manager - Payments -Senior Associate",
+        "seen": "2026-08-25T23:23:51.783263"
       }
     }
   },
@@ -69524,30 +69504,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "4ca7414fc6955bcc": {
-        "title": "Infra Delivery Install Technician",
-        "seen": "2026-05-26T23:10:08.773045"
-      },
-      "388f7765a8b29a27": {
-        "title": "Finance Manager, Prime Video",
-        "seen": "2026-05-26T23:10:08.773130"
-      },
-      "1a4d269b44d587f5": {
-        "title": "Operations Manager",
-        "seen": "2026-05-26T23:10:08.773213"
-      },
-      "5b4e7623fb96dd4a": {
-        "title": "Area Manager",
-        "seen": "2026-05-26T23:10:08.773285"
-      },
-      "2dedc7480d6f235c": {
-        "title": "Product Compliance and Nutrition Analyst, Whole Foods Market (WFM)/Worldwide Grocery Stores (WWGS) Private Brands Labeling & Compliance",
-        "seen": "2026-05-26T23:10:08.773368"
-      },
-      "272dfac5c89e3573": {
-        "title": "Pr ProServe Account Executive - Financial Services, NAMER FINANCIAL SERVICES",
-        "seen": "2026-05-26T23:10:08.773737"
-      },
       "e85f1d2abd201ee5": {
         "title": "Area Manager",
         "seen": "2026-05-27T01:34:56.676901"
@@ -105055,20 +105011,28 @@
       "8b4be5a9d8b3e877": {
         "title": "HR Manager, NACF",
         "seen": "2026-08-25T22:55:34.509170"
+      },
+      "c259960473f97582": {
+        "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
+        "seen": "2026-08-25T23:24:05.580110"
+      },
+      "bbad375ce050b79e": {
+        "title": "Site Leader",
+        "seen": "2026-08-25T23:24:05.580230"
+      },
+      "813d71748dc49bf7": {
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "seen": "2026-08-25T23:24:05.580451"
+      },
+      "5d317035c1a5ee30": {
+        "title": "Senior Applied Scientist , Research and Applied Science Team, PXT Senior Talent and Transformation",
+        "seen": "2026-08-25T23:24:07.034545"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "4cbabe08780c622b": {
-        "title": "Payments Fraud Investigator",
-        "seen": "2026-05-26T23:10:14.981565"
-      },
-      "d4500fcf80c519e8": {
-        "title": "Product Manager, Terminal Device Expansion",
-        "seen": "2026-05-26T23:10:14.981696"
-      },
       "ddeeaffb4a01b914": {
         "title": "Commercial Counsel",
         "seen": "2026-05-27T01:35:05.382790"
@@ -109687,14 +109651,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "40b9a9cc9f8c351c": {
-        "title": "SAP Customer Solution Adoption Senior Specialist",
-        "seen": "2026-05-26T23:10:33.762050"
-      },
-      "b654a6cecfaa0258": {
-        "title": "Product Marketing Consultant",
-        "seen": "2026-05-26T23:10:33.762138"
-      },
       "c7973dc91088d6df": {
         "title": "Seller Partner Business Manager",
         "seen": "2026-05-27T01:35:21.721417"
@@ -124737,30 +124693,6 @@
   "7c6062845910": {
     "name": "Replit",
     "jobs": {
-      "8804ec3b9ef17710": {
-        "title": "Senior Software Engineer, Fraud",
-        "seen": "2026-05-26T23:10:47.426230"
-      },
-      "7e73ab28ef507989": {
-        "title": "Senior Software Engineer, Risk",
-        "seen": "2026-05-26T23:10:48.978143"
-      },
-      "a15c7fd9465cab29": {
-        "title": "Senior Software Engineer, Trust & Safety",
-        "seen": "2026-05-26T23:10:50.456394"
-      },
-      "e1cb513fbcf63417": {
-        "title": "Staff Software Engineer, Fraud",
-        "seen": "2026-05-26T23:10:51.910500"
-      },
-      "10337fce2499372d": {
-        "title": "Staff Software Engineer, Risk",
-        "seen": "2026-05-26T23:10:53.413221"
-      },
-      "9017f5d483d9ca09": {
-        "title": "Staff Software Engineer, Trust & Safety",
-        "seen": "2026-05-26T23:10:54.916208"
-      },
       "cce4e8c02dcd2341": {
         "title": "Emerging Talent - Recruiting Program Manager",
         "seen": "2026-05-27T01:35:33.048892"
