@@ -55,14 +55,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "d14dd975a1e8ef8e": {
-        "title": "Director, Technical Revenue Accounting",
-        "seen": "2026-05-26T21:44:12.214709"
-      },
-      "180458ad9c185855": {
-        "title": "Research Engineer, Knowledge Foundations",
-        "seen": "2026-05-26T21:44:12.214971"
-      },
       "2048809514aec98d": {
         "title": "Communications Manager, Enterprise",
         "seen": "2026-05-26T23:09:39.318422"
@@ -3410,24 +3402,16 @@
       "211d5c686085f927": {
         "title": "Regulatory Investigations Counsel",
         "seen": "2026-08-25T21:25:49.086268"
+      },
+      "65879e5e6ffdf7f2": {
+        "title": "Data Center Portfolio Lead",
+        "seen": "2026-08-25T21:53:20.555127"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "498934f2abb6c1a7": {
-        "title": "Compensation Analyst, Equity & Executive Compensation",
-        "seen": "2026-05-26T21:44:16.234547"
-      },
-      "9876b6b5e15301d8": {
-        "title": "Sales Operations",
-        "seen": "2026-05-26T21:44:16.235009"
-      },
-      "c2022d1e883a3df5": {
-        "title": "Software Engineer, Foundations Search",
-        "seen": "2026-05-26T21:44:16.235214"
-      },
       "22888a0137d2e4d0": {
         "title": "Strategic Sourcing Leader, Go-to-Market",
         "seen": "2026-05-26T23:09:41.870095"
@@ -8395,16 +8379,20 @@
       "efcfe1fe8830ac44": {
         "title": "Strategy & Operations Manager, Communications",
         "seen": "2026-08-25T21:25:51.760025"
+      },
+      "9302efd7f3d3ce38": {
+        "title": "Technical Deployment Lead, Semiconductors- SF",
+        "seen": "2026-08-25T21:53:24.795191"
+      },
+      "71d9487b12a5ffd7": {
+        "title": "Technical Deployment Lead, Semiconductors - Texas",
+        "seen": "2026-08-25T21:53:24.795267"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "6a391640849b515c": {
-        "title": "Solutions Architect",
-        "seen": "2026-05-26T21:44:19.679365"
-      },
       "90593a6296b676fe": {
         "title": "AI Engineer - FDE (Forward Deployed Engineer)",
         "seen": "2026-05-26T23:09:44.028857"
@@ -13378,86 +13366,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "4a7680a3921371cb": {
-        "title": "Part Time Associate Banker Austin North (30 Hours)",
-        "seen": "2026-05-26T21:44:27.643169"
-      },
-      "1c1eeb851074488d": {
-        "title": "Content Design Senior Associate",
-        "seen": "2026-05-26T21:44:27.643260"
-      },
-      "491731bafbf7d01f": {
-        "title": "Drive the Future Mexico - July cycle",
-        "seen": "2026-05-26T21:44:27.643322"
-      },
-      "6cb2fc752bc38f45": {
-        "title": "Credit Risk - Executive Director - Credit Decisioning Unit",
-        "seen": "2026-05-26T21:44:27.643420"
-      },
-      "9a8458ef728aab3c": {
-        "title": "Quant Analytics Associate",
-        "seen": "2026-05-26T21:44:27.643509"
-      },
-      "e17a6cc9c1c28d6b": {
-        "title": "Loan Servicing Associate - Asset Based Lending",
-        "seen": "2026-05-26T21:44:28.960023"
-      },
-      "e92985ee3a02cc2c": {
-        "title": "Part Time (20 Hours) Associate Banker, Sunset and Green Valley Branch, Henderson, NV",
-        "seen": "2026-05-26T21:44:28.960313"
-      },
-      "fb4a4e51415535be": {
-        "title": "Integrated Marketing Manager, Client Stories - Senior Associate",
-        "seen": "2026-05-26T21:44:28.960427"
-      },
-      "2b2b82e8871effe0": {
-        "title": "J.P. Morgan Advisors - Investment Associate - Los Angeles, CA",
-        "seen": "2026-05-26T21:44:28.960502"
-      },
-      "fe02dcda106d739a": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - East San Ferando Valley, CA (area)",
-        "seen": "2026-05-26T21:44:28.960608"
-      },
-      "3e02c165341a8f00": {
-        "title": "Part Time (30 Hours) Associate Banker,  Six Mile Inkster Branch, Redford, MI",
-        "seen": "2026-05-26T21:44:28.960687"
-      },
-      "c6d3a1b070b1a0f7": {
-        "title": "Part Time (30 Hours) Associate Banker, Six Mile Inkster Branch, Redford, MI",
-        "seen": "2026-05-26T21:44:28.960739"
-      },
-      "cddf5ff91cf720ea": {
-        "title": "Client Service Account Manager - Healthcare Payments - Vice President",
-        "seen": "2026-05-26T21:44:28.960804"
-      },
-      "f60ec21bd45fb5aa": {
-        "title": "Finance & Business Management- Senior Associate",
-        "seen": "2026-05-26T21:44:28.960902"
-      },
-      "60351b5ec4c0be9e": {
-        "title": "CORP_Compliance_Generic_US_JPMC",
-        "seen": "2026-05-26T21:44:28.960952"
-      },
-      "561ccbb4e1b50acc": {
-        "title": "Part Time (30 Hours) Associate Banker, Grand Blanc South, Grand Blanc, MI",
-        "seen": "2026-05-26T21:44:28.961016"
-      },
-      "6c726570a45e2c5f": {
-        "title": "Personal Property Tax Associate",
-        "seen": "2026-05-26T21:44:28.961089"
-      },
-      "53c98933174f4776": {
-        "title": "Part Time (20 Hours) Associate Banker, Novi Branch, Novi, MI",
-        "seen": "2026-05-26T21:44:28.961189"
-      },
-      "ae1e325e33a00bee": {
-        "title": "Site Trainer/Instructional Designer",
-        "seen": "2026-05-26T21:44:28.961237"
-      },
-      "86ad503616daca60": {
-        "title": "Associate Relationship Banker - Wheaton University - Kensington, Maryland (Bilingual Spanish Required)",
-        "seen": "2026-05-26T21:44:30.292422"
-      },
       "abbe1cd589ae5f97": {
         "title": "Facilities and Business Operations, Analyst",
         "seen": "2026-05-26T23:09:53.404503"
@@ -68989,6 +68897,22 @@
       "0f523e8643556b42": {
         "title": "Associate Banker, 30 Hours, Port St Lucie/Stuart, FL Area",
         "seen": "2026-08-25T21:26:05.371001"
+      },
+      "ec99e63e455db06d": {
+        "title": "Sales Consumer Direct Home Lending Advisor - Jacksonville, FL",
+        "seen": "2026-08-25T21:53:35.238443"
+      },
+      "bbf85eeb6722675a": {
+        "title": "Lead Technical Program Manager - Infrastructure Data Platforms",
+        "seen": "2026-08-25T21:53:35.238580"
+      },
+      "8cc457e939f11cfd": {
+        "title": "Lead Software Engineer - CDN Operations",
+        "seen": "2026-08-25T21:53:36.738147"
+      },
+      "1e82668d31028e57": {
+        "title": "Product Manager - Payments - Vice President",
+        "seen": "2026-08-25T21:53:38.216002"
       }
     }
   },
@@ -69588,78 +69512,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "8ac37bc318d222d0": {
-        "title": "Area Manager",
-        "seen": "2026-05-26T21:44:43.381019"
-      },
-      "51c99bf84ed3cfaa": {
-        "title": "Certified Pharmacy Technician, Amazon Pharmacy",
-        "seen": "2026-05-26T21:44:43.381097"
-      },
-      "986bbfbec5524bce": {
-        "title": "Engineering Operations Technician",
-        "seen": "2026-05-26T21:44:43.381193"
-      },
-      "770f396056d9ca0d": {
-        "title": "Lab Engineer , Amazon Leo",
-        "seen": "2026-05-26T21:44:44.703782"
-      },
-      "6ea8dd2ae6e7613b": {
-        "title": "Machine Learning Engineer, AWS Applied AI Solution",
-        "seen": "2026-05-26T21:44:46.047366"
-      },
-      "876137314085b919": {
-        "title": "ISV Senior Account Manager, ISV Canada",
-        "seen": "2026-05-26T21:44:47.361073"
-      },
-      "336fcf63566c1d33": {
-        "title": "Senior Manager, Product- Startup Scale Programs",
-        "seen": "2026-05-26T21:44:47.361373"
-      },
-      "b6ce8fa0f567058e": {
-        "title": "Manager, Customer Solutions Management , AWS Nonprofits",
-        "seen": "2026-05-26T21:44:47.361497"
-      },
-      "7ce62e6d7abbdf10": {
-        "title": "プロセスアシスタント",
-        "seen": "2026-05-26T21:44:47.361617"
-      },
-      "045e0c913cb3beb2": {
-        "title": "WW Senior Partner Specialist BD, Amazon Connect Decisions, Applied AI Solutions Partner GTM",
-        "seen": "2026-05-26T21:44:47.361703"
-      },
-      "d2c993bcdffc9e10": {
-        "title": "Sr. Customer Solutions Manager, Customer Solutions Management, AWS SG, Customer Solutions Management, AWS SG",
-        "seen": "2026-05-26T21:44:48.678615"
-      },
-      "4103b0a15327f1a9": {
-        "title": "Sr Software Dev Engineer III, RDS for Oracle",
-        "seen": "2026-05-26T21:44:48.678882"
-      },
-      "b22a0bd1d7dd69e5": {
-        "title": "Senior Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services",
-        "seen": "2026-05-26T21:44:50.022629"
-      },
-      "b756acb76d99a273": {
-        "title": "Technical Program Manager , Customer Experience and Business Trends",
-        "seen": "2026-05-26T21:44:51.361478"
-      },
-      "b71e1bba4887281a": {
-        "title": "Program Manager , AWS Legal",
-        "seen": "2026-05-26T21:44:51.361859"
-      },
-      "870f5c50c7705cec": {
-        "title": "Senior Product Manager - Technical (Payments), Amazon Prime",
-        "seen": "2026-05-26T21:44:51.361926"
-      },
-      "392eff8f0338c5b3": {
-        "title": "Associate Corporate Counsel, AWS Legal",
-        "seen": "2026-05-26T21:44:51.361973"
-      },
-      "2978144371a5d428": {
-        "title": "Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services",
-        "seen": "2026-05-26T21:44:51.362023"
-      },
       "4ca7414fc6955bcc": {
         "title": "Infra Delivery Install Technician",
         "seen": "2026-05-26T23:10:08.773045"
@@ -105139,20 +104991,28 @@
       "022bb3b7760404bd": {
         "title": "Data Center Security Specialist, CMH- Jeffersonville Security",
         "seen": "2026-08-25T21:26:25.178733"
+      },
+      "1d491a356ee9d7c0": {
+        "title": "Manufacturing Engineer, AWS Hardware Engineering Services, AI Ultraservers",
+        "seen": "2026-08-25T21:53:52.642297"
+      },
+      "3c5c0b8743be34a8": {
+        "title": "Human Resources Partner, LatAm, Builder Experience (BeXT)",
+        "seen": "2026-08-25T21:53:54.145813"
+      },
+      "6c8fd84624533769": {
+        "title": "Software Development Engineer, Recipient Experience, Your Orders",
+        "seen": "2026-08-25T21:53:54.146479"
+      },
+      "ba5e8d35bbd32bc8": {
+        "title": "Sr Hardware Development Manager, Embedded and Electrical , Fauna",
+        "seen": "2026-08-25T21:53:55.629225"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "f2c57743dd9c35c8": {
-        "title": "Fraud Patterns Analysts",
-        "seen": "2026-05-26T21:44:58.813058"
-      },
-      "ad376af70cecffdb": {
-        "title": "Partner Solutions Architect - LatAm",
-        "seen": "2026-05-26T21:44:58.813334"
-      },
       "4cbabe08780c622b": {
         "title": "Payments Fraud Investigator",
         "seen": "2026-05-26T23:10:14.981565"
@@ -109260,6 +109120,10 @@
       "004b6c1b2805633a": {
         "title": "Backend Engineer, Payments Experiences",
         "seen": "2026-08-25T20:31:50.780589"
+      },
+      "0f3659ef3389d9e6": {
+        "title": "Account Executive, AI Sales",
+        "seen": "2026-08-25T21:54:01.761110"
       }
     }
   },
@@ -109771,18 +109635,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "10771c78e94fceec": {
-        "title": "Werkstudent (w/m/d) - Marketing Campaign Management",
-        "seen": "2026-05-26T21:45:14.962060"
-      },
-      "6ded434b0d1f9134": {
-        "title": "AI Consultant / Architect - SAP Academy for Services & Consulting - Madrid",
-        "seen": "2026-05-26T21:45:16.295026"
-      },
-      "e237eeb0831f2103": {
-        "title": "SAP iXp Intern- Digital Experience & Media Design Specialist",
-        "seen": "2026-05-26T21:45:17.621157"
-      },
       "40b9a9cc9f8c351c": {
         "title": "SAP Customer Solution Adoption Senior Specialist",
         "seen": "2026-05-26T23:10:33.762050"
@@ -121460,10 +121312,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "eb9a0cb64de4165c": {
-        "title": "Analyst, Operations and Billing",
-        "seen": "2026-05-26T21:45:26.503810"
-      },
       "c5cf08c8e6b5b3b0": {
         "title": "Product Manager (Associate)",
         "seen": "2026-05-27T10:39:36.131282"
