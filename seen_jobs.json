@@ -55,10 +55,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "42ad157635e79ff1": {
-        "title": "Channel Account Manager, SI & Reseller",
-        "seen": "2026-06-01T03:55:29.167525"
-      },
       "473190ce457bcf6a": {
         "title": "Industry Principal, Insurance",
         "seen": "2026-06-01T15:40:47.862811"
@@ -3544,10 +3540,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "5cc3f68fd916beda": {
-        "title": "Consumer & Product Communications Lead, APAC",
-        "seen": "2026-06-01T03:55:31.723405"
-      },
       "e925f803f4f73773": {
         "title": "AI Adoption, Content & Community Manager, OpenAI for Government",
         "seen": "2026-06-01T20:16:39.334358"
@@ -8551,6 +8543,10 @@
       "abca8cac3b098e4e": {
         "title": "Safety Response Operations Lead",
         "seen": "2026-08-29T17:31:54.665464"
+      },
+      "e2ddb062d46303a7": {
+        "title": "Applied AI Architect",
+        "seen": "2026-08-31T07:26:23.341146"
       }
     }
   },
@@ -13656,6 +13652,10 @@
       "945929346d156226": {
         "title": "Senior Solutions Architect",
         "seen": "2026-08-30T17:40:45.971878"
+      },
+      "a0bf14476389f24a": {
+        "title": "Senior Solutions Engineer",
+        "seen": "2026-08-31T07:26:27.246387"
       }
     }
   },
@@ -13666,22 +13666,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "eba8813a0ff686f5": {
-        "title": "Product Manager, Tokenization - Vice President",
-        "seen": "2026-06-01T03:55:41.545860"
-      },
-      "e7e5dd200b0ddba0": {
-        "title": "Part Time Associate Banker South Dallas (30 hours)",
-        "seen": "2026-06-01T03:55:41.545950"
-      },
-      "93f98a4c23a61688": {
-        "title": "Product Manager - Kinexys Payments, Vice President",
-        "seen": "2026-06-01T03:55:41.546027"
-      },
-      "8e324e6790d9652f": {
-        "title": "Asset Management - APAC Product Development - Vice President",
-        "seen": "2026-06-01T03:55:41.546099"
-      },
       "a6c332d5017398df": {
         "title": "Transaction Processing Specialist",
         "seen": "2026-06-01T09:25:43.882253"
@@ -68657,6 +68641,82 @@
       "a12ca0c46b6c7f60": {
         "title": "Credit Card Customer Service Account Specialist I",
         "seen": "2026-08-31T01:28:09.647174"
+      },
+      "193b1f8620911e16": {
+        "title": "International Private Bank, Engage Investment Specialist for Taiwan Market, based in Hong Kong, Vice President",
+        "seen": "2026-08-31T07:26:36.848656"
+      },
+      "cc85c5398f6f088e": {
+        "title": "Lead Software Engineer - Cloud Platform Engineer",
+        "seen": "2026-08-31T07:26:38.339890"
+      },
+      "f7248cc974ffee1c": {
+        "title": "Servicenow Developer, HRSD (Software Engineer II)",
+        "seen": "2026-08-31T07:26:39.694127"
+      },
+      "3111b11f3058a555": {
+        "title": "Fund Servicing Analyst",
+        "seen": "2026-08-31T07:26:41.051782"
+      },
+      "81e5ace041cef7b6": {
+        "title": "International Payments Product Associate",
+        "seen": "2026-08-31T07:26:41.052249"
+      },
+      "fd6b74abfa648fc0": {
+        "title": "Lead Software Engineer - AWS governance, Terraform, Kubernetes",
+        "seen": "2026-08-31T07:26:42.413194"
+      },
+      "efae04d46ec91ab6": {
+        "title": "Software Engineer III",
+        "seen": "2026-08-31T07:26:43.805451"
+      },
+      "cc819f22cf3cb9cc": {
+        "title": "Java Backend Developer with AWS (Software Engineer II)",
+        "seen": "2026-08-31T07:26:45.183222"
+      },
+      "816282856c615309": {
+        "title": "2027 Financial Advisor Development Program - Full-Time Analyst (OH)",
+        "seen": "2026-08-31T07:26:49.178965"
+      },
+      "5fd0f4bcb811fda1": {
+        "title": "2027 Financial Advisor Development Program - Full-Time Analyst (AZ)",
+        "seen": "2026-08-31T07:26:49.179463"
+      },
+      "4c107be6b9083302": {
+        "title": "Cyber Intelligence Associate - Malware Reverse Engineer",
+        "seen": "2026-08-31T07:26:49.179544"
+      },
+      "b62dfffdd2c156e7": {
+        "title": "Senior Customer Success Associate — Internal Audit Product Management",
+        "seen": "2026-08-31T07:26:50.574276"
+      },
+      "db28da5e37ac177d": {
+        "title": "Vice President, Global Philanthropy, South East Asia and Australia",
+        "seen": "2026-08-31T07:26:51.950346"
+      },
+      "0a2589e6fe24f69e": {
+        "title": "Private Credit Due Diligence and Analytics Analyst",
+        "seen": "2026-08-31T07:26:51.950978"
+      },
+      "98d24ad8602c534d": {
+        "title": "Product Associate, Liquidity & Account Solutions",
+        "seen": "2026-08-31T07:26:51.951133"
+      },
+      "4a1317d58d165655": {
+        "title": "Commercial & Investment Bank -  Global Regulatory & Policy Management (GRPM)",
+        "seen": "2026-08-31T07:26:51.951228"
+      },
+      "a884d24e0b3f2729": {
+        "title": "Counterparty Risk - Associate",
+        "seen": "2026-08-31T07:26:51.951309"
+      },
+      "7ceca5d6875e305f": {
+        "title": "Lead Software Engineer - Active Directory",
+        "seen": "2026-08-31T07:26:51.951388"
+      },
+      "f333e3ed0a6854eb": {
+        "title": "Senior Product Associate Access Management",
+        "seen": "2026-08-31T07:26:53.330353"
       }
     }
   },
@@ -69264,30 +69324,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "b34792f76233afb8": {
-        "title": "Data Center Operations Technician, Data Center Operations (DCO)",
-        "seen": "2026-06-01T03:55:55.004901"
-      },
-      "3773c8d38fef292d": {
-        "title": "2026 Program Manager Intern , Prime video",
-        "seen": "2026-06-01T03:55:56.627158"
-      },
-      "f8625aec8275b708": {
-        "title": "Engineering Operations Technician, Data Center Engineering Operations",
-        "seen": "2026-06-01T03:55:58.128248"
-      },
-      "9dec7e2caa6b9d84": {
-        "title": "Operations Tech II, Data Center Engineering Operations",
-        "seen": "2026-06-01T03:55:59.641407"
-      },
-      "0dc4af8b540b1133": {
-        "title": "Technical Infrastructure Program Manager, Data Center Planning Delivery",
-        "seen": "2026-06-01T03:56:01.209349"
-      },
-      "6ef60299a991ff02": {
-        "title": "Application Architect, Professional Services",
-        "seen": "2026-06-01T03:56:02.720982"
-      },
       "875ab99eee0b89ab": {
         "title": "System Development Engineer I, Catalog Engineering Service Support",
         "seen": "2026-06-01T09:26:18.808235"
@@ -104691,6 +104727,42 @@
       "b83392450201c2b9": {
         "title": "Technical Account Manager, Enterprise Support, AWS Enterprise Support, ASEAN",
         "seen": "2026-08-31T01:28:24.124560"
+      },
+      "1b0afe8a127ac10d": {
+        "title": "Sr. Customer Success Manager, ESM",
+        "seen": "2026-08-31T07:27:06.561929"
+      },
+      "17931237aae8a8d4": {
+        "title": "Account Manager, DSR team",
+        "seen": "2026-08-31T07:27:06.562019"
+      },
+      "ffc6bfdad7b5d8ec": {
+        "title": "Data Center Logistics Specialist",
+        "seen": "2026-08-31T07:27:06.562111"
+      },
+      "578ebe54965ecb94": {
+        "title": "Data Center Operation Engineer, DCO (Data Center Operations)",
+        "seen": "2026-08-31T07:27:07.942568"
+      },
+      "7802a64904654366": {
+        "title": "Workplace Health and Safety Coordinator",
+        "seen": "2026-08-31T07:27:09.323938"
+      },
+      "43317474feaf0944": {
+        "title": "Ecommerce Operations Manager, Amazon Private Brands Global Sourcing",
+        "seen": "2026-08-31T07:27:09.324428"
+      },
+      "ba1dc2ad1781fce4": {
+        "title": "Manager III, Program Mgmt , Customer Escalations",
+        "seen": "2026-08-31T07:27:09.324570"
+      },
+      "1912f458aea0ec7f": {
+        "title": "Senior Solutions Architect, Travel and Hospitality",
+        "seen": "2026-08-31T07:27:09.324648"
+      },
+      "64a4be212b84689d": {
+        "title": "Principal Customer Success Specialist, Observability & Security, AWS Specialist and Partner Organization",
+        "seen": "2026-08-31T07:27:09.324875"
       }
     }
   },
@@ -109371,74 +109443,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "afc33dca68606f3b": {
-        "title": "SAP Business AI Architect",
-        "seen": "2026-06-01T03:56:28.150305"
-      },
-      "e9563d54791405ee": {
-        "title": "Senior Customer Success Manager-HCM SuccessFactors, Korea",
-        "seen": "2026-06-01T03:56:29.667727"
-      },
-      "f41d5fcef02ad784": {
-        "title": "Associate AI Developer/ AI Developer (Full stack) - SAP Labs East Asia Singapore",
-        "seen": "2026-06-01T03:56:29.668432"
-      },
-      "47d6768259e34ff5": {
-        "title": "Senior Architecture Advisor - Public Sector (Canberra)",
-        "seen": "2026-06-01T03:56:31.168991"
-      },
-      "9d532f60dac568cf": {
-        "title": "HR Total Rewards Senior Consultant",
-        "seen": "2026-06-01T03:56:31.169630"
-      },
-      "53fc86c6deb7a4e7": {
-        "title": "Senior Technology Researcher/Developer, Quantum Simulation (f/m/d)",
-        "seen": "2026-06-01T03:56:31.169710"
-      },
-      "39deaad0306b7b8b": {
-        "title": "Technical Product Manager (m/f/d) for Business Accelerator Hub @ BTP Integration Suite",
-        "seen": "2026-06-01T03:56:32.672835"
-      },
-      "cb8aaa2acd8e8797": {
-        "title": "Architecture Advisor Expert, Cairo",
-        "seen": "2026-06-01T03:56:32.673437"
-      },
-      "f1bfd9e4a2e153af": {
-        "title": "Solution Sales Expert - Data Analytics & AI (Mumbai - West Region)",
-        "seen": "2026-06-01T03:56:34.177749"
-      },
-      "88bf0c27a47069e5": {
-        "title": "SAP iXp Intern - SAP Research Operations Specialist Intern",
-        "seen": "2026-06-01T03:56:35.683726"
-      },
-      "ced6449fe5d174af": {
-        "title": "Senior Account Executive",
-        "seen": "2026-06-01T03:56:37.211312"
-      },
-      "a197018431a5cb22": {
-        "title": "Business Processes Consultant- Global Delivery Hub - SAP Finance AI",
-        "seen": "2026-06-01T03:56:37.211911"
-      },
-      "22d9c980d8b7b57c": {
-        "title": "Senior Agentic AI Product Owner - Employee Digital Experience and Content Management",
-        "seen": "2026-06-01T03:56:38.704389"
-      },
-      "252bddca6f09f0f3": {
-        "title": "Government Affairs Manager EU",
-        "seen": "2026-06-01T03:56:40.193942"
-      },
-      "c589729a7ca5c376": {
-        "title": "Government Affairs Manager EU, Nordics & Netherlands",
-        "seen": "2026-06-01T03:56:41.690552"
-      },
-      "55d1d49b6c66b0cc": {
-        "title": "Solution Advisor Expert- SAP Supply Chain Management",
-        "seen": "2026-06-01T03:56:43.199923"
-      },
-      "33863f287d143cd5": {
-        "title": "Services Senior Account Executive-South Korea",
-        "seen": "2026-06-01T03:56:44.711979"
-      },
       "af970d4cbcea6a94": {
         "title": "JAPAN Value Advisor",
         "seen": "2026-06-01T09:26:51.301149"
@@ -119574,6 +119578,34 @@
       "b11f45940024ca57": {
         "title": "Senior Security DevOps Engineer (m/f/d)",
         "seen": "2026-08-30T23:11:23.113186"
+      },
+      "44214f3fb40d989e": {
+        "title": "Forward Deployed Application/ ML Principal Engineer",
+        "seen": "2026-08-31T07:27:33.062917"
+      },
+      "af12bacbdc2e6d5b": {
+        "title": "Senior Product Specialist - Revenue Growth Management",
+        "seen": "2026-08-31T07:27:34.480344"
+      },
+      "b29cafc6a5d2fd4a": {
+        "title": "Product Expert - Revenue Growth Management",
+        "seen": "2026-08-31T07:27:34.480933"
+      },
+      "18cf4153735065de": {
+        "title": "SAP China iXp Intern - Intern Queue Manager for Technial Support - Dalian",
+        "seen": "2026-08-31T07:27:34.481016"
+      },
+      "67ce4397df046965": {
+        "title": "SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an",
+        "seen": "2026-08-31T07:27:35.831276"
+      },
+      "911e9a5d0fe58a8b": {
+        "title": "SAP China iXp Intern - PC3 Digital Customer Engagement Manager",
+        "seen": "2026-08-31T07:27:37.196479"
+      },
+      "3f7098f4e45cead4": {
+        "title": "Senior Data and Applied Science - SAP Data Labs - CX Team",
+        "seen": "2026-08-31T07:27:38.548637"
       }
     }
   },
@@ -122795,6 +122827,14 @@
       "6ff6fcaa3352262c": {
         "title": "Product Strategist, Systematic Active Equities, Associate",
         "seen": "2026-08-29T08:14:08.712902"
+      },
+      "fccd529d4ee3b785": {
+        "title": "India HSE Manager, Vice President, Tech & Ops",
+        "seen": "2026-08-31T07:27:47.410830"
+      },
+      "694968ded2c335e4": {
+        "title": "Model Risk Management, Associate, RQA",
+        "seen": "2026-08-31T07:27:48.814847"
       }
     }
   },
@@ -124868,14 +124908,6 @@
   "f1849127e1bf": {
     "name": "Mistral AI",
     "jobs": {
-      "7320a179c687d819": {
-        "title": "Product Monetisation & Pricing Lead",
-        "seen": "2026-06-01T03:57:15.603380"
-      },
-      "d2fee26c5e397e02": {
-        "title": "Product Operations Manager",
-        "seen": "2026-06-01T03:57:15.603485"
-      },
       "34904b9911fb5629": {
         "title": "Applied Scientist / Domain Expert, AI4Engineering - EMEA",
         "seen": "2026-06-01T20:19:07.323164"
