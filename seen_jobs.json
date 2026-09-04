@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "30a7a759eaa5361f": {
-        "title": "Enterprise Account Executive, Digital Native Business",
-        "seen": "2026-06-05T01:36:58.205042"
-      },
       "7a7c28e4fc6ea520": {
         "title": "Events Lead, Brand",
         "seen": "2026-06-05T06:21:43.178371"
@@ -3590,6 +3586,22 @@
       "eee540c56d9439dd": {
         "title": "Sales Strategy, Operational Excellence",
         "seen": "2026-09-04T00:53:49.127914"
+      },
+      "2a204950db73c94e": {
+        "title": "Data Infrastructure Engineer, Pre-training",
+        "seen": "2026-09-04T05:30:43.654448"
+      },
+      "4b34e30c386edfbc": {
+        "title": "Enterprise Account Executive - DNB",
+        "seen": "2026-09-04T05:30:45.030437"
+      },
+      "ccf76e460c3e6742": {
+        "title": "Manager, Technical Deployment (Financial Services)",
+        "seen": "2026-09-04T05:30:45.031225"
+      },
+      "3cd1e4fb9a7bc594": {
+        "title": "Staff+ Software Engineer, Claude Science",
+        "seen": "2026-09-04T05:30:45.031556"
       }
     }
   },
@@ -8687,6 +8699,10 @@
       "1e15a03faa0014f2": {
         "title": "Account Director, State and Local Government",
         "seen": "2026-09-04T00:53:51.646314"
+      },
+      "2f6e71202b221729": {
+        "title": "Field Marketing Lead, APAC",
+        "seen": "2026-09-04T05:30:48.749617"
       }
     }
   },
@@ -13908,6 +13924,34 @@
       "71348483eaceda64": {
         "title": "Sr. Solutions Architect, Customer Lake",
         "seen": "2026-09-04T00:53:55.293573"
+      },
+      "1f02f6a1eb40b8ca": {
+        "title": "Solutions Architect (Genie)",
+        "seen": "2026-09-04T05:30:54.078258"
+      },
+      "4ff6ba9c11e67d1d": {
+        "title": "Sr. Manager – Data & AI Support Engineering",
+        "seen": "2026-09-04T05:30:54.078497"
+      },
+      "8559bb317e1f84bb": {
+        "title": "Sr. Solutions Architect (CustomerLake)",
+        "seen": "2026-09-04T05:30:55.400879"
+      },
+      "e91785697d4615b7": {
+        "title": "Staff Software Engineer",
+        "seen": "2026-09-04T05:30:55.401539"
+      },
+      "fc94f66843f302ff": {
+        "title": "Staff Software Engineer - Frontend (NYC)",
+        "seen": "2026-09-04T05:30:56.709373"
+      },
+      "48de51486367de35": {
+        "title": "Staff Software Engineer, Fullstack - AI Product (NYC)",
+        "seen": "2026-09-04T05:30:58.033414"
+      },
+      "30e566519759df56": {
+        "title": "Workplace Services Manager",
+        "seen": "2026-09-04T05:30:59.375601"
       }
     }
   },
@@ -13918,22 +13962,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "e19f444491d1b306": {
-        "title": "Channel Marketing - Product, Senior Associate",
-        "seen": "2026-06-05T01:37:10.732061"
-      },
-      "26e89d5b096e7dab": {
-        "title": "Business Analysis Manager - Global Screening Operations - Vice President",
-        "seen": "2026-06-05T01:37:10.732201"
-      },
-      "f1e8a9a194c897cd": {
-        "title": "Risk Management - Quant Modeling Director - Executive Director",
-        "seen": "2026-06-05T01:37:10.732429"
-      },
-      "3cd8592382d15bd3": {
-        "title": "Software Engineer III  - Java / Transformative AI/LLM",
-        "seen": "2026-06-05T01:37:12.301790"
-      },
       "da58eeba8e48506d": {
         "title": "Global Investment Banking - Vice President, Hong Kong",
         "seen": "2026-06-05T06:22:01.198312"
@@ -68597,6 +68625,38 @@
       "0110605e10da17d6": {
         "title": "CCB Head of Real Estate Planning and Location Strategy – Managing Director",
         "seen": "2026-09-04T00:54:03.325571"
+      },
+      "a0613ae49e793a81": {
+        "title": "Payment Lifecycle Specialist - EMEA Investigations",
+        "seen": "2026-09-04T05:31:07.529831"
+      },
+      "f8c14de5cf87d2d2": {
+        "title": "Senior Lead Infrastructure Engineer — On Prem OpenShift Platform",
+        "seen": "2026-09-04T05:31:07.529934"
+      },
+      "2fe3ccf4b140677d": {
+        "title": "Deposits 2.0 - Product, Senior Associate",
+        "seen": "2026-09-04T05:31:08.865340"
+      },
+      "823df1777f0b40f4": {
+        "title": "Workplace Technology - Product Manager, Vice President",
+        "seen": "2026-09-04T05:31:08.865623"
+      },
+      "71ac30b7b6a09b41": {
+        "title": "Fund Servicing Specialist",
+        "seen": "2026-09-04T05:31:08.865784"
+      },
+      "553bd06d45691850": {
+        "title": "Branch Manager - San Jose Markets - San Jose, CA",
+        "seen": "2026-09-04T05:31:08.865873"
+      },
+      "1429899739005abf": {
+        "title": "Agility Associate - Digital Product Portfolio Management Scrum & Kanban Practices",
+        "seen": "2026-09-04T05:31:08.865945"
+      },
+      "5744fd558f0cdc7b": {
+        "title": "Community Home Lending Advisor - Los Angeles CA",
+        "seen": "2026-09-04T05:31:08.866014"
       }
     }
   },
@@ -69220,18 +69280,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "adb761621583ce0a": {
-        "title": "Software Development Engineer, Workshop Studio",
-        "seen": "2026-06-05T01:37:27.231853"
-      },
-      "88441b94ae736489": {
-        "title": "Senior Station Manager, Amazon Last Mile Operations",
-        "seen": "2026-06-05T01:37:28.736348"
-      },
-      "45103b0263a3b722": {
-        "title": "Pr. Delivery Consultant, AWS Professional Services",
-        "seen": "2026-06-05T01:37:28.736750"
-      },
       "d2527dc8f68206f4": {
         "title": "Account Manager, Amazon",
         "seen": "2026-06-05T06:22:25.384023"
@@ -104839,16 +104887,48 @@
       "400205a3ca8bd955": {
         "title": "DCO Manager , Infra Ops - HYD",
         "seen": "2026-09-04T00:54:19.192348"
+      },
+      "bc0bc215c4dbca9f": {
+        "title": "Data Center Regional Engineer - Electrical, Colo Regional Engineering",
+        "seen": "2026-09-04T05:31:22.266421"
+      },
+      "8c0bbff9c00d5612": {
+        "title": "Full Lifecycle Recruiter",
+        "seen": "2026-09-04T05:31:23.581409"
+      },
+      "cb34b1230306b021": {
+        "title": "Head of Media Partnerships, JP, Media Enablement Team",
+        "seen": "2026-09-04T05:31:23.581702"
+      },
+      "a04b38ebf7d24562": {
+        "title": "Sr. Technical Account Manager (TAM), WWPS Partners Public Sector (GDMC)",
+        "seen": "2026-09-04T05:31:23.581789"
+      },
+      "1013f2ea5dc9864e": {
+        "title": "Global Partner Manager, LCSA, Large Client Sales, Ads",
+        "seen": "2026-09-04T05:31:23.582097"
+      },
+      "b35d1f063e98077f": {
+        "title": "Data Center Operations Program Technician - People with Disability (PwD), ICN",
+        "seen": "2026-09-04T05:31:23.582223"
+      },
+      "5d47bbb642198138": {
+        "title": "Production Coordinator - 2nd Shift, Amazon Leo Operations Fulfillment",
+        "seen": "2026-09-04T05:31:24.889205"
+      },
+      "340224bd10852ebb": {
+        "title": "Operations Fulfillment Manager, Amazon Leo",
+        "seen": "2026-09-04T05:31:24.889443"
+      },
+      "79d649fe782c820b": {
+        "title": "DCO Manager , Infra Ops - HYD",
+        "seen": "2026-09-04T05:31:24.889629"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "84466304fb739c65": {
-        "title": "Designer, Web Presence & Platform",
-        "seen": "2026-06-05T01:37:34.878138"
-      },
       "0a94b7f1e44fb4a4": {
         "title": "Risk Operations Analyst - PRO",
         "seen": "2026-06-05T06:22:39.490094"
@@ -109160,6 +109240,10 @@
       "c29abca953542074": {
         "title": "Training Program Manager",
         "seen": "2026-09-04T00:54:26.789544"
+      },
+      "7b0619dd03545eff": {
+        "title": "Sales Manager, Enterprise Platforms, Hunter Team",
+        "seen": "2026-09-04T05:31:32.287832"
       }
     }
   },
@@ -109651,14 +109735,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "f64fccd9e590687c": {
-        "title": "Senior Industry Account Executive - Strategic (SCP) - Aerospace and Defense",
-        "seen": "2026-06-05T01:37:53.803039"
-      },
-      "72fbb43fc8789497": {
-        "title": "SAP iXp Intern - Associate Project Manager",
-        "seen": "2026-06-05T01:37:53.803363"
-      },
       "7aba6e978b312c4e": {
         "title": "Senior Full Stack Developer - Java",
         "seen": "2026-06-05T10:32:22.598034"
@@ -119090,6 +119166,18 @@
       "a39f17e469220df2": {
         "title": "Senior Account Executive - Corporate Field  - Public Services - Northeast",
         "seen": "2026-09-03T23:00:02.434499"
+      },
+      "fd00bda6b86527ac": {
+        "title": "(Senior) Consultant (f/m/d) SAP Procurement Delivery Services",
+        "seen": "2026-09-04T05:31:48.467568"
+      },
+      "3fb951df09bda3a5": {
+        "title": "SmartRecruiters Business Processes Senior Consultant",
+        "seen": "2026-09-04T05:31:48.467657"
+      },
+      "615d9350142e2c47": {
+        "title": "SAP iXp Intern - Public Sector Industry Team",
+        "seen": "2026-09-04T05:31:48.467756"
       }
     }
   },
@@ -122167,16 +122255,16 @@
       "528074479c136b15": {
         "title": "Vice President, Alternatives Tax Law",
         "seen": "2026-09-03T23:00:10.720957"
+      },
+      "0c028da4c606b6ef": {
+        "title": "Valuation Governance, Associate, Tech & Ops",
+        "seen": "2026-09-04T05:31:56.662540"
       }
     }
   },
   "7c6062845910": {
     "name": "Replit",
     "jobs": {
-      "6522f22765265c1e": {
-        "title": "Senior Talent Programs Lead",
-        "seen": "2026-06-05T01:38:09.493350"
-      },
       "958982198c7f49ec": {
         "title": "Head of Social Media Marketing",
         "seen": "2026-06-05T13:53:36.394971"
@@ -124250,6 +124338,10 @@
       "1f6b41a31bbea420": {
         "title": "Booking Holdings Romania - Regulatory Compliance Manager",
         "seen": "2026-09-03T13:49:54.947295"
+      },
+      "772e7a3b42232cc3": {
+        "title": "Data & AI Governance Configuration Manager",
+        "seen": "2026-09-04T05:32:12.807591"
       }
     }
   },
