@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "9f9b70bc13b945b6": {
-        "title": "Product Manager, Platform",
-        "seen": "2026-06-09T02:57:27.352564"
-      },
       "c617a931abfdcceb": {
         "title": "Technical Program Manager, Apps Platform",
         "seen": "2026-06-09T10:34:11.004376"
@@ -3648,10 +3644,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "eebd03ee32d3991e": {
-        "title": "Integrated Marketing Manager",
-        "seen": "2026-06-09T02:57:29.804000"
-      },
       "e4eea63da565cf4e": {
         "title": "Senior Legal Program Manager, Legal Operations",
         "seen": "2026-06-09T06:58:34.626682"
@@ -8691,6 +8683,18 @@
       "6aa8bd640a4d3d3e": {
         "title": "Technical Program Manager, Applied API & Product",
         "seen": "2026-09-08T00:58:39.775021"
+      },
+      "30923c9b04b9d96b": {
+        "title": "Consumer Marketing Manager, Japan",
+        "seen": "2026-09-08T05:46:44.964402"
+      },
+      "14c844a7d3be527e": {
+        "title": "Systems Software Engineer, Security, First Party Hardware",
+        "seen": "2026-09-08T05:46:44.965246"
+      },
+      "1a99f599f85a57fd": {
+        "title": "Technical Lead Manager - Training Runtime, Data(set) Movement",
+        "seen": "2026-09-08T05:46:46.619158"
       }
     }
   },
@@ -13968,6 +13972,10 @@
       "c3d9c1fe5ec81ef5": {
         "title": "Staff Software Engineer, AI Runtime",
         "seen": "2026-09-08T00:58:43.529853"
+      },
+      "c7a1e539aa4abf85": {
+        "title": "Senior Revenue Accountant",
+        "seen": "2026-09-08T05:46:50.268674"
       }
     }
   },
@@ -13978,42 +13986,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "b7dcff3a3ecbe97a": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Tukwila, WA",
-        "seen": "2026-06-09T02:57:39.942204"
-      },
-      "620a429ee62ac19f": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Seattle, WA (West Seattle)",
-        "seen": "2026-06-09T02:57:39.942336"
-      },
-      "a5d6c35a6b550b58": {
-        "title": "Asset Management - MAS Investment Specialist - Executive Director",
-        "seen": "2026-06-09T02:57:39.942432"
-      },
-      "0d8fc6ae9c772d24": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Bainbridge Island, WA",
-        "seen": "2026-06-09T02:57:39.942523"
-      },
-      "e227233500a54154": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Seattle, WA (Martin Luther King Jr)",
-        "seen": "2026-06-09T02:57:41.638280"
-      },
-      "106fdcd0d6ec1bf5": {
-        "title": "JPMAM APAC Lead for ETF Product and Content Marketing, Managing Writer/Editor",
-        "seen": "2026-06-09T02:57:41.638508"
-      },
-      "62d072cf1db68add": {
-        "title": "Global Corporate Banking - Head of Singapore Headquarter Large Cap, Managing Director",
-        "seen": "2026-06-09T02:57:41.638635"
-      },
-      "9377da7674f67f18": {
-        "title": "Compliance - Operational Risk Management Lead - Vice President",
-        "seen": "2026-06-09T02:57:41.638875"
-      },
-      "3e1e2e902b67cc16": {
-        "title": "Compliance-Surveillance-Senior-Officer - Associate",
-        "seen": "2026-06-09T02:57:41.639160"
-      },
       "ec603108adda1808": {
         "title": "Private Client Banker - West Berlin Branch (New Build) - West Berlin, NJ",
         "seen": "2026-06-09T06:58:50.880572"
@@ -68261,6 +68233,50 @@
       "885d1a5482c41a38": {
         "title": "Collections Specialist II",
         "seen": "2026-09-08T00:58:54.607058"
+      },
+      "11846fe52b17d56f": {
+        "title": "Part Time Associate Banker Upper Manhattan (30 hours)",
+        "seen": "2026-09-08T05:46:58.390706"
+      },
+      "343a6a70cf487552": {
+        "title": "2026 Commercial & Investment Bank - Global Investment Banking Program - Inside the Industry Case Challenge - Hong Kong",
+        "seen": "2026-09-08T05:46:58.390785"
+      },
+      "441f28a823915bb4": {
+        "title": "Event Planner Data Specialist - Associate",
+        "seen": "2026-09-08T05:46:58.390888"
+      },
+      "26d938d471784460": {
+        "title": "Relationship Banker - Blackwood Clementon Branch (New Build) - Clementon, NJ",
+        "seen": "2026-09-08T05:46:59.925073"
+      },
+      "d57f79d64cc0521e": {
+        "title": "Construction Project Manager Senior - Branch Refresh",
+        "seen": "2026-09-08T05:46:59.925596"
+      },
+      "3c5bfa725b75e2ae": {
+        "title": "Senior Product Associate - Business Banking Digital",
+        "seen": "2026-09-08T05:46:59.925687"
+      },
+      "066cdf0969cdbe6b": {
+        "title": "Fund Servicing Associate",
+        "seen": "2026-09-08T05:46:59.925768"
+      },
+      "5eebdc27200f4033": {
+        "title": "Software Engineer III-Java Full Stack",
+        "seen": "2026-09-08T05:46:59.925845"
+      },
+      "ab566f2e33ff21ef": {
+        "title": "Data Scientist-Vice President-Finance Data & Analytics",
+        "seen": "2026-09-08T05:47:01.408533"
+      },
+      "a59737728ea4faa2": {
+        "title": "Software Engineer III - Java AWS",
+        "seen": "2026-09-08T05:47:02.918649"
+      },
+      "196e1d6843d90fb6": {
+        "title": "APAC Payment Rail Product - Executive Director",
+        "seen": "2026-09-08T05:47:04.487140"
       }
     }
   },
@@ -68892,70 +68908,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "130aeab85c49e23e": {
-        "title": "Sr. ASIC Design Verification Engineer, Amazon Leo",
-        "seen": "2026-06-09T02:57:54.935172"
-      },
-      "a15b0fcd168f7ec8": {
-        "title": "Sr. RF Comms Systems Engineer, Amazon Leo",
-        "seen": "2026-06-09T02:57:56.455494"
-      },
-      "fd5cc2561e650976": {
-        "title": "Data Center Technical Operations Engineer",
-        "seen": "2026-06-09T02:57:57.971807"
-      },
-      "25d3f0c86455a2a1": {
-        "title": "Infra Delivery Install Technician",
-        "seen": "2026-06-09T02:57:59.473654"
-      },
-      "9ac84cc409f1481c": {
-        "title": "Finance Manager, WW Ops Finance - CF Support",
-        "seen": "2026-06-09T02:57:59.473949"
-      },
-      "de306ef275a5b411": {
-        "title": "Sr. Technical Program Manager, Global Network Deployment (GND)",
-        "seen": "2026-06-09T02:58:00.985406"
-      },
-      "ea68d8f34594d738": {
-        "title": "Datacenter IT Technician Trainee (6 months), Data Centre Operations, Auckland",
-        "seen": "2026-06-09T02:58:00.985805"
-      },
-      "e01980937ff197d0": {
-        "title": "Sr. Customer Solutions Manager",
-        "seen": "2026-06-09T02:58:02.528642"
-      },
-      "a7e13c42e6f6d25d": {
-        "title": "Product Test Engineer,, Trainium Manufacturing, Quality and Reliability",
-        "seen": "2026-06-09T02:58:02.528947"
-      },
-      "6b07e51d0fdc26f5": {
-        "title": "Data Center Engineering Operations Technician , DCEO Engr 3",
-        "seen": "2026-06-09T02:58:04.042937"
-      },
-      "afd724c2808b7d3a": {
-        "title": "Data Center Engineering Operations Technician , DCEO Engr 4",
-        "seen": "2026-06-09T02:58:05.547084"
-      },
-      "a4b8d36e177f1e2e": {
-        "title": "Space Simulation Technician , Amazon Leo",
-        "seen": "2026-06-09T02:58:07.056427"
-      },
-      "1b57bccf92f0e660": {
-        "title": "Aerospace Manufacturing Engineer, Leo Decks",
-        "seen": "2026-06-09T02:58:07.056924"
-      },
-      "f63cb7797ca359a4": {
-        "title": "Data Center Operations Cluster Manager, DCC Communities",
-        "seen": "2026-06-09T02:58:08.573342"
-      },
-      "35c4ac54fd92e9c8": {
-        "title": "Network Development Engineer , European Sovereign Cloud",
-        "seen": "2026-06-09T02:58:10.093546"
-      },
-      "b9e5982ea324519d": {
-        "title": "MFG Functional Technician, Amazon Leo",
-        "seen": "2026-06-09T02:58:11.608979"
-      },
       "b84fabdfa35c292b": {
         "title": "Hardware Development Engineer, Ring- Core",
         "seen": "2026-06-09T06:59:16.269684"
@@ -104155,24 +104107,48 @@
       "b6a7dd97432f41da": {
         "title": "Network Deployment Build Lead, Global Network Delivery",
         "seen": "2026-09-08T00:59:11.872001"
+      },
+      "282cfc7b44105cab": {
+        "title": "【2028年卒｜新卒正社員採用】HR (人事) 総合職 , オペレーション部門",
+        "seen": "2026-09-08T05:47:19.039990"
+      },
+      "332c9f3cef39cb6a": {
+        "title": "Cluster Project Design Electrical Engineer, Fleet Remediation Engineering",
+        "seen": "2026-09-08T05:47:19.040233"
+      },
+      "029207c05a496778": {
+        "title": "Data Center Operation Engineer, DCO (Data Center Operations)",
+        "seen": "2026-09-08T05:47:20.518074"
+      },
+      "2c17678c975dfa01": {
+        "title": "Principal Applied Scientist, CX Science",
+        "seen": "2026-09-08T05:47:22.030181"
+      },
+      "0de0739484cdd96c": {
+        "title": "Data Center Engineering Operation (DCEO), Data Center Engineering Operations",
+        "seen": "2026-09-08T05:47:22.030483"
+      },
+      "379c27bb8b34edba": {
+        "title": "Real Estate Italy Transaction Manager, EU Real Estate",
+        "seen": "2026-09-08T05:47:23.604370"
+      },
+      "771630f11d82d793": {
+        "title": "Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering",
+        "seen": "2026-09-08T05:47:23.604584"
+      },
+      "2a0b27612d7d63b6": {
+        "title": "Senior Vendor Manager, New Business, Shoes, Amazon Fashion",
+        "seen": "2026-09-08T05:47:25.113609"
+      },
+      "651006aa1d5781d4": {
+        "title": "Senior Technical Programme Manager, Data Centre Delivery",
+        "seen": "2026-09-08T05:47:25.113876"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "1e18eeb92216925e": {
-        "title": "Operations Associate - Product Support Operations (CDMX)",
-        "seen": "2026-06-09T02:58:17.752353"
-      },
-      "66b06ad3fd482be4": {
-        "title": "Sales Manager, Commercial (German Fluency)",
-        "seen": "2026-06-09T02:58:17.752644"
-      },
-      "745d90abb4eb4595": {
-        "title": "Staff Brand Designer, Link",
-        "seen": "2026-06-09T02:58:17.752820"
-      },
       "628f15e283f0a106": {
         "title": "Sr. Operations Associate, Sanctions (FinCrime)",
         "seen": "2026-06-09T06:59:26.710128"
@@ -108827,46 +108803,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "d40264bfa6ac4487": {
-        "title": "(Chief) Product Expert AI for Region KSA",
-        "seen": "2026-06-09T02:58:53.294724"
-      },
-      "6b2aafe6b1cab254": {
-        "title": "(Senior) Development Manager AI Products & Solutions UAE-Region",
-        "seen": "2026-06-09T02:58:54.882305"
-      },
-      "47154ce371f0b97b": {
-        "title": "(Senior) Development Manager AI Products & Solutions KSA-Region",
-        "seen": "2026-06-09T02:58:56.384986"
-      },
-      "c2fcbccc5b7a5b10": {
-        "title": "Customer Success Manager - Public Cloud Financial Solutions",
-        "seen": "2026-06-09T02:58:57.903058"
-      },
-      "63bfb92b004cefb1": {
-        "title": "Senior Machine Learning Software Engineer",
-        "seen": "2026-06-09T02:58:57.903639"
-      },
-      "4796ec5a282f84db": {
-        "title": "Java Developer: Fullstack Developer",
-        "seen": "2026-06-09T02:58:59.415507"
-      },
-      "32b94ec5ca193e71": {
-        "title": "Solution Sales Expert - for BTP (AI, AppDev, Integration)",
-        "seen": "2026-06-09T02:58:59.416167"
-      },
-      "078a28495fa2c0b6": {
-        "title": "IT Technology Services Specialist-SAP BASIS, HANA DBA",
-        "seen": "2026-06-09T02:59:00.914972"
-      },
-      "df9cca3017a2a016": {
-        "title": "APAC Corporate Field Sales Leader",
-        "seen": "2026-06-09T02:59:00.915417"
-      },
-      "1dffb13c169af733": {
-        "title": "Working Student (f/m/d) - Sales Development SAP Signavio MEE",
-        "seen": "2026-06-09T02:59:00.915685"
-      },
       "d8fc2d5e3f12f893": {
         "title": "Sales Development Specialist- HCM",
         "seen": "2026-06-09T06:59:45.854012"
@@ -117826,6 +117762,30 @@
       "e7ee7eee450adb84": {
         "title": "Senior Enterprise Architect - AI & Business Transformation",
         "seen": "2026-09-07T22:57:42.870812"
+      },
+      "ed762c0a8b9531ca": {
+        "title": "Digital Customer Engagement Manager - SAP Basis, Project Management",
+        "seen": "2026-09-08T05:47:52.002908"
+      },
+      "51c8cb223e249ffd": {
+        "title": "SAP NS2 Functional Application Architect-onsite Chantilly, VA",
+        "seen": "2026-09-08T05:47:52.002965"
+      },
+      "73eaa0c10007c19e": {
+        "title": "Senior Platform Engineer - Edge Integration Cell",
+        "seen": "2026-09-08T05:47:52.003041"
+      },
+      "2adf531ea6f0f274": {
+        "title": "S/4HANA Architect (m/f/d) - Sovereign Cloud Delivery Germany",
+        "seen": "2026-09-08T05:47:53.571750"
+      },
+      "aebf14047d838db3": {
+        "title": "Business AI Architect",
+        "seen": "2026-09-08T05:47:53.572007"
+      },
+      "6a144a076e1bf8c5": {
+        "title": "Senior SAP AI Architect",
+        "seen": "2026-09-08T05:47:55.089856"
       }
     }
   },
@@ -120861,10 +120821,6 @@
   "7c6062845910": {
     "name": "Replit",
     "jobs": {
-      "87060028be5b263b": {
-        "title": "Senior Compensation Strategy & Systems Manager",
-        "seen": "2026-06-09T02:59:14.039980"
-      },
       "2817c2b6c95e91f3": {
         "title": "Social Media Manager",
         "seen": "2026-06-09T21:19:41.195963"
@@ -122910,6 +122866,10 @@
       "c90644b95f12f216": {
         "title": "Junior Software Engineer",
         "seen": "2026-09-07T20:06:44.516528"
+      },
+      "6791ed4855b09a0b": {
+        "title": "Account Executive - Bangalore",
+        "seen": "2026-09-08T05:48:20.667339"
       }
     }
   },
@@ -123794,10 +123754,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "8d67ccc6bca9037e": {
-        "title": "Engineering Manager - Ads Measurement",
-        "seen": "2026-06-09T02:59:36.414652"
-      },
       "f453f5e3b9ce385d": {
         "title": "Product Manager, Ads Platform (Experimentation Foundations)",
         "seen": "2026-06-09T19:14:37.121905"
