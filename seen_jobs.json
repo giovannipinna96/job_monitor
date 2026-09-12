@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "fc59afede8fa409c": {
-        "title": "Engineering Manager, Enterprise",
-        "seen": "2026-06-13T05:00:45.297679"
-      },
       "897fd013fc7c3419": {
         "title": "Data Center OFE Strategic Sourcing Lead (Mechanical)",
         "seen": "2026-06-15T16:18:04.574876"
@@ -3712,10 +3708,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "6c8646e42616e214": {
-        "title": "GRC Program Manager, Product and Customer Trust",
-        "seen": "2026-06-13T05:00:49.027296"
-      },
       "407848e79123cb4d": {
         "title": "Account Director, Startups",
         "seen": "2026-06-15T16:18:12.666552"
@@ -8839,32 +8831,16 @@
       "76a2c0469fe388c4": {
         "title": "Research Engineer, AI for Chip Design",
         "seen": "2026-09-12T01:24:00.878437"
+      },
+      "2c668e9471c91d13": {
+        "title": "Researcher, Safety Training, National Security",
+        "seen": "2026-09-12T06:10:18.686896"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "296c194e7931a7f2": {
-        "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
-        "seen": "2026-06-13T05:00:51.120299"
-      },
-      "78d4bfc7c6c01137": {
-        "title": "Forward Deployed Engineer",
-        "seen": "2026-06-13T05:00:51.120482"
-      },
-      "543527664020ab19": {
-        "title": "Sr. Compensation Manager, G&A",
-        "seen": "2026-06-13T05:00:52.469987"
-      },
-      "44e9dc16f06539ad": {
-        "title": "Sr. Compensation Manager, R&D",
-        "seen": "2026-06-13T05:00:52.470586"
-      },
-      "737e74f975423b6e": {
-        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
-        "seen": "2026-06-13T05:00:52.470689"
-      },
       "0616fc4e11e14fab": {
         "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
         "seen": "2026-06-14T06:39:53.179689"
@@ -14090,54 +14066,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "bdf72f7d5ddc0796": {
-        "title": "Relationship Banker - Simi Valley Market - Thousand Oaks, CA and Surrounding Areas",
-        "seen": "2026-06-13T05:01:02.125865"
-      },
-      "68676603db2a821f": {
-        "title": "Site Reliability Engineer III",
-        "seen": "2026-06-13T05:01:02.125945"
-      },
-      "d1ea021a53bed54a": {
-        "title": "Senior Lead Site Reliability Engineer - AI/ML and Data Platforms",
-        "seen": "2026-06-13T05:01:03.474675"
-      },
-      "13d03a6093bbe78f": {
-        "title": "Control Manager - Associate",
-        "seen": "2026-06-13T05:01:04.786046"
-      },
-      "a8fefcbc0f4aa232": {
-        "title": "Securities Services Operations - Transaction Processing Manager – Custody Operations",
-        "seen": "2026-06-13T05:01:04.786694"
-      },
-      "b27ff9cdc8e58bab": {
-        "title": "Relationship Banker - Marin Napa Market- San Rafael, CA",
-        "seen": "2026-06-13T05:01:04.786763"
-      },
-      "3f7798f1719e81f4": {
-        "title": "Data Governance Product Manager Vice President",
-        "seen": "2026-06-13T05:01:04.786810"
-      },
-      "215f6af16630413b": {
-        "title": "Relationship Banker - North San Jose Market - San Jose, CA",
-        "seen": "2026-06-13T05:01:06.097562"
-      },
-      "d52ce7faf20d0047": {
-        "title": "Corporate Sales - Payments - Analyst",
-        "seen": "2026-06-13T05:01:06.098077"
-      },
-      "5fcfa1140fe7a01d": {
-        "title": "Credit Support Analyst",
-        "seen": "2026-06-13T05:01:06.098124"
-      },
-      "285942e0cdc1c2fb": {
-        "title": "Treasury Sales Associate -Emerging Middle Market",
-        "seen": "2026-06-13T05:01:06.098174"
-      },
-      "45c04f6f6aecb990": {
-        "title": "Lead Software Engineer",
-        "seen": "2026-06-13T05:01:06.098221"
-      },
       "59fe547ab72d7d3a": {
         "title": "J.P. Morgan Wealth Management - Private Client Investment Associate - Piqua, OH",
         "seen": "2026-06-13T13:04:38.121841"
@@ -68321,6 +68249,14 @@
       "80c417a587982499": {
         "title": "Associate Banker, 30 Hours, Duluth/Dunwoody, GA Area - Multiple Locations",
         "seen": "2026-09-12T01:24:14.197030"
+      },
+      "c3ecec7ceb358f8f": {
+        "title": "Associate Relationship Banker - Rogers Park - Chicago, IL",
+        "seen": "2026-09-12T06:10:31.010045"
+      },
+      "5eb2f1ab422c8784": {
+        "title": "Relationship Banker - Far Hills - Oakwood, OH",
+        "seen": "2026-09-12T06:10:31.010134"
       }
     }
   },
@@ -68932,18 +68868,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "8201a37cbf3fa6e6": {
-        "title": "Sr Sourcing Recruiter, ADC",
-        "seen": "2026-06-13T05:01:21.129064"
-      },
-      "112126eabb44c3d5": {
-        "title": "Senior Station Manager",
-        "seen": "2026-06-13T05:01:21.129144"
-      },
-      "7989e54b81cf2983": {
-        "title": "Indirect Procurement Strategist, WWGS Indirect Procurement",
-        "seen": "2026-06-13T05:01:21.129216"
-      },
       "3f38f317cc477610": {
         "title": "Corporate Development Manager, AWS CorpDev",
         "seen": "2026-06-13T08:37:06.405856"
@@ -104579,6 +104503,14 @@
       "286b2ad0b6efb085": {
         "title": "Shipper Performance Coach, Amazon Global Logistics, Inbound Transportation, Shipper Support",
         "seen": "2026-09-12T01:24:29.846370"
+      },
+      "506f9a9c8a4a61f1": {
+        "title": "Sr. Technical Program Manager, Devices Sales & Customer Experience (DCSX)",
+        "seen": "2026-09-12T06:10:43.958237"
+      },
+      "8c8260746cb61c74": {
+        "title": "Program Manager, Early Career Talent Program, APJ ECT Tech",
+        "seen": "2026-09-12T06:10:43.958472"
       }
     }
   },
@@ -108896,6 +108828,14 @@
       "80b8cca3f7340887": {
         "title": "Sales Manager, Product - Link",
         "seen": "2026-09-12T01:24:38.863222"
+      },
+      "c5079b8459ea13f5": {
+        "title": "Account Executive, Product Sales - Tax",
+        "seen": "2026-09-12T06:10:50.049234"
+      },
+      "5113b46f32cd5da9": {
+        "title": "Manager, Product Sales - Radar",
+        "seen": "2026-09-12T06:10:50.049665"
       }
     }
   },
@@ -109411,46 +109351,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "96458683c7664ca7": {
-        "title": "AI Engineer",
-        "seen": "2026-06-13T05:01:44.438056"
-      },
-      "3cc6a9c460383a95": {
-        "title": "SAP BTP Architect with AI orientation",
-        "seen": "2026-06-13T05:01:45.749177"
-      },
-      "0afb8ba0b3e7f7c1": {
-        "title": "SAP iXp Intern - Software Developer (Agentic AI & LLM systems)",
-        "seen": "2026-06-13T05:01:47.065669"
-      },
-      "df060223368b53a2": {
-        "title": "Territory Ecosystem Manager",
-        "seen": "2026-06-13T05:01:48.374644"
-      },
-      "11b8a76e0502a4ae": {
-        "title": "Finance Presales Senior Solution Advisor - KSA",
-        "seen": "2026-06-13T05:01:48.375319"
-      },
-      "662d104812376fbd": {
-        "title": "Senior SAP AI Architect",
-        "seen": "2026-06-13T05:01:48.375367"
-      },
-      "c512a9986d8b3394": {
-        "title": "SAP Procurement Consultant - COE",
-        "seen": "2026-06-13T05:01:49.680877"
-      },
-      "57cc60b20a656a6a": {
-        "title": "SAP iXp Intern - AI Research PhD Associate (Summer 2026)",
-        "seen": "2026-06-13T05:01:49.681508"
-      },
-      "5650a8ad87940f74": {
-        "title": "SAP NS2 Application Security-Onsite - Chantilly, VA",
-        "seen": "2026-06-13T05:01:50.996332"
-      },
-      "f314b47852a7dcbe": {
-        "title": "SAP iXp Intern - Concur Travel Core & AI Software Developer",
-        "seen": "2026-06-13T05:01:50.996995"
-      },
       "3f52882fbf4a16dd": {
         "title": "Senior SAP AI Architect",
         "seen": "2026-06-13T11:14:28.807167"
@@ -118082,6 +117982,18 @@
       "4130db973e2ad6fc": {
         "title": "Principal Product Manager",
         "seen": "2026-09-12T01:24:57.346658"
+      },
+      "ca05b3897b3223ce": {
+        "title": "Cloud Service Engineer for BAIP (Business AI Platform)",
+        "seen": "2026-09-12T06:11:08.929017"
+      },
+      "0a14b70b99b65232": {
+        "title": "SAP iXp Intern (f/m/d) limited up to 6 months - Planner Experience Center Walldorf",
+        "seen": "2026-09-12T06:11:10.423161"
+      },
+      "5d8fec8b247af00f": {
+        "title": "Customer Success Partner Senior Advisor",
+        "seen": "2026-09-12T06:11:11.925828"
       }
     }
   },
