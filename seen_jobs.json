@@ -3804,14 +3804,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "bd50f94980933b8f": {
-        "title": "Research Engineer / Research Scientist- Personal AGI (Post Training)",
-        "seen": "2026-06-20T04:50:59.101218"
-      },
-      "9506574bb60242c6": {
-        "title": "Research Engineer / Research Scientist -Personal AGI, Proactivity",
-        "seen": "2026-06-20T04:51:00.686118"
-      },
       "ee0465db312e95df": {
         "title": "Datacenter Hardware Operations Technician Lead, Industrial Compute",
         "seen": "2026-06-20T14:42:18.227267"
@@ -9059,6 +9051,14 @@
       "96f2be16008f2cec": {
         "title": "Software Engineer, Consumer Health",
         "seen": "2026-09-18T21:07:00.078075"
+      },
+      "48aa86acd4069630": {
+        "title": "Model Policy Manager, Multimodal Safety",
+        "seen": "2026-09-19T06:27:11.242398"
+      },
+      "7ee15f54ac506a62": {
+        "title": "Model Policy Manager, National Security",
+        "seen": "2026-09-19T06:27:11.242468"
       }
     }
   },
@@ -14400,6 +14400,10 @@
       "f17ac5cdb5f6897e": {
         "title": "Staff Product Operations Lead, Marketplace Operations",
         "seen": "2026-09-19T01:28:43.864983"
+      },
+      "9369187e65438f93": {
+        "title": "Sr. Solutions Architect",
+        "seen": "2026-09-19T06:27:13.343461"
       }
     }
   },
@@ -69216,10 +69220,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "325fd97e2222275f": {
-        "title": "Area Manager",
-        "seen": "2026-06-20T04:51:25.887000"
-      },
       "b273226816eb5e3c": {
         "title": "Software Engineer, Media Experience",
         "seen": "2026-06-20T08:21:22.791263"
@@ -105099,6 +105099,42 @@
       "dbdb26e0726129f6": {
         "title": "Principal Global Account Manager, Global Financial Services",
         "seen": "2026-09-18T23:29:30.475663"
+      },
+      "27f137cda2f98821": {
+        "title": "Pharmacy Technician, Amazon Pharmacy",
+        "seen": "2026-09-19T06:27:35.471432"
+      },
+      "0f544a82ecac82a4": {
+        "title": "Certified Pharmacy Technician, Fulfillment, Amazon Pharmacy",
+        "seen": "2026-09-19T06:27:35.471488"
+      },
+      "6a93150a240c0101": {
+        "title": "Certified Pharmacy Technician, Amazon Pharmacy",
+        "seen": "2026-09-19T06:27:35.471534"
+      },
+      "b3d38f768ee8efed": {
+        "title": "Area Manager - Northborough, MA",
+        "seen": "2026-09-19T06:27:35.471572"
+      },
+      "c18a4f0687253ffe": {
+        "title": "Ship Clerk",
+        "seen": "2026-09-19T06:27:35.471607"
+      },
+      "c51e699f6862ca06": {
+        "title": "Senior NPI TPM, Ops, Last Mile Delivery & Technology",
+        "seen": "2026-09-19T06:27:35.471644"
+      },
+      "f179132cacf6cdec": {
+        "title": "Business Intelligence Engineer II, Amazon Leo",
+        "seen": "2026-09-19T06:27:37.041105"
+      },
+      "b1f57305350985d7": {
+        "title": "Sr. Data Scientist, Amazon Pay Data Products",
+        "seen": "2026-09-19T06:27:38.551932"
+      },
+      "3cfabb014d924d90": {
+        "title": "Sr. Technical Program Manager , Leo Inventory Fulfillment Technology (LIFT)",
+        "seen": "2026-09-19T06:27:40.088866"
       }
     }
   },
@@ -110215,14 +110251,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "d5575baa25c192a8": {
-        "title": "Principal Enterprise Architect",
-        "seen": "2026-06-20T04:51:52.571999"
-      },
-      "af2ec4c48b5011a3": {
-        "title": "Data Scientist (Experience 5 to 7 years), SAP Concur",
-        "seen": "2026-06-20T04:51:52.572062"
-      },
       "d70f1f0337150bef": {
         "title": "Backend Developer - AI & Agentic Applications",
         "seen": "2026-06-20T08:21:51.002825"
@@ -118242,6 +118270,18 @@
       "8d0cf8a3114a0ba0": {
         "title": "Rotation Program 2027: Communication",
         "seen": "2026-09-18T21:08:51.304570"
+      },
+      "ac7f5c6ceca1fe06": {
+        "title": "SAP iXp Intern - SAP Customer Support AI Automation Engineer",
+        "seen": "2026-09-19T06:28:05.522471"
+      },
+      "5b3bc9d6ddf22251": {
+        "title": "SAP China iXp Interns - Quality Engineer Intern - Cloud Native and Micro-Delivery Focus",
+        "seen": "2026-09-19T06:28:07.019481"
+      },
+      "a12221b33153b58b": {
+        "title": "Technical Service Manager",
+        "seen": "2026-09-19T06:28:08.525640"
       }
     }
   },
