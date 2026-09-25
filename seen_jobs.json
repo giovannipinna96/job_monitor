@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "0b7c21d78e1fdeb3": {
-        "title": "G&A Compensation Partner",
-        "seen": "2026-06-25T23:52:17.475031"
-      },
       "cc93ea671398bb0d": {
         "title": "Web Product Manager",
         "seen": "2026-06-26T03:33:27.272490"
@@ -3890,6 +3886,14 @@
       "13a18d6296c4b31b": {
         "title": "Staff+ Research Scientist, Multi-Agent",
         "seen": "2026-09-24T20:40:02.091816"
+      },
+      "e4329860214640cb": {
+        "title": "Digital Campaigns Strategist, Policy",
+        "seen": "2026-09-25T03:28:47.408931"
+      },
+      "eab2450eeff6eba1": {
+        "title": "Partner Manager, Microsoft Co-sell",
+        "seen": "2026-09-25T03:28:48.860691"
       }
     }
   },
@@ -9271,20 +9275,20 @@
       "10cbd9ee88b60740": {
         "title": "Strategic Finance, Ads",
         "seen": "2026-09-24T23:45:58.325596"
+      },
+      "c3ab957432c437a7": {
+        "title": "Agent Post-Training Research",
+        "seen": "2026-09-25T03:28:51.299456"
+      },
+      "e558398a0a93fc01": {
+        "title": "Software Engineer, Search Infrastructure",
+        "seen": "2026-09-25T03:28:52.686907"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "c2cf02f1ac85df27": {
-        "title": "Geo Hunter Account Executive",
-        "seen": "2026-06-25T23:52:21.888965"
-      },
-      "97f39783b2cbc423": {
-        "title": "Sr. Solutions Architect - Financial Services (Wealth and Asset Management)",
-        "seen": "2026-06-25T23:52:21.889449"
-      },
       "5111877d2422ff1d": {
         "title": "Enterprise Account Executive - Qatar",
         "seen": "2026-06-26T10:50:18.662766"
@@ -14520,6 +14524,38 @@
       "081adfb0e76931fb": {
         "title": "Staff Software Engineer, Agent Quality",
         "seen": "2026-09-24T20:40:17.302465"
+      },
+      "0a30ce12b71ed2a9": {
+        "title": "Enterprise Account Executive",
+        "seen": "2026-09-25T03:28:56.247814"
+      },
+      "db6ff4da03f27e31": {
+        "title": "Lead Engagement Manager, FDE - Communications, Media, Entertainment & Gaming",
+        "seen": "2026-09-25T03:28:56.247997"
+      },
+      "c083df66774401f6": {
+        "title": "Solutions Architect",
+        "seen": "2026-09-25T03:28:57.674384"
+      },
+      "dd160be3cb26338e": {
+        "title": "Sr. Deployment Strategist, FDE - Communications, Media, Entertainment & Gaming",
+        "seen": "2026-09-25T03:28:57.674782"
+      },
+      "fe602d04c0311cc3": {
+        "title": "Sr. Engagement Manager, FDE - Financial Services",
+        "seen": "2026-09-25T03:28:59.069399"
+      },
+      "473d3f6ba9d6b852": {
+        "title": "Sr. Field Technical Program Manager, FDE - Public Sector",
+        "seen": "2026-09-25T03:28:59.070026"
+      },
+      "6be0ef51e2e02dbb": {
+        "title": "Sr. Forward Deployed Engineer",
+        "seen": "2026-09-25T03:28:59.070097"
+      },
+      "51bc67aac5a9f6cc": {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+        "seen": "2026-09-25T03:29:00.499410"
       }
     }
   },
@@ -14530,30 +14566,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "0b2d2391ece9c695": {
-        "title": "Part Time Associate Banker Glendale Burbank (30 Hours)",
-        "seen": "2026-06-25T23:52:29.796865"
-      },
-      "8a7715d0da4cf111": {
-        "title": "Global Corporate Banking - Central America & Caribbean Subsidiary Banker - Associate",
-        "seen": "2026-06-25T23:52:29.797028"
-      },
-      "55a9d77ab901b60f": {
-        "title": "Global Fund Services - Client Tax Manager",
-        "seen": "2026-06-25T23:52:29.797108"
-      },
-      "f05395efe406c44a": {
-        "title": "Relationship Banker - Golden Gate Market - San Francisco, CA",
-        "seen": "2026-06-25T23:52:29.797242"
-      },
-      "4d9edb2d05da5267": {
-        "title": "Branch Operations Lead - Charleston Market - Charleston, SC",
-        "seen": "2026-06-25T23:52:29.797304"
-      },
-      "6931d09c3bc5e02d": {
-        "title": "Subsidiary Payments Sales Manager - Vice President",
-        "seen": "2026-06-25T23:52:29.797345"
-      },
       "6fd6de561369a511": {
         "title": "Part Time (30 Hours) Associate Banker, Kingman and Stockton Hill Branch, Kingman, AZ",
         "seen": "2026-06-26T03:33:41.679781"
@@ -68297,6 +68309,30 @@
       "fc510268c380341a": {
         "title": "Private Client Banker - Summit Mall - Akron, OH",
         "seen": "2026-09-24T23:46:17.269951"
+      },
+      "619da5891864d8e4": {
+        "title": "Security Operations Vice President",
+        "seen": "2026-09-25T03:29:09.977759"
+      },
+      "0651dde305b423c1": {
+        "title": "Operations Automation Analyst",
+        "seen": "2026-09-25T03:29:09.977827"
+      },
+      "5db4c8c8add598fe": {
+        "title": "Relationship Banker - Ephrata N Reading Rd Branch (New Build), Ephrata, PA",
+        "seen": "2026-09-25T03:29:09.977873"
+      },
+      "b355cc6863f1fe86": {
+        "title": "Tech Risk and Control Lead, Information Security",
+        "seen": "2026-09-25T03:29:09.977921"
+      },
+      "6c9c11edf895bad7": {
+        "title": "Home Lending Operations Consumer Underwriting Trainee",
+        "seen": "2026-09-25T03:29:09.977964"
+      },
+      "958defea802aae60": {
+        "title": "Relationship Banker - Bakersfield Market - Bakersfield, CA",
+        "seen": "2026-09-25T03:29:11.351881"
       }
     }
   },
@@ -68980,46 +69016,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "951f81164ab87786": {
-        "title": "Commissioning Engineer, AMER-West ACx",
-        "seen": "2026-06-25T23:52:42.401224"
-      },
-      "3407f23a444f70b4": {
-        "title": "Prime Air Maintenance Technician, Amazon Prime Air",
-        "seen": "2026-06-25T23:52:43.727593"
-      },
-      "1300b7df26008299": {
-        "title": "Sr. Business Developer Lead T- Unmanaged SMB, Amazon Shipping",
-        "seen": "2026-06-25T23:52:45.037201"
-      },
-      "8ab740cb6ac221ac": {
-        "title": "Prime Air Sr. Maintenance Technician, Amazon Prime Air",
-        "seen": "2026-06-25T23:52:45.037568"
-      },
-      "307b98dda5764d46": {
-        "title": "Sr. SAP Procurement / Ariba Functional, Amazon Leo for Government",
-        "seen": "2026-06-25T23:52:46.348450"
-      },
-      "d2e233e88ebeed8d": {
-        "title": "Senior Quality Engineer",
-        "seen": "2026-06-25T23:52:46.348730"
-      },
-      "3113e5c706b5dcc1": {
-        "title": "Sr Product Manager Tech, DOTS",
-        "seen": "2026-06-25T23:52:47.655123"
-      },
-      "15470102c9671060": {
-        "title": "External Relations Manager, Customer Trust External Relations",
-        "seen": "2026-06-25T23:52:47.655348"
-      },
-      "9c9c11379ba66736": {
-        "title": "Commissioning Engineer, AWS Data Center Commissioning",
-        "seen": "2026-06-25T23:52:47.655413"
-      },
-      "79a88e1e47f8bda6": {
-        "title": "Senior Test Engineer, Amazon Robotics",
-        "seen": "2026-06-25T23:52:49.007117"
-      },
       "4abc6de5ab633f8c": {
         "title": "Senior Manager, Product Management, Global Sales Support",
         "seen": "2026-06-26T03:33:58.168084"
@@ -104807,6 +104803,34 @@
       "28a1433a1b641390": {
         "title": "Sr Program Manager – Central Selection, WWGS (Worldwide Grocery Stores)",
         "seen": "2026-09-24T23:46:44.518162"
+      },
+      "68e8e0ef3dd4e02c": {
+        "title": "Certified Pharmacy Technician, Amazon Pharmacy",
+        "seen": "2026-09-25T03:29:24.907163"
+      },
+      "8293685945ca6240": {
+        "title": "Sr. RF and Wireless Systems Engineer, Amazon Leo Digital RF Systems",
+        "seen": "2026-09-25T03:29:24.907255"
+      },
+      "2d640bccb36aebb9": {
+        "title": "Controls Engineer, Controls Deployment & Service India",
+        "seen": "2026-09-25T03:29:26.314762"
+      },
+      "6bf6186fa5c5ba97": {
+        "title": "SME Operations Manager, Fulfillment Center",
+        "seen": "2026-09-25T03:29:27.688232"
+      },
+      "904f43f16e8cd609": {
+        "title": "Software Development Engineer, Amazon Leo",
+        "seen": "2026-09-25T03:29:27.688547"
+      },
+      "9dea4c425baea4bb": {
+        "title": "Financial Analyst II, FOAA Leo",
+        "seen": "2026-09-25T03:29:29.057003"
+      },
+      "8e756aecc77bd737": {
+        "title": "Sr. Program Manager , WWGS (Worldwide Grocery Stores)",
+        "seen": "2026-09-25T03:29:29.057388"
       }
     }
   },
@@ -109628,6 +109652,18 @@
       "5dd393ec57fba2c0": {
         "title": "Sales Manager, Velocity (Canada)",
         "seen": "2026-09-24T23:46:54.692241"
+      },
+      "0e2163c857c8a9f8": {
+        "title": "Account Executive, Bridge",
+        "seen": "2026-09-25T03:29:35.199707"
+      },
+      "ccf7b01a7b1dda94": {
+        "title": "GTM Recruiter (Fixed Term)",
+        "seen": "2026-09-25T03:29:35.200233"
+      },
+      "145b376b962dd6cb": {
+        "title": "GTM Sourcer (Fixed Term Contract)",
+        "seen": "2026-09-25T03:29:35.200323"
       }
     }
   },
@@ -117640,10 +117676,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "f4e404da12c9f3c4": {
-        "title": "Head of AI and Data Transformation - Global Product Solutions",
-        "seen": "2026-06-25T23:53:21.747086"
-      },
       "74ddf0a03025bac6": {
         "title": "Associate, GPS ETF Product Japan",
         "seen": "2026-06-26T07:53:01.915047"
