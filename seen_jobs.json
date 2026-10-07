@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "c02b496d127dd634": {
-        "title": "Partner Enablement Lead, System Integrators",
-        "seen": "2026-07-08T16:07:02.020159"
-      },
-      "a47f3ef851a11db1": {
-        "title": "Strategy & Operations, Applied AI - AMER",
-        "seen": "2026-07-08T16:07:02.020391"
-      },
       "90a42785dd732814": {
         "title": "Engineering Manager, Continuous Deployment and Change Safety",
         "seen": "2026-07-08T19:47:06.741885"
@@ -4138,16 +4130,56 @@
       "888a30803e3c5437": {
         "title": "Partner Account Manager - Spain & MEA",
         "seen": "2026-10-07T11:15:28.492850"
+      },
+      "21b54a1e0088387f": {
+        "title": "Administrative Business Partner, GTM - London",
+        "seen": "2026-10-07T17:54:47.548326"
+      },
+      "ef0230431de04bd2": {
+        "title": "AI Outcomes Manager",
+        "seen": "2026-10-07T17:54:47.548377"
+      },
+      "189fc71ac18a8c38": {
+        "title": "Enterprise Account Executive, Materials & Industrial",
+        "seen": "2026-10-07T17:54:49.080351"
+      },
+      "19cf3300b23dcd71": {
+        "title": "Growth Marketing Lead",
+        "seen": "2026-10-07T17:54:49.080568"
+      },
+      "f39d0cb538a302c1": {
+        "title": "IT Support Engineer",
+        "seen": "2026-10-07T17:54:49.080645"
+      },
+      "522c0e1025fe30d4": {
+        "title": "IT Systems Engineer, Client Platform Engineer, macOS",
+        "seen": "2026-10-07T17:54:50.474449"
+      },
+      "6e054f2b4b1f2557": {
+        "title": "Manager, Account Executive - Hedge Funds",
+        "seen": "2026-10-07T17:54:51.870013"
+      },
+      "c0eca9c69346b7c1": {
+        "title": "Manager, Enterprise Sales - HCLS",
+        "seen": "2026-10-07T17:54:51.870186"
+      },
+      "0f274a217f7bc443": {
+        "title": "Procurement Operations Business Partner, Technology",
+        "seen": "2026-10-07T17:54:51.870309"
+      },
+      "4dbd58ef3b9ca8f3": {
+        "title": "Product Manager, Billing",
+        "seen": "2026-10-07T17:54:51.870347"
+      },
+      "d8ea7794674628b3": {
+        "title": "Product Manager, Enterprise Privacy",
+        "seen": "2026-10-07T17:54:51.870373"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "d92e0be3d55d16d2": {
-        "title": "Head of Creative, Business",
-        "seen": "2026-07-08T16:07:06.362469"
-      },
       "6a6b05603c6c3cef": {
         "title": "AI Deployment Engineer, Cyber",
         "seen": "2026-07-08T17:59:10.138018"
@@ -9851,24 +9883,16 @@
       "d7d17b693294ebfe": {
         "title": "Software Engineer, Life Sciences",
         "seen": "2026-10-07T04:21:48.839983"
+      },
+      "b83c2abc5161fdc5": {
+        "title": "Creative Resource Manager, Business Marketing",
+        "seen": "2026-10-07T17:54:54.599606"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "bb14fbbacfc22bc7": {
-        "title": "Sr. Solutions Engineer (Indonesia)",
-        "seen": "2026-07-08T11:47:13.402551"
-      },
-      "05dc173761d9a846": {
-        "title": "Staff Forward Deployed Engineer",
-        "seen": "2026-07-08T11:47:14.794948"
-      },
-      "6e996094ae51cd0a": {
-        "title": "Named Enterprise Account Executive - Oil, Gas & Energy",
-        "seen": "2026-07-08T16:07:09.607247"
-      },
       "9f6939de064c4c46": {
         "title": "Strategic Account Executive - Consumer Goods Industry",
         "seen": "2026-07-08T19:47:12.975265"
@@ -15260,6 +15284,38 @@
       "74c1ef32984b06fb": {
         "title": "Strategic Core Account Executive",
         "seen": "2026-10-07T11:15:36.255767"
+      },
+      "7a045dd633a8f217": {
+        "title": "Director, Event Techology",
+        "seen": "2026-10-07T17:54:56.724745"
+      },
+      "8406adac04b8c24c": {
+        "title": "Senior Solutions Architect",
+        "seen": "2026-10-07T17:54:56.725011"
+      },
+      "849b93ebda48941b": {
+        "title": "Software Engineer, Infrastructure",
+        "seen": "2026-10-07T17:54:56.725066"
+      },
+      "d3345c1e0423441b": {
+        "title": "Solutions Architect - Digital Native Business (Fintech)",
+        "seen": "2026-10-07T17:54:58.122261"
+      },
+      "2d1120526162a12e": {
+        "title": "Sr. Partner Marketing Manager, AWS & AI Partners",
+        "seen": "2026-10-07T17:54:58.122588"
+      },
+      "218be9f498f48590": {
+        "title": "Sr Software Engineer - Agentic Applications (Full Stack)",
+        "seen": "2026-10-07T17:54:59.577877"
+      },
+      "b23f555a2c5f04d8": {
+        "title": "Strategic Account Executive, Space Force",
+        "seen": "2026-10-07T17:55:00.978787"
+      },
+      "ae307b902ccd177a": {
+        "title": "Strategy & Execution Manager",
+        "seen": "2026-10-07T17:55:00.979033"
       }
     }
   },
@@ -15270,366 +15326,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "a6271e71d3fcce1e": {
-        "title": "Product Manager - Trade Management, Athena Platform",
-        "seen": "2026-07-08T11:47:23.955613"
-      },
-      "cc4eccb1e506982d": {
-        "title": "Lead Infrastructure Engineer- Network",
-        "seen": "2026-07-08T11:47:23.955706"
-      },
-      "3fa1321d0f796262": {
-        "title": "Financial Planning & Analysis- Analyst",
-        "seen": "2026-07-08T11:47:25.301596"
-      },
-      "15304bf4eb636679": {
-        "title": "Agentic AI Associate - Client 360",
-        "seen": "2026-07-08T11:47:25.301934"
-      },
-      "7a19a65fbd6f57d7": {
-        "title": "Fund Accounting Analyst",
-        "seen": "2026-07-08T11:47:26.656652"
-      },
-      "1c2c2f11f621348f": {
-        "title": "Loan Trading Services Associate",
-        "seen": "2026-07-08T11:47:26.656901"
-      },
-      "eb25d7afd9dcbc26": {
-        "title": "China Securities Company - Equity Sales - Associate",
-        "seen": "2026-07-08T11:47:26.656984"
-      },
-      "72d4c1a0754a6cf5": {
-        "title": "Product Solution Manager - Pensions",
-        "seen": "2026-07-08T11:47:26.657041"
-      },
-      "bb4cffc6f661e9ac": {
-        "title": "Transactions Analyst",
-        "seen": "2026-07-08T11:47:26.657090"
-      },
-      "5de6918251500d15": {
-        "title": "Senior Lead Software Engineer - Python Full Stack",
-        "seen": "2026-07-08T14:01:10.042849"
-      },
-      "2701d642e0b96ebd": {
-        "title": "Software Engineer III - LLM / Gen AI Developer + AWS",
-        "seen": "2026-07-08T14:01:11.728179"
-      },
-      "aae87e5a711a0006": {
-        "title": "Experience Design Senior Associate",
-        "seen": "2026-07-08T14:01:13.198764"
-      },
-      "6b7665e63ebc324c": {
-        "title": "Sr Lead Software Engineering",
-        "seen": "2026-07-08T14:01:13.199373"
-      },
-      "5296e35ee65854db": {
-        "title": "Technology Support Director- Enterprise Software Vendor Management",
-        "seen": "2026-07-08T14:01:14.764747"
-      },
-      "97a76f2cac3c98a1": {
-        "title": "Private Client Banker - Times Square - New York, NY",
-        "seen": "2026-07-08T14:01:16.245838"
-      },
-      "28efafd8c7de844f": {
-        "title": "QA Analyst Automation and Manual - Software Engineer III",
-        "seen": "2026-07-08T14:01:16.246485"
-      },
-      "32ea884443e8eb7a": {
-        "title": "AI Tech Risk and Controls Lead",
-        "seen": "2026-07-08T14:01:17.774178"
-      },
-      "ce0ff028131c7bbb": {
-        "title": "Client Operations Manager III",
-        "seen": "2026-07-08T14:01:19.299849"
-      },
-      "61581d95c2aae49b": {
-        "title": "EMEA Currencies and Emerging Markets Trading [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:19.300556"
-      },
-      "e541ba517f4f204a": {
-        "title": "Product Manager [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:20.798304"
-      },
-      "7b24b8fdc8e21e3f": {
-        "title": "Software Engineer [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:22.308120"
-      },
-      "a5dae7c0186580cc": {
-        "title": "Risk Management & Compliance - Technology Investment Governance Vice President",
-        "seen": "2026-07-08T14:01:23.829766"
-      },
-      "8ba9a24b6528476f": {
-        "title": "Senior Product Associate - Monetization and Settlement",
-        "seen": "2026-07-08T14:01:23.830444"
-      },
-      "1a5c80186ed196ad": {
-        "title": "HR Business Advisor, Executive Director",
-        "seen": "2026-07-08T14:01:23.830519"
-      },
-      "b06843d670d499ec": {
-        "title": "Lead Software Engineer - Java / AWS / AI",
-        "seen": "2026-07-08T14:01:23.830563"
-      },
-      "fcc42d798300d2c1": {
-        "title": "Trade Support - Analyst",
-        "seen": "2026-07-08T14:01:25.338741"
-      },
-      "2dc67dc13563d6d8": {
-        "title": "Control Manager - Sr Associate",
-        "seen": "2026-07-08T14:01:25.339410"
-      },
-      "c0f8ebc325821fa8": {
-        "title": "Mutual Funds Operations - Service Team - Trade Lifecycle Analyst",
-        "seen": "2026-07-08T14:01:25.339492"
-      },
-      "c05f73c82ca0d36e": {
-        "title": "Investment Specialist [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:25.339541"
-      },
-      "43cfa69c3a96cbe5": {
-        "title": "Securities Valuation [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:26.858508"
-      },
-      "59b8757c6b70ac6e": {
-        "title": "Lead Software Engineer - JavaScript",
-        "seen": "2026-07-08T14:01:28.353345"
-      },
-      "1fdf8f0773ab2a06": {
-        "title": "Site Reliability Engineer [Multiple Positions Available]",
-        "seen": "2026-07-08T14:01:29.887293"
-      },
-      "33f05197cf16ec49": {
-        "title": "Branch Manager - Exton Square Branch - Exton, PA",
-        "seen": "2026-07-08T14:01:31.392025"
-      },
-      "92759a485021a95e": {
-        "title": "Relationship Banker -  SB- Josey & Jackson Branch - Carrollton, TX - Bilingual English and Spanish Required",
-        "seen": "2026-07-08T14:01:31.392706"
-      },
-      "9aff6f8b13b814ad": {
-        "title": "Branch Operations Lead - Marco Island South - Marco Island, FL",
-        "seen": "2026-07-08T14:01:31.392778"
-      },
-      "2d38f162ed524318": {
-        "title": "Trading Services Associate I",
-        "seen": "2026-07-08T14:01:31.392832"
-      },
-      "8daa433ed36d762e": {
-        "title": "Events Management VIP Engagement - Analyst",
-        "seen": "2026-07-08T14:01:31.392884"
-      },
-      "2b8bb52f94681a69": {
-        "title": "Financial Institutions Group - Payments - Sales Associate",
-        "seen": "2026-07-08T14:01:31.392924"
-      },
-      "e8d76e6a46e4869a": {
-        "title": "Business Relationship Manager I- Officer",
-        "seen": "2026-07-08T14:01:31.392968"
-      },
-      "71c313c9feb7719f": {
-        "title": "Analytics & Liquidity Associate, Corporate & Investment Banking Treasury (CIBT)",
-        "seen": "2026-07-08T14:01:31.393013"
-      },
-      "d2c33151e3189ede": {
-        "title": "Supply Chain Finance Program Manager",
-        "seen": "2026-07-08T14:01:31.393058"
-      },
-      "875db5efc3912f0c": {
-        "title": "Branch Manager Greater Woodlands Market, The Woodlands TX",
-        "seen": "2026-07-08T14:01:32.939876"
-      },
-      "14babb7d420a63ae": {
-        "title": "Private Client Banker - Canton, MA",
-        "seen": "2026-07-08T14:01:32.940546"
-      },
-      "a3f91ea4e5665298": {
-        "title": "Branch Operations Lead - LI East - Riverhead, NY",
-        "seen": "2026-07-08T14:01:32.940619"
-      },
-      "fe823c978274ea33": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Montclair / Short Hills - New Jersey",
-        "seen": "2026-07-08T14:01:32.940662"
-      },
-      "a1da725cf4bc178a": {
-        "title": "U.S. Private Bank - Program Analyst",
-        "seen": "2026-07-08T14:01:34.546657"
-      },
-      "0af27dd2d2a5925a": {
-        "title": "U.S. Private Bank - Investment Professional",
-        "seen": "2026-07-08T14:01:34.547293"
-      },
-      "dc10bbbf21e5cdd8": {
-        "title": "Treasury Management Officer - Healthcare Services - Vice President",
-        "seen": "2026-07-08T14:01:34.547362"
-      },
-      "23a9bdcd6277e5e2": {
-        "title": "Complex Fraud Case Investigator",
-        "seen": "2026-07-08T14:01:34.547448"
-      },
-      "1dafbcfe42ac9c9a": {
-        "title": "Operations Analyst",
-        "seen": "2026-07-08T14:01:34.547489"
-      },
-      "40f073092b45936c": {
-        "title": "Executive Search Vice President",
-        "seen": "2026-07-08T16:07:18.032413"
-      },
-      "43d3857f197f5cac": {
-        "title": "Executive Search Associate",
-        "seen": "2026-07-08T16:07:18.032467"
-      },
-      "c871469d94363062": {
-        "title": "Lead Software Engineer-Java/Cloud",
-        "seen": "2026-07-08T16:07:18.032506"
-      },
-      "b9213ebda1900dbd": {
-        "title": "Surveillance Specialist",
-        "seen": "2026-07-08T16:07:19.546635"
-      },
-      "c351aa454d62d267": {
-        "title": "Analyst - Global Fund Services Global Derivatives Operations",
-        "seen": "2026-07-08T16:07:19.546882"
-      },
-      "ba9424104160741f": {
-        "title": "Lead Software Engineer (Full Stack – Java/Spring Boot/React, AI/ML, AWS)",
-        "seen": "2026-07-08T16:07:19.546933"
-      },
-      "0b977222a6c17332": {
-        "title": "Principal Software Engineer - Environments Engineering",
-        "seen": "2026-07-08T16:07:21.061919"
-      },
-      "a5a7eb81b25316ec": {
-        "title": "Private Client Banker - Hudson Yards - New York, NY",
-        "seen": "2026-07-08T16:07:22.596702"
-      },
-      "77b495f68ce5e77d": {
-        "title": "Sr Manager of Software Engineering",
-        "seen": "2026-07-08T16:07:22.597256"
-      },
-      "767f2eb4a23e883f": {
-        "title": "Data Owner Vice President Banking Payments - Connected Commerce",
-        "seen": "2026-07-08T16:07:24.123303"
-      },
-      "1e59b7824d91cc95": {
-        "title": "Virtual Banker II - Plano, TX",
-        "seen": "2026-07-08T16:07:25.635658"
-      },
-      "fe9d07aee9b65d3b": {
-        "title": "Lead Software Engineer - DevOps with Equities Electronic Trading",
-        "seen": "2026-07-08T16:07:25.636262"
-      },
-      "a589ea5fbb058615": {
-        "title": "Client Tax Associate",
-        "seen": "2026-07-08T16:07:27.191875"
-      },
-      "444ff38418cc51a3": {
-        "title": "Lead Software Engineer - Python, Perl/Shell Scripting, AWS",
-        "seen": "2026-07-08T16:07:27.192446"
-      },
-      "9b267b5d364f7b0f": {
-        "title": "Business Operations Manager",
-        "seen": "2026-07-08T16:07:28.739684"
-      },
-      "8510ff6d6ba4a2a5": {
-        "title": "International Private Bank- Trade Execution Desk Associate- Latin America",
-        "seen": "2026-07-08T16:07:28.740251"
-      },
-      "951e86dd1114eab8": {
-        "title": "Cyber Intelligence Vice President",
-        "seen": "2026-07-08T16:07:30.268413"
-      },
-      "dfaea1b3638d946a": {
-        "title": "2027 Corporate Analyst Development Program - Summer Analyst (Chicago)",
-        "seen": "2026-07-08T16:07:30.268779"
-      },
-      "cce2a8b87dbe40db": {
-        "title": "2027 Corporate Analyst Development Program - Summer Analyst (New York Metro)",
-        "seen": "2026-07-08T16:07:30.268831"
-      },
-      "aee8c226cc4a2bd9": {
-        "title": "2027 Corporate Analyst Development Program - Summer Analyst (Columbus)",
-        "seen": "2026-07-08T16:07:30.268869"
-      },
-      "906ebaa236e282f3": {
-        "title": "Product Delivery Manager - Payments - Vice President",
-        "seen": "2026-07-08T16:07:30.268904"
-      },
-      "369588522631f71c": {
-        "title": "Senior Product Delivery Associate - Payments",
-        "seen": "2026-07-08T16:07:30.268939"
-      },
-      "676a961094e7d001": {
-        "title": "2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)",
-        "seen": "2026-07-08T16:07:30.268972"
-      },
-      "10ef18855e2bdf4f": {
-        "title": "Relationship Banker - Middle Virginia Market - Fredericksburg, VA",
-        "seen": "2026-07-08T16:07:30.269004"
-      },
-      "3c97bfa85268f3c5": {
-        "title": "Relationship Banker - Chevy Chase Connecticut Ave- Washington DC",
-        "seen": "2026-07-08T16:07:30.269040"
-      },
-      "b012fa778a636d56": {
-        "title": "Private Client Banker - Mosaic at Merrifield - Fairfax, VA",
-        "seen": "2026-07-08T16:07:30.269074"
-      },
-      "a9174103308c028f": {
-        "title": "Chile - Operations Trade Lifecycle Analyst",
-        "seen": "2026-07-08T16:07:31.772480"
-      },
-      "3035c30bc6e5b462": {
-        "title": "Financial Institutions Group - Payments - Sales Associate",
-        "seen": "2026-07-08T16:07:31.772862"
-      },
-      "e1802741b817a4b1": {
-        "title": "Private Client Banker - Boston Seaport, MA",
-        "seen": "2026-07-08T16:07:31.772927"
-      },
-      "ed881bcce8dc57e0": {
-        "title": "Wealth Management Solutions, Trust & Estates, Trust Administrator - Associate",
-        "seen": "2026-07-08T16:07:31.772984"
-      },
-      "9c9c1ee12e961ba2": {
-        "title": "Business Relationship Manager Area Manager - Executive Director",
-        "seen": "2026-07-08T16:07:31.773031"
-      },
-      "9d514aa971f375e6": {
-        "title": "Risk Management - Special Credits - Executive Director",
-        "seen": "2026-07-08T16:07:31.773070"
-      },
-      "5cba980448ee1298": {
-        "title": "Wealth Management - Alternative Investment Specialist",
-        "seen": "2026-07-08T16:07:31.773107"
-      },
-      "82bd1def881e7f6c": {
-        "title": "Treasury Sales Associate - Healthcare, Higher Education, and Nonprofit",
-        "seen": "2026-07-08T16:07:31.773148"
-      },
-      "bf2ecde606a07dab": {
-        "title": "Branch Operations Lead - Middletown E Main Rd Branch - Middletown, RI",
-        "seen": "2026-07-08T16:07:31.773185"
-      },
-      "c9710c7a578fd8c8": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor - Saint Paul, MN (including surrounding areas)",
-        "seen": "2026-07-08T16:07:33.281605"
-      },
-      "859f8bbc3e862228": {
-        "title": "Wealth Management Solutions, Trust & Estates, Trust Administrator - VP",
-        "seen": "2026-07-08T16:07:34.779801"
-      },
-      "d6fad94548a99628": {
-        "title": "Wealth Management, Operational Due Diligence, Vice President, London",
-        "seen": "2026-07-08T16:07:34.780363"
-      },
-      "9d18de9f20e50caa": {
-        "title": "Quantitative Trading & Research - Quantitative Strategist Tax Oriented Investment - Associate",
-        "seen": "2026-07-08T16:07:34.780400"
-      },
-      "3146c4ba355ae442": {
-        "title": "Business Relationship Manager I (English and Russian Preferred)",
-        "seen": "2026-07-08T16:07:36.321715"
-      },
       "406f69e30929c50c": {
         "title": "Lead Software Engineer-Agentic/Java",
         "seen": "2026-07-08T17:59:27.084507"
@@ -68421,24 +68117,396 @@
       "8428088690899e8a": {
         "title": "Software Engineer III - Java / React/ AI",
         "seen": "2026-10-07T11:16:00.478807"
+      },
+      "0441c066fb31340e": {
+        "title": "Equity Derivatives Trade Support - Analyst/Associate",
+        "seen": "2026-10-07T17:55:09.361597"
+      },
+      "993e56ffc43f852e": {
+        "title": "Senior Home Lending Advisor - Charlotte NC Branches",
+        "seen": "2026-10-07T17:55:09.361646"
+      },
+      "1175874275edea6b": {
+        "title": "Senior Home Lending Advisor, Orlando South",
+        "seen": "2026-10-07T17:55:09.361673"
+      },
+      "a722accd33ac18bb": {
+        "title": "Senior Home Lending Advisor, Atlanta, Georgia Central East",
+        "seen": "2026-10-07T17:55:09.361708"
+      },
+      "cdc884f1360dcfce": {
+        "title": "Senior Home Lending Advisor, Northeast Atlanta, Georgia",
+        "seen": "2026-10-07T17:55:09.361733"
+      },
+      "242d18923ba19859": {
+        "title": "Senior Home Lending Advisor, South Atlanta, Georgia",
+        "seen": "2026-10-07T17:55:09.361757"
+      },
+      "ce6bdb19bd604c0f": {
+        "title": "Executive Recruiter Associate - Asset & Wealth Management",
+        "seen": "2026-10-07T17:55:09.361779"
+      },
+      "e6f609012f75f074": {
+        "title": "Senior Home Lending Advisor, Concord, NC",
+        "seen": "2026-10-07T17:55:09.361804"
+      },
+      "0b25494cd9f5f13f": {
+        "title": "Lead Software Engineer - Java,AWS,Terraform",
+        "seen": "2026-10-07T17:55:09.361832"
+      },
+      "f2ea037761d5a69a": {
+        "title": "Product Delivery Senior Associate, Card Installments UAT",
+        "seen": "2026-10-07T17:55:10.781162"
+      },
+      "e2aed8dce3b22649": {
+        "title": "Senior Home Lending Advisor, Augusta, GA",
+        "seen": "2026-10-07T17:55:10.781585"
+      },
+      "f100f6628e140da9": {
+        "title": "Senior Home Lending Advisor, Sarasota, FL",
+        "seen": "2026-10-07T17:55:10.781620"
+      },
+      "6ab8d5ff813a52d0": {
+        "title": "Senior Home Lending Advisor, Hoover, AL",
+        "seen": "2026-10-07T17:55:10.781645"
+      },
+      "3d75185874854d5b": {
+        "title": "Senior Home Lending Advisor, Naples, FL",
+        "seen": "2026-10-07T17:55:10.781676"
+      },
+      "832892c8b2628092": {
+        "title": "Senior Home Lending Advisor, Fort Myers, FL",
+        "seen": "2026-10-07T17:55:10.781700"
+      },
+      "07b7c8b815e43b56": {
+        "title": "Rates Product Control Part-Time Analyst",
+        "seen": "2026-10-07T17:55:10.781723"
+      },
+      "829d95edaf906fa8": {
+        "title": "J.P. Morgan Wealth Management - Private Client Advisor - Brevard County/Melbourne, FL",
+        "seen": "2026-10-07T17:55:10.781747"
+      },
+      "992f76d6ed3efdab": {
+        "title": "Senior Home Lending Advisor, Port Orange, FL",
+        "seen": "2026-10-07T17:55:10.781774"
+      },
+      "271913f2521ca0a1": {
+        "title": "Senior Home Lending Advisor, South Orlando, FL",
+        "seen": "2026-10-07T17:55:10.781797"
+      },
+      "f3233541a190a2c7": {
+        "title": "Senior Home Lending Advisor, West Melbourne, FL",
+        "seen": "2026-10-07T17:55:10.781819"
+      },
+      "17657b84bd7d801b": {
+        "title": "Content Management Platform Manager, Vice President",
+        "seen": "2026-10-07T17:55:10.781843"
+      },
+      "c80208e1cc2462b9": {
+        "title": "Software Engineer III - Java/AWS",
+        "seen": "2026-10-07T17:55:10.781867"
+      },
+      "4c7186e3070bfb42": {
+        "title": "Control Manager - Corporate and Investment Banking - Vice President",
+        "seen": "2026-10-07T17:55:12.228581"
+      },
+      "fe79a32b2e62ebf4": {
+        "title": "Senior Home Lending Advisor, Vero Beach, FL",
+        "seen": "2026-10-07T17:55:12.228846"
+      },
+      "4402ebc3b8d6d18b": {
+        "title": "Fraud Operations Specialist - SAR Filing Specialist (all genders)",
+        "seen": "2026-10-07T17:55:12.228893"
+      },
+      "e9df6b697895fe55": {
+        "title": "Software Engineer II - Java Full Stack Developer +  React + AWS",
+        "seen": "2026-10-07T17:55:12.228943"
+      },
+      "5badec6b8504f5fb": {
+        "title": "Trade Support Associate",
+        "seen": "2026-10-07T17:55:13.610654"
+      },
+      "9068687fcef94fea": {
+        "title": "Experience Design Vice President",
+        "seen": "2026-10-07T17:55:13.611260"
+      },
+      "a747697651a074df": {
+        "title": "Senior Home Lending Advisor, Palm Coast, FL",
+        "seen": "2026-10-07T17:55:13.611305"
+      },
+      "5e6eb2a7cb626281": {
+        "title": "Software Engineer III (Java Full Stack)",
+        "seen": "2026-10-07T17:55:13.611352"
+      },
+      "3a305ab3018cfb08": {
+        "title": "Business Resiliency Manager",
+        "seen": "2026-10-07T17:55:15.094044"
+      },
+      "2ec7d8d57b015e23": {
+        "title": "Associate Banker, 30 Hours, Allen/McKinney, TX Area - Multiple Locations",
+        "seen": "2026-10-07T17:55:15.094638"
+      },
+      "36475696df4c75ed": {
+        "title": "Associate Banker, 30 Hours, North Central San Diego Area - Multiple locations",
+        "seen": "2026-10-07T17:55:15.094677"
+      },
+      "3d82bb796da0edc6": {
+        "title": "Senior Home Lending Advisor, Venice, FL",
+        "seen": "2026-10-07T17:55:15.094709"
+      },
+      "d8e1c0e406ec630a": {
+        "title": "Sr Lead Software Engineer - Python Engineering",
+        "seen": "2026-10-07T17:55:15.094738"
+      },
+      "04fac1210d5bcd2a": {
+        "title": "Branch Manager  - Northern, AZ Market",
+        "seen": "2026-10-07T17:55:16.562077"
+      },
+      "d0f36384acd80bb6": {
+        "title": "Software Engineer III - Java, Kafka, Spring Boot, Elastic Search",
+        "seen": "2026-10-07T17:55:16.562680"
+      },
+      "bdc52de1ba7fced6": {
+        "title": "Lead Software Engineer - Frontend Engineering - React Native",
+        "seen": "2026-10-07T17:55:17.983399"
+      },
+      "39588d833395c160": {
+        "title": "Tech Risk and Controls - Data & AI Governance Metrics Lead (Alteryx & Qlik)",
+        "seen": "2026-10-07T17:55:19.370268"
+      },
+      "8d30379e68e2d2f1": {
+        "title": "Business Relationship Manager I - Officer",
+        "seen": "2026-10-07T17:55:20.837209"
+      },
+      "7762002fec1b07b2": {
+        "title": "Cloud Foundational Service Product Delivery Manager",
+        "seen": "2026-10-07T17:55:20.837517"
+      },
+      "b5a75cfde38b280d": {
+        "title": "Asset & Wealth Management - Customer Transfers Analyst",
+        "seen": "2026-10-07T17:55:20.837551"
+      },
+      "624e711ff67d851a": {
+        "title": "Lead Software Engineer - SAP ABAP, Fiori, RAP",
+        "seen": "2026-10-07T17:55:20.837590"
+      },
+      "c557af56d392e58b": {
+        "title": "Business Relationship Manager Senior Deepening - Vice President",
+        "seen": "2026-10-07T17:55:22.300174"
+      },
+      "6106025dc9ac88f0": {
+        "title": "Business Relationship Manager Senior Acquisition - Vice President",
+        "seen": "2026-10-07T17:55:22.300324"
+      },
+      "470e3564383994b1": {
+        "title": "Principal Software Engineer - Java Full Stack, Cloud",
+        "seen": "2026-10-07T17:55:22.300368"
+      },
+      "046e9e8e59f6dc2b": {
+        "title": "J.P. Morgan Wealth Management – Private Client Advisor - East Inland Empire, CA (including surrounding areas)",
+        "seen": "2026-10-07T17:55:23.689433"
+      },
+      "69c58c2041ef0551": {
+        "title": "Data & AI Control Manager - Analyst/Associate",
+        "seen": "2026-10-07T17:55:23.689611"
+      },
+      "90ea4e35234347a9": {
+        "title": "Business Relationship Manager Senior - Deepening",
+        "seen": "2026-10-07T17:55:25.105767"
+      },
+      "b9dc375268e7345b": {
+        "title": "Lead Solutions Engineer, Financial Forecasting & Analytics - Vice President",
+        "seen": "2026-10-07T17:55:25.105999"
+      },
+      "4b800df0e6ede2cb": {
+        "title": "Full-stack Software Engineer I - AI Engineering",
+        "seen": "2026-10-07T17:55:26.502388"
+      },
+      "fd46c6f2d51d0bd3": {
+        "title": "J.P. Morgan Wealth Management - Executive Director, Wealth Client Specialist",
+        "seen": "2026-10-07T17:55:27.871271"
+      },
+      "d274bad219da6792": {
+        "title": "Associate Banker, 30 Hours, Nederland, TX - Nederland Branch",
+        "seen": "2026-10-07T17:55:27.871475"
+      },
+      "b47158443a0c0223": {
+        "title": "Relationship Banker - West Valley Market - Glendale, AZ",
+        "seen": "2026-10-07T17:55:27.871523"
+      },
+      "1e62b7046422514c": {
+        "title": "Associate Relationship Banker - SC St Louis Market - Washington, MO",
+        "seen": "2026-10-07T17:55:27.871557"
+      },
+      "86b2cba62d3cb310": {
+        "title": "Risk Management [Multiple Positions Available]",
+        "seen": "2026-10-07T17:55:27.871587"
+      },
+      "fb249a40488ec490": {
+        "title": "Associate Banker, 30 Hours, Beaumont, TX - Dowlen and Phelan Branch",
+        "seen": "2026-10-07T17:55:29.345511"
+      },
+      "950ab590b3514d2b": {
+        "title": "Senior Associate, Point Transfer",
+        "seen": "2026-10-07T17:55:29.345788"
+      },
+      "ddcbc6fc41cd6df7": {
+        "title": "Product Operations Manager",
+        "seen": "2026-10-07T17:55:29.345830"
+      },
+      "1e8523254f17a828": {
+        "title": "Corporate Sector - Lead Data Engineer",
+        "seen": "2026-10-07T17:55:29.345862"
+      },
+      "866c750854f67849": {
+        "title": "Part Time  (30 Hours) Associate Banker, Cary St and 13th Branch, Richmond, VA",
+        "seen": "2026-10-07T17:55:30.780090"
+      },
+      "a426483ad5821a1e": {
+        "title": "Business Banking Consultant Senior- Vice President",
+        "seen": "2026-10-07T17:55:30.780410"
+      },
+      "b8728c625ff587e4": {
+        "title": "Part Time (20 Hours) Associate Banker Westwood Village Branch, Los Angeles, CA",
+        "seen": "2026-10-07T17:55:30.780448"
+      },
+      "9b3f0272b16d0c93": {
+        "title": "Product Manager, Vice President - AEP Enablement Services",
+        "seen": "2026-10-07T17:55:30.780489"
+      },
+      "81329183f60f5a01": {
+        "title": "Part Time (30 Hours) Associate Banker, Ridgewood Myrtle Branch, Ridgewood, NY Bilingual Polish Required",
+        "seen": "2026-10-07T17:55:30.780515"
+      },
+      "9a07c58f0f466535": {
+        "title": "Account Specialist IV Mortgage",
+        "seen": "2026-10-07T17:55:30.780539"
+      },
+      "f82a9512dea22bca": {
+        "title": "Part Time (30 Hours) Associate Banker, Kings Grant Branch, Virginia Beach, VA",
+        "seen": "2026-10-07T17:55:30.780561"
+      },
+      "e93af4bdc6b39696": {
+        "title": "Associate - Quant Analytics",
+        "seen": "2026-10-07T17:55:30.780583"
+      },
+      "3a4a1c57791fe0c9": {
+        "title": "Part Time (30 Hours) Associate Banker, Timonium Branch, Lutherville Timonium, Maryland",
+        "seen": "2026-10-07T17:55:32.334732"
+      },
+      "07bd6478e388a689": {
+        "title": "Asset Analyst",
+        "seen": "2026-10-07T17:55:32.334952"
+      },
+      "2bd804c4511860e9": {
+        "title": "Freedom Integrated Marketing Senior Associate",
+        "seen": "2026-10-07T17:55:32.334986"
+      },
+      "1872be2d58c969cf": {
+        "title": "Vice President - Financial Analysis",
+        "seen": "2026-10-07T17:55:32.335014"
+      },
+      "be689e48a6ef23e3": {
+        "title": "Relationship Banker Sonoma Market -Santa Rosa, CA",
+        "seen": "2026-10-07T17:55:32.335041"
+      },
+      "696815ba3e0a9194": {
+        "title": "Part Time (30 Hours) Associate Banker, Hwy 95 and Neider Ave Branch, Coeur D Alene, ID",
+        "seen": "2026-10-07T17:55:32.335065"
+      },
+      "5ad148f02c15c410": {
+        "title": "Part Time (20 Hours) Associate Banker, White Marsh Branch, Nottingham, Maryland",
+        "seen": "2026-10-07T17:55:32.335088"
+      },
+      "089ae017b340faa3": {
+        "title": "Platform Engineer – Terraform & Developer Experience - Vice President",
+        "seen": "2026-10-07T17:55:32.335121"
+      },
+      "976b3f8ca97dacc4": {
+        "title": "Part Time (30 Hours) Associate Banker, Williston Branch, Williston, VT",
+        "seen": "2026-10-07T17:55:33.707823"
+      },
+      "c95812336f31b9df": {
+        "title": "Associate Banker, 30 Hours, Mandeville, LA - Hwy 22 Branch",
+        "seen": "2026-10-07T17:55:33.708263"
+      },
+      "09eb2af748c79d0f": {
+        "title": "Senior Lead Software Engineer - FICC Electronic Trading Application Developer",
+        "seen": "2026-10-07T17:55:33.708306"
+      },
+      "1a45a19cfba88ab9": {
+        "title": "Sr Director of Software Engineering",
+        "seen": "2026-10-07T17:55:35.090708"
+      },
+      "d36280c7f93e77d3": {
+        "title": "Events Management Analyst",
+        "seen": "2026-10-07T17:55:36.509210"
+      },
+      "600b5e25182baf0c": {
+        "title": "Quant Analytics Associate I - Regulatory Operations",
+        "seen": "2026-10-07T17:55:36.509421"
+      },
+      "f1c8e6998d59d025": {
+        "title": "Relationship Banker - Georgia South - Summit Point  - Fayetteville, Georgia",
+        "seen": "2026-10-07T17:55:37.888030"
+      },
+      "bb929ca174fe733a": {
+        "title": "Branch Manager - Aston Branch - Aston, PA",
+        "seen": "2026-10-07T17:55:37.888248"
+      },
+      "c87dd172f1bbd4af": {
+        "title": "J.P. Morgan Wealth Management - Private Client Investment Associate - Garden City, NY",
+        "seen": "2026-10-07T17:55:37.888288"
+      },
+      "f8165904292cd4b1": {
+        "title": "Part Time (30 Hours) Associate Banker, Cerritos Mall Branch, Cerritos, CA",
+        "seen": "2026-10-07T17:55:37.888316"
+      },
+      "f5b664aa77e5b77e": {
+        "title": "Part Time (20 Hours) Associate Banker, Carmel Branch, Carmel, IN",
+        "seen": "2026-10-07T17:55:37.888345"
+      },
+      "fc848b7ad9043d00": {
+        "title": "Branch Operations Lead - Pittsford Village - Pittsford, NY",
+        "seen": "2026-10-07T17:55:37.888369"
+      },
+      "13ed067fe5b9cf5a": {
+        "title": "Part Time (20 Hours) Associate Banker, Lafayette Rd Branch, Indianapolis, IN",
+        "seen": "2026-10-07T17:55:37.888391"
+      },
+      "42c287b787631f84": {
+        "title": "Part Time (20 Hours) Associate Banker, North Meridian Branch, Indianapolis, IN",
+        "seen": "2026-10-07T17:55:37.888414"
+      },
+      "0b799de649c5632d": {
+        "title": "Analyst - Product Controller",
+        "seen": "2026-10-07T17:55:37.888438"
+      },
+      "ffb006c375fc89c4": {
+        "title": "Relationship Banker - Monterey Bay Market - Salinas, CA",
+        "seen": "2026-10-07T17:55:37.888461"
+      },
+      "e10430b62915e1b7": {
+        "title": "Relationship Executive-Healthcare, Higher Education & Nonprofit-Executive Director",
+        "seen": "2026-10-07T17:55:37.888487"
+      },
+      "c68b80801bcfeecc": {
+        "title": "Associate Banker, 40 Hours, Oklahoma City, OK - May Ave and 37th Branch",
+        "seen": "2026-10-07T17:55:37.888510"
+      },
+      "e38457a175e04908": {
+        "title": "Part Time (30 Hours) Associate Banker, Acton Branch, Acton, MA",
+        "seen": "2026-10-07T17:55:37.888533"
+      },
+      "c3c5a837613f9105": {
+        "title": "Lifecycle Marketing Manager (all genders)",
+        "seen": "2026-10-07T17:55:37.888561"
       }
     }
   },
   "63dd1af94136": {
     "name": "Nexi",
     "jobs": {
-      "0b5d77c5fc433c6b": {
-        "title": "Technical Services Senior Specialist - ECR (Electronic Cash Register)",
-        "seen": "2026-07-08T14:01:38.334663"
-      },
-      "d9ff1a8ed974bf1f": {
-        "title": "SME Field Sales Specialist - Campania",
-        "seen": "2026-07-08T16:07:39.987418"
-      },
-      "31666b54ca197dac": {
-        "title": "SME Field Sales Specialist (Lazio)",
-        "seen": "2026-07-08T16:07:39.987475"
-      },
       "35d1eca3837ff1cb": {
         "title": "Product Manager - ECR (Electronic Cash Register)",
         "seen": "2026-07-09T08:08:35.026326"
@@ -69102,6 +69170,10 @@
       "038a8c036d41bfa8": {
         "title": "Contract Onboarding Manager (m/w/d)",
         "seen": "2026-10-07T11:16:05.207145"
+      },
+      "bd127d28077e2417": {
+        "title": "ISV Partner Account Manager Hunter",
+        "seen": "2026-10-07T17:55:41.254714"
       }
     }
   },
@@ -69112,150 +69184,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "4635831395fb0e75": {
-        "title": "Engineering Operations Technician/Técnico de Operaciones de Ingeniería, Data Center Engineering Operations",
-        "seen": "2026-07-08T11:47:39.797529"
-      },
-      "74db41648cb0922f": {
-        "title": "Military Senior Reliability Maintenance Engineering Technician, RME",
-        "seen": "2026-07-08T11:47:41.153541"
-      },
-      "82caaefd3016d47e": {
-        "title": "Senior Construction Project Manager, EMEA Construction",
-        "seen": "2026-07-08T11:47:42.486894"
-      },
-      "b338d454e90f47b2": {
-        "title": "Logistics Supervisor - UAE National, Amazon Logistics",
-        "seen": "2026-07-08T11:47:42.487393"
-      },
-      "25a67e9c6cd4a723": {
-        "title": "Media Tech, DCO",
-        "seen": "2026-07-08T11:47:42.487474"
-      },
-      "571ddce82acfa2ce": {
-        "title": "3PL Area Manager , ZA Operations",
-        "seen": "2026-07-08T14:01:48.802510"
-      },
-      "37fc0423fca0ca13": {
-        "title": "Network Deployment Engineer, Network Infrastructure Design & Deployment",
-        "seen": "2026-07-08T14:01:48.802598"
-      },
-      "232bf069be6264dd": {
-        "title": "Reliability  Maintenance Engineering Planner, RME",
-        "seen": "2026-07-08T14:01:50.313314"
-      },
-      "38dc679182ab4fc0": {
-        "title": "Ingénieur(e) DCEO , Data Center Engineering Operations",
-        "seen": "2026-07-08T14:01:51.839889"
-      },
-      "12f021ce055123c3": {
-        "title": "Ingénieur(e) en Chef DCEO, Data Center Engineering Operations",
-        "seen": "2026-07-08T14:01:53.334058"
-      },
-      "9cab1d8dd4b0eccd": {
-        "title": "Ingénieur(e) en Chef, Senior, DCEO, Data Center Engineering Operations",
-        "seen": "2026-07-08T14:01:54.892561"
-      },
-      "693f6cd570978e6c": {
-        "title": "Pre-Construction Manager, AWS AMER Construction",
-        "seen": "2026-07-08T14:01:56.376779"
-      },
-      "73b36eea59145c79": {
-        "title": "Pre-Construction Manager, AMER DCCD Pre-Construction",
-        "seen": "2026-07-08T14:01:56.377106"
-      },
-      "9fa969356482b846": {
-        "title": "Data Center Controls Tech, Controls team",
-        "seen": "2026-07-08T14:01:56.377200"
-      },
-      "77b95a6fb79ec1d9": {
-        "title": "Solutions Architect, WWPS SA -  NPO Research",
-        "seen": "2026-07-08T14:01:58.005325"
-      },
-      "8407ec92fa384c92": {
-        "title": "Data Center Technician - Night Shift",
-        "seen": "2026-07-08T14:01:59.501411"
-      },
-      "f3d1998352f1b28d": {
-        "title": "Assistant Logistique de stock externalisé - Bully-les-Mines (62)",
-        "seen": "2026-07-08T14:02:01.021672"
-      },
-      "f1f2fa95be616f71": {
-        "title": "Data Center Engineering Operations Technician , DCEO Engr 3",
-        "seen": "2026-07-08T14:02:01.021914"
-      },
-      "b4e3bd191042c01a": {
-        "title": "Sr. Customer Solutions Manager, UKI Customer Solutions Management, Field-AGS-UKI-ENT-CS",
-        "seen": "2026-07-08T14:02:02.527507"
-      },
-      "a5485446159aef16": {
-        "title": "Senior Product Manager - Tech, TimeHub",
-        "seen": "2026-07-08T16:07:50.015449"
-      },
-      "acf69e09a69ce7e4": {
-        "title": "Superviseur/euse des Opérations (H/F/X)",
-        "seen": "2026-07-08T16:07:50.015507"
-      },
-      "7dc6c32a1e09749e": {
-        "title": "Infra Delivery Technician",
-        "seen": "2026-07-08T16:07:50.015543"
-      },
-      "2a74f12378ae6645": {
-        "title": "3PL Area Manager , ZA Operations",
-        "seen": "2026-07-08T16:07:50.015593"
-      },
-      "3d2e653d45ed8a8a": {
-        "title": "Deployment Engineer, Robotics Delivery & Packaging Innovation",
-        "seen": "2026-07-08T16:07:50.015628"
-      },
-      "2853eb21bc90a583": {
-        "title": "ISV Senior Account Manager, ISV Canada",
-        "seen": "2026-07-08T16:07:51.596416"
-      },
-      "b549890082a4ae1e": {
-        "title": "Supply Chain Manager",
-        "seen": "2026-07-08T16:07:51.596665"
-      },
-      "67d883e35a5a91c5": {
-        "title": "Data Center Technician, Data Center Operationss",
-        "seen": "2026-07-08T16:07:53.148694"
-      },
-      "0292b3dc62bedfa8": {
-        "title": "ACES TPM (Continuous Improvement), Amazon Leo",
-        "seen": "2026-07-08T16:07:54.696431"
-      },
-      "4295774c2932e148": {
-        "title": "IT App Dev Engr III - AMZ10237579",
-        "seen": "2026-07-08T16:07:54.696715"
-      },
-      "f136da1c5770fcbe": {
-        "title": "Hardware Dev Engr III - AMZ9890641",
-        "seen": "2026-07-08T16:07:54.696751"
-      },
-      "d1399b6f102583b6": {
-        "title": "System Dev Engineer III - AMZ9970771",
-        "seen": "2026-07-08T16:07:54.696806"
-      },
-      "a3a78aaded02ab68": {
-        "title": "Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)",
-        "seen": "2026-07-08T16:07:56.283531"
-      },
-      "69421b5958db57d7": {
-        "title": "Area Manager",
-        "seen": "2026-07-08T16:07:57.810318"
-      },
-      "c156f519f3842e9a": {
-        "title": "Communications Specialist, Policy Communications and External Affairs",
-        "seen": "2026-07-08T16:07:57.810804"
-      },
-      "8648ee574af3815d": {
-        "title": "Finance Manager, Fixed, Capital, Analytics, and Planning (FCAP)",
-        "seen": "2026-07-08T16:07:59.371486"
-      },
-      "578eca037619132c": {
-        "title": "Engineering Operation Technician",
-        "seen": "2026-07-08T16:07:59.371717"
-      },
       "189c26e66c037516": {
         "title": "Data Engineer, Data Platform Management, Grocery Tech Foundations",
         "seen": "2026-07-08T17:59:47.818530"
@@ -105243,16 +105171,236 @@
       "f28902f8394c3ac1": {
         "title": "Software Development Engineer, DynamoDB",
         "seen": "2026-10-07T11:16:22.788427"
+      },
+      "eac8e6502aa13b1a": {
+        "title": "Technicien/ne Sécurité au Travail",
+        "seen": "2026-10-07T17:55:50.991848"
+      },
+      "5e61c387523adee1": {
+        "title": "Sr. Operations Manager",
+        "seen": "2026-10-07T17:55:52.472083"
+      },
+      "25190fe44c1eac95": {
+        "title": "Senior Storage AI Specialist Solution Architect , AGS Specialist Solutions Architecture Team",
+        "seen": "2026-10-07T17:55:52.472193"
+      },
+      "a68b9e0a144ff4ec": {
+        "title": "Sr. Technical Program Manager, Amazon Leo",
+        "seen": "2026-10-07T17:55:53.913625"
+      },
+      "c70217732b21f2ef": {
+        "title": "Area Maintenance Team Lead, Reliability, Maintenance, and Engineering (RME), NA AMOC",
+        "seen": "2026-10-07T17:55:53.913725"
+      },
+      "260869dabb61112f": {
+        "title": "Senior Technical Infrastructure Program Manager",
+        "seen": "2026-10-07T17:55:55.346134"
+      },
+      "376676f08b6ffa6c": {
+        "title": "Colocation Business Development Manager, Data Center Supply Solutions",
+        "seen": "2026-10-07T17:55:55.346239"
+      },
+      "f182d366388f831f": {
+        "title": "Reliability Maintenance Engineering Technician ,  RME",
+        "seen": "2026-10-07T17:55:56.729967"
+      },
+      "37c3b34aa08372de": {
+        "title": "Software Development Engineer II, CloudWatch Collectors",
+        "seen": "2026-10-07T17:55:58.130547"
+      },
+      "a6ed3b9f6289e5de": {
+        "title": "Manager I, Data Center Operations, Data Center Operations",
+        "seen": "2026-10-07T17:55:59.513554"
+      },
+      "22655d6524361db5": {
+        "title": "Data Center Engineering Operations Technician",
+        "seen": "2026-10-07T17:56:00.905842"
+      },
+      "fafefb28f4ce474a": {
+        "title": "Onsite Medical Representative",
+        "seen": "2026-10-07T17:56:02.299970"
+      },
+      "cf43a920b20d314c": {
+        "title": "Strategic Engagement Mgr, Europe South AGS",
+        "seen": "2026-10-07T17:56:02.300154"
+      },
+      "dca951b363e054ac": {
+        "title": "Finance Manager, WW Ops Finance - CF Support",
+        "seen": "2026-10-07T17:56:02.300190"
+      },
+      "010faf2ebc7d9f2a": {
+        "title": "Logistics Specialist - 2027 Internship",
+        "seen": "2026-10-07T17:56:03.680844"
+      },
+      "d3742c74b7f3c84c": {
+        "title": "Operations Supervisor, ATS",
+        "seen": "2026-10-07T17:56:05.095243"
+      },
+      "e7f2dbe13a6eb965": {
+        "title": "Hazmat Waste Coordinator, LIT3",
+        "seen": "2026-10-07T17:56:05.095385"
+      },
+      "e3a7f84f2966ec33": {
+        "title": "Responsable des Opérations (Fulfilment Center) H/F",
+        "seen": "2026-10-07T17:56:05.095425"
+      },
+      "83651579f70b279f": {
+        "title": "System Engineer internship 2027 (6 months), ESC Managed Operations",
+        "seen": "2026-10-07T17:56:05.095456"
+      },
+      "48bfb4ee61e4ba7c": {
+        "title": "System Engineer, Managed Operations, ESC Managed Operations",
+        "seen": "2026-10-07T17:56:06.554706"
+      },
+      "25c1be9119dcf598": {
+        "title": "Operations Intern - Betim (MG), Amazon University Talent Acquisition",
+        "seen": "2026-10-07T17:56:07.999881"
+      },
+      "c509b1d0700a7951": {
+        "title": "Delivery Trainer, RSR",
+        "seen": "2026-10-07T17:56:09.391883"
+      },
+      "ea67ca42eefe15c2": {
+        "title": "Process Assistant, RSR",
+        "seen": "2026-10-07T17:56:10.818055"
+      },
+      "6e5530b74ae2d407": {
+        "title": "Operations Intern - Cariacica (ES), Amazon University Talent Acquisition",
+        "seen": "2026-10-07T17:56:10.818240"
+      },
+      "0910b071c6bc3dd0": {
+        "title": "Infra Delivery Install Technician",
+        "seen": "2026-10-07T17:56:12.219073"
+      },
+      "da7f694f3bbec21c": {
+        "title": "Solutions Architect, SSA",
+        "seen": "2026-10-07T17:56:12.219169"
+      },
+      "e7889a524bb9ab08": {
+        "title": "Operations Executive, Amazon Now, UFG",
+        "seen": "2026-10-07T17:56:12.219203"
+      },
+      "764c0c1b29f68d1b": {
+        "title": "Senior Manager - FaaS Solutions, FinOps",
+        "seen": "2026-10-07T17:56:12.219245"
+      },
+      "bd7a42fbad548129": {
+        "title": "Embedded Software Engineer, Annapurna",
+        "seen": "2026-10-07T17:56:13.614696"
+      },
+      "8f5be12228cb42dc": {
+        "title": "Technical Account Manager - Financial Services, ES - SI - Financial Services",
+        "seen": "2026-10-07T17:56:15.036610"
+      },
+      "4d6ac42dcf1253cc": {
+        "title": "2027 IT Support Engineering Intern, Amazon Operations Technology Solutions",
+        "seen": "2026-10-07T17:56:15.036895"
+      },
+      "172a769c365fbf82": {
+        "title": "SDET-II, Amazon Smart Vehicles",
+        "seen": "2026-10-07T17:56:16.470553"
+      },
+      "30631b886229da4c": {
+        "title": "Water Tech Program Manager, AWS Infrastructure Services",
+        "seen": "2026-10-07T17:56:16.470783"
+      },
+      "a059448d0ad952ce": {
+        "title": "Area Manager II, YVR4",
+        "seen": "2026-10-07T17:56:16.470820"
+      },
+      "7e32773a8e8ecb85": {
+        "title": "Robotics Software Engineer, Fauna",
+        "seen": "2026-10-07T17:56:16.470853"
+      },
+      "8a3ddf948dbede45": {
+        "title": "Executive Research Recruiter, Science Research",
+        "seen": "2026-10-07T17:56:17.925611"
+      },
+      "398b6b95db9fdabe": {
+        "title": "Sr. Robotics Software Engineer, Fauna",
+        "seen": "2026-10-07T17:56:19.315770"
+      },
+      "698e9880562604c3": {
+        "title": "Spacecraft Design CAD, Mech Engineer, Configuration Management",
+        "seen": "2026-10-07T17:56:20.697904"
+      },
+      "8b8313f718982dc3": {
+        "title": "Process Improvement Specialist Intern - 2027",
+        "seen": "2026-10-07T17:56:22.217720"
+      },
+      "686c156d176dee62": {
+        "title": "Finance Manager, Global Media and Entertainment FP&A",
+        "seen": "2026-10-07T17:56:23.688253"
+      },
+      "622971dc664cee53": {
+        "title": "Corporate Counsel, Amazon Pharmacy, Amazon Pharmacy",
+        "seen": "2026-10-07T17:56:25.147671"
+      },
+      "20f911f26ff68ab2": {
+        "title": "Operador(a) de Empilhadeira, Logística Reversa",
+        "seen": "2026-10-07T17:56:25.148284"
+      },
+      "c4f361e0f4f1487e": {
+        "title": "Data Center Nights Manager",
+        "seen": "2026-10-07T17:56:25.148330"
+      },
+      "df41b81afe457685": {
+        "title": "Product Marketing Manager - Tech, AWS Observability",
+        "seen": "2026-10-07T17:56:26.619444"
+      },
+      "b4867861253ba865": {
+        "title": "Senior Financial Analyst, Transfer Pricing Accounting, Transfer Pricing Accounting",
+        "seen": "2026-10-07T17:56:26.620029"
+      },
+      "bd53e77f84c43464": {
+        "title": "HR Business Partner, Sub-Same Day Fulfillment Centers (SSD-FC)",
+        "seen": "2026-10-07T17:56:26.620076"
+      },
+      "d8163bd882bf6840": {
+        "title": "Software Development Engineer, Amazon Dedicated Cloud (ADC) Networking",
+        "seen": "2026-10-07T17:56:26.620115"
+      },
+      "8a19f3f524cb492d": {
+        "title": "Program Manager, Legal, Amazon Health Services",
+        "seen": "2026-10-07T17:56:28.054943"
+      },
+      "599f920a8b090f91": {
+        "title": "Senior Regional Manager",
+        "seen": "2026-10-07T17:56:28.055529"
+      },
+      "2802903b116deaed": {
+        "title": "CTK Svc Associate (S)",
+        "seen": "2026-10-07T17:56:28.055581"
+      },
+      "763ab58408f0c1ff": {
+        "title": "Startup Account Manager - Greenfield, India Startups Team",
+        "seen": "2026-10-07T17:56:28.055631"
+      },
+      "da66ef1723fcdb23": {
+        "title": "Senior Brand Partnerships Manager (12 month FTC), Brand Partnerships - Prime Video Advertising, EU",
+        "seen": "2026-10-07T17:56:28.055678"
+      },
+      "478ca82f5ba8b356": {
+        "title": "Reliability & Maintenance Engineer",
+        "seen": "2026-10-07T17:56:28.055732"
+      },
+      "a6e9718c91dda48b": {
+        "title": "Quality Manager, LM ACES",
+        "seen": "2026-10-07T17:56:29.528877"
+      },
+      "2e0799d561af3990": {
+        "title": "Planificateur de maintenance (H/F)",
+        "seen": "2026-10-07T17:56:29.529203"
+      },
+      "5338bd2974944b17": {
+        "title": "Sr Manager Software Dev, Advertising Full Funnel Agentic Intelligence",
+        "seen": "2026-10-07T17:56:30.997243"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "9ad022635645da8a": {
-        "title": "Account Executive, Hunter, Iberia",
-        "seen": "2026-07-08T16:08:07.003433"
-      },
       "3fe1d8d2b50580a5": {
         "title": "Creative Producer, Link",
         "seen": "2026-07-08T18:00:13.758865"
@@ -110428,16 +110576,40 @@
       "60229e9d9d90b1eb": {
         "title": "Security Engineer, New Grad",
         "seen": "2026-10-07T11:16:34.506530"
+      },
+      "8df51825d2df060b": {
+        "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+        "seen": "2026-10-07T17:56:38.646990"
+      },
+      "c773efb1eea73bc0": {
+        "title": "AI Engineer",
+        "seen": "2026-10-07T17:56:38.647049"
+      },
+      "c9fc5d6af6287126": {
+        "title": "Backend Engineer, Developer SDKs",
+        "seen": "2026-10-07T17:56:40.058582"
+      },
+      "9d3d65ea318fd4ef": {
+        "title": "Backend Engineer, Payments & Risk",
+        "seen": "2026-10-07T17:56:41.502329"
+      },
+      "cb61202f17605da6": {
+        "title": "Finance and Strategy Specialist",
+        "seen": "2026-10-07T17:56:42.879826"
+      },
+      "b524f2859574ab47": {
+        "title": "Partner Manager",
+        "seen": "2026-10-07T17:56:42.880498"
+      },
+      "da062d8ecd7e4b78": {
+        "title": "Technical Solutions Engineer",
+        "seen": "2026-10-07T17:56:42.880775"
       }
     }
   },
   "e88c845edd2a": {
     "name": "JetBrains",
     "jobs": {
-      "b9ab3b69f0fe2ff5": {
-        "title": "Senior Software Developer (Kotlin Compiler - Common Backend)",
-        "seen": "2026-07-08T16:08:09.127573"
-      },
       "52e1215611e8d90a": {
         "title": "Lead Product Designer (YouTrack)",
         "seen": "2026-07-09T11:31:52.910230"
@@ -110909,28 +111081,16 @@
       "5532c227177e5c29": {
         "title": "QA Automation Engineer (IJ Platform / JetBrains Runtime)",
         "seen": "2026-10-06T14:24:14.778870"
+      },
+      "98bb49792a85f96b": {
+        "title": "Legal Operations Specialist",
+        "seen": "2026-10-07T17:56:46.436343"
       }
     }
   },
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "b105f7c0822c68b8": {
-        "title": "Development Manager ABAP Cloud Infrastructure Brno",
-        "seen": "2026-07-08T11:48:06.004278"
-      },
-      "b9c534b20b981fb2": {
-        "title": "SAP Signavio Working Student (f/m/d) - User Experience Design",
-        "seen": "2026-07-08T11:48:06.004354"
-      },
-      "d53fdfce3da3d0a4": {
-        "title": "Working Student (f/m/d) - SAP Signavio Product Management Team for Modeling & Governance",
-        "seen": "2026-07-08T14:02:29.343476"
-      },
-      "a87e314bf926a3cd": {
-        "title": "Enterprise Architect (limited full-time)",
-        "seen": "2026-07-08T14:02:29.343524"
-      },
       "417b51e109e4398a": {
         "title": "Solution Sales Expert - Supply Chain Management (SCM) -Midwest",
         "seen": "2026-07-08T18:00:34.057590"
@@ -117304,34 +117464,6 @@
   "78809db9be44": {
     "name": "BlackRock",
     "jobs": {
-      "9e6a4c3d1614b724": {
-        "title": "Associate/Vice President, Investment Management - Japan Real Estate",
-        "seen": "2026-07-08T11:48:13.137835"
-      },
-      "9b970e9a70704e55": {
-        "title": "Transactions Operations and Client Relationship Specialist, Analyst",
-        "seen": "2026-07-08T11:48:13.137930"
-      },
-      "d50c433a5b52ccf3": {
-        "title": "Analyst, Reconciliations / Investigations",
-        "seen": "2026-07-08T11:48:13.137994"
-      },
-      "fa076353204e752b": {
-        "title": "Analyst, WEA Portfolio Consulting",
-        "seen": "2026-07-08T11:48:13.138046"
-      },
-      "c3d69da4697fa368": {
-        "title": "UX Product Designer - Aladdin Design, Director",
-        "seen": "2026-07-08T14:02:39.071523"
-      },
-      "f54bf25b423d1c28": {
-        "title": "Analytics Specialist, Vice President - Aladdin Financial Engineering (PAG)",
-        "seen": "2026-07-08T14:02:39.071603"
-      },
-      "68e1a542364dbf25": {
-        "title": "VP - Senior Data Engineer (Python/Snowflake/Apache Airflow)",
-        "seen": "2026-07-08T16:08:38.442492"
-      },
       "06f2b8cff4422415": {
         "title": "Analyst, Quant Research",
         "seen": "2026-07-08T19:48:20.259187"
@@ -120327,6 +120459,22 @@
       "187cf268098bf16e": {
         "title": "Associate, Full Stack Developer",
         "seen": "2026-10-07T11:16:56.542201"
+      },
+      "d61efceb32d0d732": {
+        "title": "Preqin Client Engagement, Vice President",
+        "seen": "2026-10-07T17:57:03.643206"
+      },
+      "d48ffc5b7aa54913": {
+        "title": "Associate, Client Order Management - Delaware",
+        "seen": "2026-10-07T17:57:03.643269"
+      },
+      "c7aa04dcea54ed85": {
+        "title": "Full Stack AI Engineer, Associate",
+        "seen": "2026-10-07T17:57:03.643297"
+      },
+      "938258effe506356": {
+        "title": "Vice President, Derivatives Operations - Delaware",
+        "seen": "2026-10-07T17:57:05.204257"
       }
     }
   },
@@ -120979,14 +121127,6 @@
   "479a3d3a21de": {
     "name": "Booking.com",
     "jobs": {
-      "5a1819f8d874d81c": {
-        "title": "UX Writer II -  Growth Marketing - Marketplace",
-        "seen": "2026-07-08T11:48:27.998074"
-      },
-      "b55550c243bced89": {
-        "title": "Data Analyst II -  Flights",
-        "seen": "2026-07-08T16:08:55.298390"
-      },
       "93ea1bee167639b0": {
         "title": "Software Engineer II - BDX IAM",
         "seen": "2026-07-08T22:33:58.253275"
@@ -122354,6 +122494,26 @@
       "563233ce49d89735": {
         "title": "Orchestration Lead - Connected Trip",
         "seen": "2026-10-06T14:25:05.049408"
+      },
+      "6253fa968219e68f": {
+        "title": "UX Writer II - Partnerships",
+        "seen": "2026-10-07T17:57:20.204028"
+      },
+      "c6a7cd5e398b78bb": {
+        "title": "Partnerships Manager - Cars",
+        "seen": "2026-10-07T17:57:20.204066"
+      },
+      "8787e93aa2eeabb8": {
+        "title": "Booking Holdings Romania - Category Lead Procurement Sourcing Desk",
+        "seen": "2026-10-07T17:57:20.204109"
+      },
+      "4c72f25c1bc99b71": {
+        "title": "Finance Process Lead",
+        "seen": "2026-10-07T17:57:20.204137"
+      },
+      "40a822be0c56a34b": {
+        "title": "Booking Holdings Romania - Product Manager",
+        "seen": "2026-10-07T17:57:20.204161"
       }
     }
   },
