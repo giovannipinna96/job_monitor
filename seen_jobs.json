@@ -47,22 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "c68e9263fc12f676": {
-        "title": "Partnership Manager, Life Sciences",
-        "seen": "2026-07-09T00:07:44.456584"
-      },
-      "f7468cd3bbe56320": {
-        "title": "Research Associate, Biology",
-        "seen": "2026-07-09T00:07:44.456752"
-      },
-      "d0faa612cd801144": {
-        "title": "Research Operations Lead, Biology",
-        "seen": "2026-07-09T00:07:45.804791"
-      },
-      "a0abf1260db13b11": {
-        "title": "Research Scientist, Life Sciences (Experimental Biology)",
-        "seen": "2026-07-09T00:07:47.127618"
-      },
       "594ae88d87f58820": {
         "title": "Staff+ Software Engineer, Safeguards Infrastructure",
         "seen": "2026-07-09T11:30:51.046815"
@@ -4166,24 +4150,36 @@
       "425b30bcfadf7a71": {
         "title": "Staff+ Software Engineer, Research Systems Engineering",
         "seen": "2026-10-07T22:43:31.505581"
+      },
+      "6f4ad8dd91bc3e71": {
+        "title": "Director, Technical Accounting – Investments",
+        "seen": "2026-10-08T02:30:51.005192"
+      },
+      "2c7d7746a0427531": {
+        "title": "Director, Technical Accounting - M&A",
+        "seen": "2026-10-08T02:30:51.005248"
+      },
+      "3c341164b61a574c": {
+        "title": "Product Management, Research",
+        "seen": "2026-10-08T02:30:51.005486"
+      },
+      "a1d39a658a1fc2e1": {
+        "title": "Staff+ Software Engineer, Safeguards",
+        "seen": "2026-10-08T02:30:52.444548"
+      },
+      "bd594f24385e1bc3": {
+        "title": "Threat Intel Manager, CBRN-E & Advanced Weapons",
+        "seen": "2026-10-08T02:30:53.874278"
+      },
+      "d0a6897cc44b032c": {
+        "title": "Threat Intel Manager, Model Exploitation & Fraud",
+        "seen": "2026-10-08T02:30:53.874845"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "2781c7a1912aa41e": {
-        "title": "AI Deployment Engineer, Digital Natives",
-        "seen": "2026-07-09T00:07:50.796608"
-      },
-      "ab06ed6998c1ac9f": {
-        "title": "AI Deployment Engineer, Enterprise",
-        "seen": "2026-07-09T00:07:52.109296"
-      },
-      "dc23d7cb1594905a": {
-        "title": "EU Policy & Partnerships Manager",
-        "seen": "2026-07-09T00:07:53.468267"
-      },
       "69089847b5d56b18": {
         "title": "Enterprise Marketing Lead, Japan",
         "seen": "2026-07-09T08:08:03.719067"
@@ -9855,16 +9851,28 @@
       "404e53fd4b8fdbe1": {
         "title": "Senior Technical Recruiter, Consumer Devices - Singapore",
         "seen": "2026-10-07T22:43:35.631557"
+      },
+      "d44a9ffb228d9bcf": {
+        "title": "Accounting Manager",
+        "seen": "2026-10-08T02:30:56.272811"
+      },
+      "b840798240f8307d": {
+        "title": "Growth Marketing Manager, SMB Ads",
+        "seen": "2026-10-08T02:30:56.273162"
+      },
+      "6b2710216973adef": {
+        "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
+        "seen": "2026-10-08T02:30:56.273453"
+      },
+      "ed78285d4b022843": {
+        "title": "Senior Software Engineer - Research Platform, Consumer Devices",
+        "seen": "2026-10-08T02:30:56.273490"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "7a523efcc17c0660": {
-        "title": "Sr. Solutions Engineer - FSI",
-        "seen": "2026-07-09T00:07:55.603700"
-      },
       "ce1b52d63179fd24": {
         "title": "Sr. Forward Deployed Engineer - FDE - Digital Native Business",
         "seen": "2026-07-09T04:30:16.812977"
@@ -15300,6 +15308,18 @@
       "05dc173761d9a846": {
         "title": "Staff Forward Deployed Engineer",
         "seen": "2026-10-07T22:43:37.746066"
+      },
+      "81d2900737e1ac82": {
+        "title": "Senior Production Engineer - Realtime Products",
+        "seen": "2026-10-08T02:30:59.825381"
+      },
+      "acb4fbed8bb817bd": {
+        "title": "Sr. Product Manager, Lakebase",
+        "seen": "2026-10-08T02:31:01.266742"
+      },
+      "9f6939de064c4c46": {
+        "title": "Strategic Account Executive - Consumer Goods Industry",
+        "seen": "2026-10-08T02:31:01.267189"
       }
     }
   },
@@ -15310,18 +15330,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "25c967467a7b8bb0": {
-        "title": "J.P. Morgan Wealth Management – Select Growth Advisor -  Wheaton, IL",
-        "seen": "2026-07-09T00:08:04.833209"
-      },
-      "ea62d63236de5809": {
-        "title": "Senior Principal Architect - Core Platform Engineering",
-        "seen": "2026-07-09T00:08:04.833462"
-      },
-      "cde52090f0977697": {
-        "title": "Finance & Business Management",
-        "seen": "2026-07-09T00:08:06.140969"
-      },
       "cbca672a58139715": {
         "title": "Client Service Analyst - Payments",
         "seen": "2026-07-09T04:30:26.575876"
@@ -68297,6 +68305,34 @@
       "126e40759067f2dd": {
         "title": "Software Engineer III – MLOps",
         "seen": "2026-10-07T22:43:56.888894"
+      },
+      "78202439623762ca": {
+        "title": "Private Client Banker - (New Build) Hwy 72 & Shields - Huntsville, AL",
+        "seen": "2026-10-08T02:31:09.753289"
+      },
+      "9c0b22b404acfcd2": {
+        "title": "Branch Operations Lead - Eastside South Market - Renton, WA and Surrounding Areas",
+        "seen": "2026-10-08T02:31:09.753361"
+      },
+      "359b44a67d72e6ec": {
+        "title": "Branch Operations Lead - North San Jose Market - San Jose, CA",
+        "seen": "2026-10-08T02:31:09.753392"
+      },
+      "bc033689fbbddde4": {
+        "title": "Global Corporate Banking - Subsidiary Banking – Intra-Asia Greater China Desk, Executive Director/ Managing Director",
+        "seen": "2026-10-08T02:31:09.753431"
+      },
+      "f57088a6055be3f7": {
+        "title": "Lead Software Engineer - AI/ML Data Scientist",
+        "seen": "2026-10-08T02:31:09.753590"
+      },
+      "c9d3aebabd122476": {
+        "title": "Associate Banker, 30 Hours, Dacula/Buford, GA Area - Multiple Locations",
+        "seen": "2026-10-08T02:31:11.169657"
+      },
+      "f3a3969ac635d43d": {
+        "title": "Associate Relationship Banker - South Sound Market - Lakewood, WA and Surrounding Areas",
+        "seen": "2026-10-08T02:31:11.169953"
       }
     }
   },
@@ -68980,26 +69016,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "fb24b939100ae4a8": {
-        "title": "Manager, Analytics (ADBL191)",
-        "seen": "2026-07-09T00:08:18.905250"
-      },
-      "f7800ce4839e03b7": {
-        "title": "Customer Success Manager, Fashion & Fitness",
-        "seen": "2026-07-09T00:08:18.905349"
-      },
-      "a7dcf113edf8c33f": {
-        "title": "Business Intelligence Engineer II (ADBL194)",
-        "seen": "2026-07-09T00:08:18.905427"
-      },
-      "815e71fc961e9bf8": {
-        "title": "Senior Tech Program Manager -  Alexa Ads, Alexa Native Ads",
-        "seen": "2026-07-09T00:08:20.207971"
-      },
-      "e16e82372bb6e98c": {
-        "title": "Tax Analyst, State and Local Income Tax Compliance",
-        "seen": "2026-07-09T00:08:20.208231"
-      },
       "5caeb499864b9ce6": {
         "title": "Hardware Development Engineer, Amazon Ring Vietnam Design Center",
         "seen": "2026-07-09T04:30:44.340157"
@@ -105163,6 +105179,34 @@
       "c9e0b959f3019534": {
         "title": "Procurement Engineer, RIVR",
         "seen": "2026-10-07T22:44:35.818749"
+      },
+      "6c6e14bfc9658000": {
+        "title": "Business Intelligence Engineer I, SCOT-FO, TVP",
+        "seen": "2026-10-08T02:31:24.726215"
+      },
+      "f6eb20f3b60c620e": {
+        "title": "Sr. Technical Program Manager, LEO MAC SW",
+        "seen": "2026-10-08T02:31:26.119751"
+      },
+      "affa4b6577ec9dd5": {
+        "title": "Sr. Technical Program Manager, Robotics",
+        "seen": "2026-10-08T02:31:26.120015"
+      },
+      "5a03b516de809021": {
+        "title": "Data Center Operation Manager",
+        "seen": "2026-10-08T02:31:26.120167"
+      },
+      "64144d18f6332120": {
+        "title": "Sr. Technical Program Manager, HST Health Foundation",
+        "seen": "2026-10-08T02:31:27.526400"
+      },
+      "3c4545f7a4ed4d09": {
+        "title": "Senior Electrical Engineer, Fauna",
+        "seen": "2026-10-08T02:31:27.526737"
+      },
+      "19b56d197e305d86": {
+        "title": "Sr Embedded Systems Engineer, Fauna",
+        "seen": "2026-10-08T02:31:28.970131"
       }
     }
   },
@@ -110380,6 +110424,18 @@
       "11779e01494bdcc4": {
         "title": "Staff Machine Learning Engineer, Radar",
         "seen": "2026-10-07T22:44:49.675765"
+      },
+      "6bf165b92f078a68": {
+        "title": "Financial Connections TechOps Integration Reliability Engineer",
+        "seen": "2026-10-08T02:31:36.581806"
+      },
+      "620b76ddd5a69741": {
+        "title": "Payments Fraud Investigator",
+        "seen": "2026-10-08T02:31:37.970052"
+      },
+      "dfc12da4ae15e0f6": {
+        "title": "Senior Staff Product Designer, Risk",
+        "seen": "2026-10-08T02:31:37.970464"
       }
     }
   },
@@ -110867,10 +110923,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "83e6aa0736709546": {
-        "title": "Solution Advisor Senior Specialist-SCM, South Korea",
-        "seen": "2026-07-09T00:08:43.619847"
-      },
       "b74e71922d2ef733": {
         "title": "SAP iXp Intern - Production Planning Support",
         "seen": "2026-07-09T04:31:21.909101"
@@ -120239,16 +120291,16 @@
       "f54bf25b423d1c28": {
         "title": "Analytics Specialist, Vice President - Aladdin Financial Engineering (PAG)",
         "seen": "2026-10-07T22:45:12.503439"
+      },
+      "9f8061081cde9942": {
+        "title": "Sustainability Data, Process & Reporting, Associate – Global Corporate Sustainability Controllers",
+        "seen": "2026-10-08T02:32:00.221613"
       }
     }
   },
   "7c6062845910": {
     "name": "Replit",
     "jobs": {
-      "72ce6ed53f16677e": {
-        "title": "Copywriter",
-        "seen": "2026-07-09T00:08:54.957819"
-      },
       "e9dd69008a171202": {
         "title": "Brand Copy Lead",
         "seen": "2026-07-09T04:31:42.291169"
@@ -124076,6 +124128,10 @@
       "2276c4e7f5d434b8": {
         "title": "Senior Portfolio Operations Manager, Games",
         "seen": "2026-10-06T19:44:58.137520"
+      },
+      "a1d8b84b6047b8ae": {
+        "title": "Engineering Manager, Catalog Integration",
+        "seen": "2026-10-08T02:32:27.699478"
       }
     }
   },
