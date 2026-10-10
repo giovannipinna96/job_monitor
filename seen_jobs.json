@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "9b5397bde24ea599": {
-        "title": "Finance & Strategy, GTM (Enterprise Tech)",
-        "seen": "2026-07-11T04:13:01.704919"
-      },
-      "6baf3390564c35ac": {
-        "title": "Senior Media Manager",
-        "seen": "2026-07-11T04:13:01.705272"
-      },
       "95759b5fa270a8bc": {
         "title": "Product Manager, Safeguards (Child Safety)",
         "seen": "2026-07-11T17:31:52.633244"
@@ -4158,16 +4150,40 @@
       "c53a76a10b1c7ea9": {
         "title": "Staff Engineer, Datacenter Server Lifecycle",
         "seen": "2026-10-10T01:05:48.517706"
+      },
+      "3dffe3b74e5e263c": {
+        "title": "Red Team Engineer, Safeguards",
+        "seen": "2026-10-10T07:31:12.764149"
+      },
+      "c666c803c193ac9b": {
+        "title": "Safeguards Enforcement Analyst, Age-Appropriate Design",
+        "seen": "2026-10-10T07:31:14.329862"
+      },
+      "e0fc29b9b9226ad4": {
+        "title": "Safeguards Enforcement Analyst, Bio Harms",
+        "seen": "2026-10-10T07:31:14.330130"
+      },
+      "7d03dec25b009a8a": {
+        "title": "Safeguards Enforcement Analyst, Chem & Explosives Harms",
+        "seen": "2026-10-10T07:31:14.330235"
+      },
+      "918526a12da3276e": {
+        "title": "Safeguards Enforcement Analyst, Child Safety",
+        "seen": "2026-10-10T07:31:14.330333"
+      },
+      "b5b7408db17a2e13": {
+        "title": "Safeguards Enforcement Analyst, Cyber Harm",
+        "seen": "2026-10-10T07:31:14.330430"
+      },
+      "68dcfe53be0ab1dd": {
+        "title": "Safeguards Enforcement Analyst, Integrity & Authenticity",
+        "seen": "2026-10-10T07:31:14.330513"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "e4aaff54afb262f3": {
-        "title": "Secure Manufacturing & Stealth Investigator",
-        "seen": "2026-07-11T04:13:04.686866"
-      },
       "1d8bb0be4f65b1fa": {
         "title": "Integrated Marketing Manager",
         "seen": "2026-07-13T17:30:07.073033"
@@ -9735,6 +9751,18 @@
       "5850b8e4614fd0d4": {
         "title": "IT Support Dublin, EMEA Regional Lead",
         "seen": "2026-10-10T01:05:54.106973"
+      },
+      "f4878cfb694a86d8": {
+        "title": "B2B Marketing Lead, India",
+        "seen": "2026-10-10T07:31:16.673516"
+      },
+      "dc62f8ce8fa1dd42": {
+        "title": "Internal Communications, Enterprise & Growth",
+        "seen": "2026-10-10T07:31:16.673965"
+      },
+      "f53db8c51da562b1": {
+        "title": "Strategic Finance, B2B Partnerships",
+        "seen": "2026-10-10T07:31:17.987914"
       }
     }
   },
@@ -15252,6 +15280,14 @@
       "90452064518cd33f": {
         "title": "Sr. Product Manager, Lakebase/Lakehouse",
         "seen": "2026-10-10T01:05:59.157314"
+      },
+      "f156d93edf444f0a": {
+        "title": "Product Design Intern (2027 Start)",
+        "seen": "2026-10-10T07:31:20.070119"
+      },
+      "59f291d685fbd55d": {
+        "title": "Product Design New Grad (2027 Start)",
+        "seen": "2026-10-10T07:31:21.454677"
       }
     }
   },
@@ -15262,22 +15298,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "6e22c69e2b5548c8": {
-        "title": "U.S. Private Bank - AWM Program Analyst",
-        "seen": "2026-07-11T04:13:15.045544"
-      },
-      "8e0c8924b9b9c940": {
-        "title": "AI/ML Data and Analytics - Product Manager, Vice President",
-        "seen": "2026-07-11T04:13:15.045636"
-      },
-      "505bb716f194bf55": {
-        "title": "Executive Administrative Assistant",
-        "seen": "2026-07-11T06:35:03.081671"
-      },
-      "cb5ca1c0bd6f1a96": {
-        "title": "Asset Management- Client Reporting - Analyst",
-        "seen": "2026-07-11T06:35:03.081765"
-      },
       "961af739349549f1": {
         "title": "Digital Content Strategist and Writer Associate",
         "seen": "2026-07-11T14:21:42.063818"
@@ -67985,6 +68005,18 @@
       "fdbb88fd1fa8bc39": {
         "title": "J.P. Morgan Wealth Management – Market Director of Wealth",
         "seen": "2026-10-10T01:06:10.234862"
+      },
+      "9e1f754a5eae8d2a": {
+        "title": "Lead Software Engineer — Workflow Orchestration (React | Camunda | Java/Python) Full Stack",
+        "seen": "2026-10-10T07:31:30.988415"
+      },
+      "0ce4f8ee7e4d37a0": {
+        "title": "Branch Manager- Northwest Indiana Market- Merrillville, IN",
+        "seen": "2026-10-10T07:31:32.325622"
+      },
+      "2cac9acd17509fcf": {
+        "title": "Private Client Banker - (New Build) Hayden - Hayden Lake, ID",
+        "seen": "2026-10-10T07:31:32.325946"
       }
     }
   },
@@ -68652,42 +68684,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "b31833ad027fc216": {
-        "title": "Process Assistant",
-        "seen": "2026-07-11T04:13:29.798305"
-      },
-      "96f650e62dcd6b6f": {
-        "title": "Global Emergency Services Product Lead, Amazon Leo",
-        "seen": "2026-07-11T04:13:29.798422"
-      },
-      "fadd18818f34e8af": {
-        "title": "Data Center Technician",
-        "seen": "2026-07-11T04:13:29.798529"
-      },
-      "495c63f5bb21ff25": {
-        "title": "Data Center Technician Night Role",
-        "seen": "2026-07-11T04:13:31.158465"
-      },
-      "db170411e30ea1f2": {
-        "title": "Data Center Engineering Operations Technician, ICN - DCEO",
-        "seen": "2026-07-11T04:13:32.574172"
-      },
-      "a021df3ce0d9ddc1": {
-        "title": "Data Center Operations Engineer, DCO (Data Center Operations), ICN - DCO",
-        "seen": "2026-07-11T04:13:33.915292"
-      },
-      "d3c2186e9d8da131": {
-        "title": "Delivery Consultant - Data Architect, AWS Professional Services",
-        "seen": "2026-07-11T04:13:35.257584"
-      },
-      "2467cb0d8c7544f6": {
-        "title": "Technical Program Manager, Prime Tech",
-        "seen": "2026-07-11T06:35:16.135958"
-      },
-      "f9f58db4846c1718": {
-        "title": "Process Assistant, OB",
-        "seen": "2026-07-11T06:35:16.136159"
-      },
       "9cf9d74d53fdc7c1": {
         "title": "Delivery Consultant, WWPS ProServe",
         "seen": "2026-07-11T15:30:25.272201"
@@ -104891,6 +104887,18 @@
       "6d816645fe159b68": {
         "title": "Software Engineering Manager, AWS Elastic Beanstalk",
         "seen": "2026-10-10T01:06:47.058293"
+      },
+      "e2f95af563a72797": {
+        "title": "Software Development Engineer",
+        "seen": "2026-10-10T07:31:44.848961"
+      },
+      "be5c26c2eb95c200": {
+        "title": "Delivery Consultant -Mainframe, AWS Professional Services",
+        "seen": "2026-10-10T07:31:46.267870"
+      },
+      "9950cc21de13e1a5": {
+        "title": "Software Development Manager, AWS Just Walk Out",
+        "seen": "2026-10-10T07:31:47.577161"
       }
     }
   },
@@ -110180,6 +110188,18 @@
       "94d5330d26bdba45": {
         "title": "Specialist Solutions Architect, Billing",
         "seen": "2026-10-10T01:06:54.739748"
+      },
+      "2cbf92ee0dc1872a": {
+        "title": "Fraud Operations Analyst",
+        "seen": "2026-10-10T07:31:55.131102"
+      },
+      "40c72e1e1eeb82ac": {
+        "title": "Machine Learning Engineer",
+        "seen": "2026-10-10T07:31:55.131303"
+      },
+      "8d501fa880bc1c26": {
+        "title": "Staff Software Engineer, API Platform",
+        "seen": "2026-10-10T07:31:56.457397"
       }
     }
   },
@@ -110659,14 +110679,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "0acb53f2a52df657": {
-        "title": "SAP iXp Intern - Partner Support Specialist",
-        "seen": "2026-07-11T04:14:00.957493"
-      },
-      "d76e661e88f513b5": {
-        "title": "SAP SuccessFactors iXp Intern - AI Software Developer",
-        "seen": "2026-07-11T06:35:39.970391"
-      },
       "a5c7be9c4b709c91": {
         "title": "Principal BTP AI Development Consultant  (f/m/d)",
         "seen": "2026-07-13T02:37:53.251821"
@@ -120463,10 +120475,6 @@
   "479a3d3a21de": {
     "name": "Booking.com",
     "jobs": {
-      "81a255fcf5a7795c": {
-        "title": "Evergreen Software Engineer I (Backend)",
-        "seen": "2026-07-11T06:36:00.474594"
-      },
       "551b6b73475a6791": {
         "title": "Program Manager",
         "seen": "2026-07-13T09:55:20.830585"
