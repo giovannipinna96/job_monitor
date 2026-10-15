@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "47c3706ea701e568": {
-        "title": "Field Marketing Manager, Public Sector",
-        "seen": "2026-07-16T00:55:37.303501"
-      },
       "3bbc0222d5a7e179": {
         "title": "Finance Systems Engineer, Revenue",
         "seen": "2026-07-16T18:05:03.983519"
@@ -4214,16 +4210,24 @@
       "e5f6e6f900371a67": {
         "title": "Staff+ Software Engineer, Data Infrastructure",
         "seen": "2026-10-14T23:05:27.673381"
+      },
+      "55d61ca200923554": {
+        "title": "Data Science, Finance & Strategy",
+        "seen": "2026-10-15T01:39:03.841258"
+      },
+      "4738f29695c5fa69": {
+        "title": "Director, Infrastructure Lease Accounting",
+        "seen": "2026-10-15T01:39:05.489610"
+      },
+      "468dd15cc44a3b87": {
+        "title": "Technical Program Manager, Inference",
+        "seen": "2026-10-15T01:39:05.490878"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "7b9904d27b96618e": {
-        "title": "Academic Research Partnerships & Programs Lead",
-        "seen": "2026-07-16T00:55:39.620483"
-      },
       "50ae7a7b33d7a5d2": {
         "title": "BIM Coordinator / BIM Designer",
         "seen": "2026-07-16T04:07:28.134138"
@@ -9835,20 +9839,36 @@
       "88b3f82cf1bdca11": {
         "title": "Software Engineer, Codex Cyber",
         "seen": "2026-10-14T23:05:34.184271"
+      },
+      "f934768f9a635e1a": {
+        "title": "Applied AI Engineer, Startups",
+        "seen": "2026-10-15T01:39:08.350669"
+      },
+      "66070ea9e070e42e": {
+        "title": "B2B Ecosystem Lead, Business Development",
+        "seen": "2026-10-15T01:39:09.904046"
+      },
+      "fec56aace9931ae7": {
+        "title": "Client Platform Engineer",
+        "seen": "2026-10-15T01:39:09.904485"
+      },
+      "4fd29fe2048bce15": {
+        "title": "Data Engineer, Core Experimentation",
+        "seen": "2026-10-15T01:39:11.402551"
+      },
+      "b6b2648d58bd2d38": {
+        "title": "Enterprise Security Engineer, Vulnerability Management",
+        "seen": "2026-10-15T01:39:12.929042"
+      },
+      "03a26c0667e5dd24": {
+        "title": "Marketplace Lead",
+        "seen": "2026-10-15T01:39:14.478878"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "defae99638ecbddc": {
-        "title": "Enterprise Core Account Executive",
-        "seen": "2026-07-16T00:55:43.104394"
-      },
-      "df36b7c27a979ba9": {
-        "title": "Software Engineer, Web Products",
-        "seen": "2026-07-16T00:55:43.104771"
-      },
       "2d8aa49d87588fec": {
         "title": "Sr. Solutions Engineer",
         "seen": "2026-07-16T09:12:46.214435"
@@ -15392,6 +15412,34 @@
       "ae66cdefc2a20bc9": {
         "title": "Team Lead, Executive Support",
         "seen": "2026-10-14T23:05:38.990474"
+      },
+      "f5b2701bb01cba1c": {
+        "title": "Alliance RVP, Boston Consulting Group (BCG)",
+        "seen": "2026-10-15T01:39:16.583791"
+      },
+      "ef2bc8b14cefb8bc": {
+        "title": "Alliance RVP, McKinsey",
+        "seen": "2026-10-15T01:39:16.583892"
+      },
+      "b861c7e425a430fc": {
+        "title": "Principal AI Research Scientist, Research Director - AI Scaling",
+        "seen": "2026-10-15T01:39:16.584380"
+      },
+      "80432c91d50cd3ad": {
+        "title": "Senior Software Engineer, AI Native Web Platform",
+        "seen": "2026-10-15T01:39:18.179738"
+      },
+      "d0cb7c110aba64ff": {
+        "title": "Sr Software Engineer- CXI",
+        "seen": "2026-10-15T01:39:19.726837"
+      },
+      "d0f7509d5035b420": {
+        "title": "Staff Software Engineer, Agentic Applications",
+        "seen": "2026-10-15T01:39:21.236930"
+      },
+      "cc429a070a66d8ce": {
+        "title": "Staff Software Engineer- CXI",
+        "seen": "2026-10-15T01:39:22.759216"
       }
     }
   },
@@ -15402,18 +15450,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "69070ece35be4fcb": {
-        "title": "Java AI Sr Lead Software Engineer",
-        "seen": "2026-07-16T00:55:52.326498"
-      },
-      "d20b7ab22098aed6": {
-        "title": "Part Time (30 Hours) Associate Banker, Burbank and Lee Branch, Baton Rouge, LA",
-        "seen": "2026-07-16T00:55:53.717347"
-      },
-      "6a7e7de33a8049c2": {
-        "title": "Corporate Controls - Control Manager - Analyst",
-        "seen": "2026-07-16T00:55:53.717889"
-      },
       "af41a9d7b82a6e32": {
         "title": "Financial Analysis - Marketing Expense Finance - Senior Associate",
         "seen": "2026-07-16T04:07:38.244671"
@@ -67937,6 +67973,18 @@
       "2c034123dc2d3557": {
         "title": "Relationship Banker - Columbus Central East Market - Bexley, OH",
         "seen": "2026-10-14T23:05:55.248892"
+      },
+      "e05a264dfa160098": {
+        "title": "Product Delivery Manager - Identity & Access Management",
+        "seen": "2026-10-15T01:39:32.454911"
+      },
+      "4985b72728bb5f3f": {
+        "title": "Credit Documentation Specialist - Analyst",
+        "seen": "2026-10-15T01:39:32.454993"
+      },
+      "9a409fdd65bb54c7": {
+        "title": "Private Client Banker - Newcastle Branch - Newcastle, WA (Mandarin and English Bilingual Preferred)",
+        "seen": "2026-10-15T01:39:32.455055"
       }
     }
   },
@@ -68644,26 +68692,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "219aba47f0253d3a": {
-        "title": "WWPS Healthcare Bus Ops Lead, AWS WWPS HCLS",
-        "seen": "2026-07-16T00:56:07.215675"
-      },
-      "b5e304f8d561fff5": {
-        "title": "Airspace Management Simulation Applied Scientist, Prime Air Flight Sciences High Fidelity Methods",
-        "seen": "2026-07-16T00:56:08.533584"
-      },
-      "1ffb7e952b94a55b": {
-        "title": "Software Development Engineer, AWS OpenSearch",
-        "seen": "2026-07-16T00:56:09.848913"
-      },
-      "4f26ade885f22af3": {
-        "title": "Area Manager",
-        "seen": "2026-07-16T00:56:11.181561"
-      },
-      "850764c195b60e7e": {
-        "title": "Software Development Engineer II, AWS Fleet Services",
-        "seen": "2026-07-16T00:56:11.182074"
-      },
       "673b775124c7844c": {
         "title": "Applied Scientist, AWS Automated Reasoning",
         "seen": "2026-07-16T04:07:54.819307"
@@ -104823,20 +104851,60 @@
       "dba3711c46cfe01c": {
         "title": "Software Development Engineer, Amazon Leo for Government",
         "seen": "2026-10-14T23:06:18.871524"
+      },
+      "fc576520112b6421": {
+        "title": "Software Development Engineer",
+        "seen": "2026-10-15T01:39:45.524608"
+      },
+      "efa6491706cd2439": {
+        "title": "Executive Research Recruiter, Principal Engineer Recruiting Team",
+        "seen": "2026-10-15T01:39:47.053590"
+      },
+      "ac334c9716dd7da8": {
+        "title": "Consultant, Agentic Delivery Acceleration, Professional Services, Professional Services",
+        "seen": "2026-10-15T01:39:48.593223"
+      },
+      "0a9406714ed7072f": {
+        "title": "Injury Prevention Specialist",
+        "seen": "2026-10-15T01:39:50.070783"
+      },
+      "13ccd45b8ff7a9c0": {
+        "title": "Mechanical Engineer, Satellite Hardware",
+        "seen": "2026-10-15T01:39:50.071082"
+      },
+      "d4073415826a30f6": {
+        "title": "Content Marketing Manager, Amazon Supply Chain Services - Marketing",
+        "seen": "2026-10-15T01:39:51.590889"
+      },
+      "9afc8e763ff7842d": {
+        "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
+        "seen": "2026-10-15T01:39:53.109680"
+      },
+      "62c712ed3b7d3010": {
+        "title": "Senior Program Manager, Defence, Worldwide Public Sector",
+        "seen": "2026-10-15T01:39:54.629261"
+      },
+      "7f80a8f27e2be9d5": {
+        "title": "Software Dev Manager, Amazon EMR",
+        "seen": "2026-10-15T01:39:54.629574"
+      },
+      "516df7adf6ff635f": {
+        "title": "Cloud Sales Representative, Startups",
+        "seen": "2026-10-15T01:39:56.180133"
+      },
+      "231915874ca9292e": {
+        "title": "Sr. Business Innovation Advisor, NAMER BD",
+        "seen": "2026-10-15T01:39:56.180396"
+      },
+      "a559b22942583a8a": {
+        "title": "Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence",
+        "seen": "2026-10-15T01:39:56.180618"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "dc8e73cec89b8e61": {
-        "title": "Customer Success Manager, Radar",
-        "seen": "2026-07-16T00:56:18.615659"
-      },
-      "5b176e6ad45885c2": {
-        "title": "Technical Support Engineer",
-        "seen": "2026-07-16T00:56:18.616264"
-      },
       "6b797fc4058fba8f": {
         "title": "Payment Performance Specialist",
         "seen": "2026-07-16T04:08:03.621935"
@@ -121404,10 +121472,6 @@
   "003aec820ad1": {
     "name": "LangChain",
     "jobs": {
-      "8dc8ac8efef28ffe": {
-        "title": "Enterprise Account Executive (Northwest)",
-        "seen": "2026-07-16T00:57:07.261180"
-      },
       "e73458127f1e3fe7": {
         "title": "Office Manager",
         "seen": "2026-07-16T04:08:57.039873"
