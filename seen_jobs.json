@@ -47,10 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "6f5ccd2dc56e0665": {
-        "title": "Engineering Manager, Growth",
-        "seen": "2026-07-18T00:54:31.093516"
-      },
       "deeadf577dccabeb": {
         "title": "Finance & Strategy, GTM - Post Sales",
         "seen": "2026-07-18T03:53:40.302248"
@@ -4306,6 +4302,14 @@
       "c1dc7bfa0c3cc3a7": {
         "title": "Technical Program Manager, Science Strategy & Communications",
         "seen": "2026-10-16T23:14:58.764529"
+      },
+      "3c8c861f79e489b4": {
+        "title": "Customer Success Manager, Enterprise Tech",
+        "seen": "2026-10-17T01:24:41.822862"
+      },
+      "e388e38bc08ed641": {
+        "title": "Tabletop Exercise Lead, The Anthropic Institute",
+        "seen": "2026-10-17T01:24:41.823519"
       }
     }
   },
@@ -9991,6 +9995,14 @@
       "f8434a055b7b86f4": {
         "title": "Strategic Finance Partner, OpenAI for Inference",
         "seen": "2026-10-16T23:15:02.925591"
+      },
+      "1b14ca136f674367": {
+        "title": "Software Engineer, Full Stack — Dots",
+        "seen": "2026-10-17T01:24:44.278560"
+      },
+      "0d682e3f9e9c0265": {
+        "title": "Software Engineer, Mobile Web — Dots",
+        "seen": "2026-10-17T01:24:45.766256"
       }
     }
   },
@@ -15632,6 +15644,18 @@
       "61220faf23a25290": {
         "title": "Manager, Delivery Solutions Architects - Healthcare & Life Sciences (HLS)",
         "seen": "2026-10-16T23:15:07.713989"
+      },
+      "dbbf0055115198e7": {
+        "title": "Candidate Experience Admin (6-month contract)",
+        "seen": "2026-10-17T01:24:49.312018"
+      },
+      "75d38107e6db1363": {
+        "title": "Sr. Public Relations Manager",
+        "seen": "2026-10-17T01:24:49.312536"
+      },
+      "44d2e6529a364b02": {
+        "title": "Staff Software Engineer, Technical Lead, Lakebase Manager (LBM)",
+        "seen": "2026-10-17T01:24:49.312731"
       }
     }
   },
@@ -15642,18 +15666,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "ef104efb3b365a2f": {
-        "title": "Compliance - Employee Conduct Lead (Code of Conduct) – Vice President",
-        "seen": "2026-07-17T23:23:32.742105"
-      },
-      "d7b216146078da3c": {
-        "title": "Compliance Risk Management Director - Executive Director",
-        "seen": "2026-07-17T23:23:32.742308"
-      },
-      "c109638f821ece15": {
-        "title": "Vice President, Quantitative Analytics Manager – Voice Product Analytics",
-        "seen": "2026-07-17T23:23:32.742521"
-      },
       "879233064b2882be": {
         "title": "Lead Software Engineer - Machine Learning",
         "seen": "2026-07-18T06:03:43.805345"
@@ -68704,30 +68716,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "fa0450c1cbf9ec06": {
-        "title": "Principal Conn. Systems Engr., Connectivity Systems",
-        "seen": "2026-07-17T23:23:47.113362"
-      },
-      "44022e2a13dab9bf": {
-        "title": "Sr.  Account Executive, Greenfield, HealthCare and Life Sciences",
-        "seen": "2026-07-17T23:23:47.113514"
-      },
-      "6ed3134ff0155fbe": {
-        "title": "Sr. Enterprise Account Manager, Automotive & Manufacturing",
-        "seen": "2026-07-17T23:23:47.113612"
-      },
-      "90920b03c097fa5e": {
-        "title": "Principal Account Manager, Enterprise, CPG",
-        "seen": "2026-07-17T23:23:47.113708"
-      },
-      "f18d1acb38a5a3d0": {
-        "title": "Principal Account Exec, 67, Auto & Manufacturing",
-        "seen": "2026-07-17T23:23:47.113823"
-      },
-      "5023521eafa0854b": {
-        "title": "SED (Test Job), Amazon Recruiting Tech",
-        "seen": "2026-07-17T23:23:47.113922"
-      },
       "00b2784a1c15c342": {
         "title": "Senior Software Development Engineer, Amazon Cross Border Tech",
         "seen": "2026-07-18T03:54:08.670299"
@@ -104923,6 +104911,34 @@
       "ef4c8d7c0a457722": {
         "title": "Associate Startup Solution Architect, SUP US East - Migrate",
         "seen": "2026-10-16T23:15:45.955713"
+      },
+      "698a5a2674417220": {
+        "title": "HW Test Development Engineer, Amazon LEO",
+        "seen": "2026-10-17T01:25:12.214789"
+      },
+      "d81ca1ae190d918a": {
+        "title": "Applied Scientist II, Sponsored Products Bidding",
+        "seen": "2026-10-17T01:25:13.696721"
+      },
+      "f4ea446bdb62d683": {
+        "title": "Optical Engineer, Amazon Leo - OISL",
+        "seen": "2026-10-17T01:25:13.697013"
+      },
+      "a959a7d771097e35": {
+        "title": "Systems Development Engineer, Early Career – 2026 (US)",
+        "seen": "2026-10-17T01:25:15.162096"
+      },
+      "8d9f0f2dea9a20a7": {
+        "title": "Associate Physical Security Engineer, Data Center Design Engineering",
+        "seen": "2026-10-17T01:25:16.615750"
+      },
+      "0c8a2cc22d8305c7": {
+        "title": "Mechanical Engineer, Satellite Hardware",
+        "seen": "2026-10-17T01:25:18.062960"
+      },
+      "ddde29f260b12112": {
+        "title": "Editor-in-Chief, AWS Blogs, AWS Cross Category Product Marketing",
+        "seen": "2026-10-17T01:25:19.512756"
       }
     }
   },
@@ -110747,10 +110763,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "af20eb9d30de5863": {
-        "title": "SAP iXp Intern - Developer, BDC Datasphere Connectivity",
-        "seen": "2026-07-18T00:55:33.119563"
-      },
       "1b6563f267e3982f": {
         "title": "Security & Compliance Associate (SAP Next Gen Academy Program)",
         "seen": "2026-07-18T03:54:32.894174"
@@ -122117,10 +122129,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "4e466747f072f964": {
-        "title": "Administrative Assistant, Nonfiction Marketing (Live)",
-        "seen": "2026-07-17T23:24:44.542248"
-      },
       "ec2304bd2ac847f2": {
         "title": "Senior Credit and Collections Manager",
         "seen": "2026-07-20T20:09:55.908875"
