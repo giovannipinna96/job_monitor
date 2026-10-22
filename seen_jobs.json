@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "21fab99db5d6a6de": {
-        "title": "Manager, IT Support",
-        "seen": "2026-07-23T00:59:51.981661"
-      },
-      "e4e349c29de658f5": {
-        "title": "Third Party Risk Analyst, Security GRC",
-        "seen": "2026-07-23T00:59:51.982143"
-      },
       "27f5fcd317477fa7": {
         "title": "Staff Software Engineer, GTM Systems",
         "seen": "2026-07-23T18:45:12.242169"
@@ -4430,24 +4422,32 @@
       "b1352b824790a127": {
         "title": "Product Manager (Technical), Product Support Experience",
         "seen": "2026-10-21T23:31:05.594604"
+      },
+      "e0b89221ccb3d204": {
+        "title": "AI Outcomes Manager, Financial Services",
+        "seen": "2026-10-22T03:19:41.865720"
+      },
+      "d6b1ed62e78dfd19": {
+        "title": "Engineering Manager, Finance Engineering",
+        "seen": "2026-10-22T03:19:43.403419"
+      },
+      "d251f49bf621bf9b": {
+        "title": "Staff+ Software Engineer, Enterprise AI Products",
+        "seen": "2026-10-22T03:19:44.735459"
+      },
+      "4c9eda29a5dbe2d3": {
+        "title": "Staff Software Engineer, Finance Engineering",
+        "seen": "2026-10-22T03:19:46.072798"
+      },
+      "37fe1609c85aeeee": {
+        "title": "Technical Program Manager, GTM Systems",
+        "seen": "2026-10-22T03:19:47.399752"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "e11d7091b6ac696f": {
-        "title": "Account Director, Retail",
-        "seen": "2026-07-23T00:59:54.570073"
-      },
-      "476c91cdbb6eb31d": {
-        "title": "AWS Specialist Sellers, Strategic Pursuits",
-        "seen": "2026-07-23T00:59:56.167633"
-      },
-      "857b5abf7269fc23": {
-        "title": "Offensive Security Agent Engineer",
-        "seen": "2026-07-23T00:59:56.168691"
-      },
       "eeaf164f7515c19d": {
         "title": "Extended Workforce Program Manager",
         "seen": "2026-07-23T04:22:32.359458"
@@ -10147,20 +10147,24 @@
       "cdd1e07de8a8ce3e": {
         "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
         "seen": "2026-10-21T23:31:13.907388"
+      },
+      "3ea1ce89d58bc3ec": {
+        "title": "Electrical Engineer, PCBA Test Infrastructure, Robotics",
+        "seen": "2026-10-22T03:19:49.790647"
+      },
+      "e6179104251ed910": {
+        "title": "Growth Partnerships Manager, Korea",
+        "seen": "2026-10-22T03:19:51.130783"
+      },
+      "72a23da67eb0b517": {
+        "title": "Service Designer, Support",
+        "seen": "2026-10-22T03:19:51.131776"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "3288bc41f15b6bd1": {
-        "title": "Partner Engineer: Partner Intelligence, AI & Apps",
-        "seen": "2026-07-23T00:59:59.803141"
-      },
-      "777aab54bb6223bf": {
-        "title": "Sr. Forward Deployed Engineer-Retail",
-        "seen": "2026-07-23T01:00:01.287255"
-      },
       "24906c02085e4364": {
         "title": "Sr. Forward Deployed Engineer-Retail",
         "seen": "2026-07-23T09:57:05.883345"
@@ -15836,6 +15840,10 @@
       "bbef0c44498ce8ef": {
         "title": "Strategic Enterprise Account Executive - CMEG",
         "seen": "2026-10-21T23:31:17.461241"
+      },
+      "52e620b8e1dd761b": {
+        "title": "Senior Customer Enablement AI Programs Manager",
+        "seen": "2026-10-22T03:19:53.209819"
       }
     }
   },
@@ -15846,14 +15854,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "e9f5b390e1678f01": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor – Albany, NY",
-        "seen": "2026-07-23T01:00:10.711543"
-      },
-      "752635f3e74e7595": {
-        "title": "J.P. Morgan Wealth Management – Private Client Advisor – Syracuse, NY",
-        "seen": "2026-07-23T01:00:10.711627"
-      },
       "4ee6c7f6f24a0179": {
         "title": "Senior Lead Architect",
         "seen": "2026-07-23T04:22:42.401430"
@@ -67757,6 +67757,26 @@
       "225870a9de5de5f8": {
         "title": "Full Time Associate Banker, San Marcos Branch, San Marcos, CA",
         "seen": "2026-10-21T23:31:32.884940"
+      },
+      "28facb0a4bbdefe5": {
+        "title": "Senior Product Associate, Market Data Services 3rd Party Business Analyst",
+        "seen": "2026-10-22T03:20:02.641474"
+      },
+      "e02754ce9fa57aaa": {
+        "title": "Wealth Management - FX Direct Access Clients (DAC) - Vice President",
+        "seen": "2026-10-22T03:20:03.967868"
+      },
+      "8b39d48abe4c2630": {
+        "title": "Compensation Analytics Vice President, Global Compensation",
+        "seen": "2026-10-22T03:20:03.968513"
+      },
+      "cef6dd04971d123f": {
+        "title": "Senior Country Business Management Office - Business Manager - Associate",
+        "seen": "2026-10-22T03:20:03.968589"
+      },
+      "e14cc13974cc22e0": {
+        "title": "Software Engineer III",
+        "seen": "2026-10-22T03:20:03.968654"
       }
     }
   },
@@ -68468,26 +68488,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "e633ad5519b38143": {
-        "title": "Sr. Embedded Software Development Engineer, Ring Team",
-        "seen": "2026-07-23T01:00:24.512346"
-      },
-      "3b35e280eb80c359": {
-        "title": "Applied Scientist, Sponsored Products and Brands",
-        "seen": "2026-07-23T01:00:25.996960"
-      },
-      "915fa6ccb5d60c56": {
-        "title": "AI Principal Product Manager-Tech, Amazon Customer Service",
-        "seen": "2026-07-23T01:00:25.997270"
-      },
-      "a32f60f9ea7e478c": {
-        "title": "Engineering Operation Technician",
-        "seen": "2026-07-23T01:00:27.493709"
-      },
-      "635f344a668d64a3": {
-        "title": "Network Deployment Build Lead, Global Network Delivery",
-        "seen": "2026-07-23T01:00:28.979426"
-      },
       "31355b92a6555d5f": {
         "title": "CN Strategy and Insights Lead, Ads Analytics & Insights",
         "seen": "2026-07-23T04:22:56.612293"
@@ -104479,6 +104479,46 @@
       "61217d951426534a": {
         "title": "Principal Finance Manager, Amazon Special Projects",
         "seen": "2026-10-21T23:32:03.312854"
+      },
+      "98b9c83baa0aace1": {
+        "title": "Transportation Area Manager",
+        "seen": "2026-10-22T03:20:18.344497"
+      },
+      "7324fe326edff0ba": {
+        "title": "Registration & Onboarding Product Manager, Sell on Amazon",
+        "seen": "2026-10-22T03:20:18.344580"
+      },
+      "82fc7196082f16c4": {
+        "title": "Sr. RF DVT Engineer, Amazon Leo Silicon",
+        "seen": "2026-10-22T03:20:18.344670"
+      },
+      "ab6256a930784ff3": {
+        "title": "Sr. Wireless Integration and Test Engineer, Amazon Leo",
+        "seen": "2026-10-22T03:20:19.686788"
+      },
+      "05719fbb7966f02c": {
+        "title": "Phased Array RF Front End Architect, Payload Architecture Team",
+        "seen": "2026-10-22T03:20:20.996038"
+      },
+      "a02f9e655068e4ae": {
+        "title": "Risk and Fraud Manager, Amazon Credit, Amazon LATAM Payments Trust",
+        "seen": "2026-10-22T03:20:20.996338"
+      },
+      "2b458b78fb4533cf": {
+        "title": "Senior Forward Deployed Engineer (Model Customization and Optimization)",
+        "seen": "2026-10-22T03:20:20.996516"
+      },
+      "b2ae065fa9c6523d": {
+        "title": "Sr. SAP GTS Solutions  Architect, Amazon Leo - Business Systems",
+        "seen": "2026-10-22T03:20:22.311734"
+      },
+      "2badf7b8c3d96463": {
+        "title": "Associate Prodution Quality Engineer, AMAZON LEO",
+        "seen": "2026-10-22T03:20:22.312039"
+      },
+      "704969ad654430f7": {
+        "title": "Project Design Mechanical Engineer, Fleet Remediation Engineering",
+        "seen": "2026-10-22T03:20:23.625711"
       }
     }
   },
@@ -109828,6 +109868,10 @@
       "d1a58e507dab394e": {
         "title": "Project Manager, Total Rewards",
         "seen": "2026-10-21T23:32:09.477313"
+      },
+      "05f82b9c557891cb": {
+        "title": "Operations Program Manager, Consumer Support",
+        "seen": "2026-10-22T03:20:31.054715"
       }
     }
   },
@@ -122276,6 +122320,10 @@
       "a56c997612cce09e": {
         "title": "Manager, Web & Digital Marketing - Experiences",
         "seen": "2026-10-21T20:19:39.077026"
+      },
+      "427b2a8005cf8aba": {
+        "title": "Director, Privacy Legal",
+        "seen": "2026-10-22T03:21:14.921502"
       }
     }
   },
