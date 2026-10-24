@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "8ef08c745208707a": {
-        "title": "Senior Manager, Technical Accounting - M&A and Investments",
-        "seen": "2026-07-25T03:47:59.431193"
-      },
-      "d78ab4fa8ff5377e": {
-        "title": "Staff Software Engineer, Code RL",
-        "seen": "2026-07-25T03:47:59.431343"
-      },
       "7c9c904a599d484d": {
         "title": "Director, Global Order-to-Cash Transformation",
         "seen": "2026-07-29T21:59:17.493267"
@@ -4498,24 +4490,28 @@
       "bb2ac2b85f154e0e": {
         "title": "IT Support Engineer, Executive Support",
         "seen": "2026-10-24T01:21:30.412906"
+      },
+      "8f92740006103013": {
+        "title": "Enterprise Account Executive - Manufacturing Industries, Taiwan",
+        "seen": "2026-10-24T06:12:01.573564"
+      },
+      "65ae7cf876e00688": {
+        "title": "Incident Manager, Safeguards",
+        "seen": "2026-10-24T06:12:03.088737"
+      },
+      "8a8d9ba256547aed": {
+        "title": "Product Counsel",
+        "seen": "2026-10-24T06:12:03.089409"
+      },
+      "f6711570c395c834": {
+        "title": "Staff Software Engineer, Environments Infrastructure",
+        "seen": "2026-10-24T06:12:03.089616"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "79497430606b3e23": {
-        "title": "Applied AI Engineer, GTM Growth Engineering",
-        "seen": "2026-07-25T03:48:03.628644"
-      },
-      "bf97446b3b2b067d": {
-        "title": "Product Engineer, GTM Growth Engineering",
-        "seen": "2026-07-25T03:48:05.713731"
-      },
-      "144f68b3c4745245": {
-        "title": "Recruiting Coordinator",
-        "seen": "2026-07-25T03:48:07.218297"
-      },
       "3814edbd5a8eb3e9": {
         "title": "Princial, Export Controls",
         "seen": "2026-07-25T06:16:04.134329"
@@ -10203,20 +10199,20 @@
       "393e34d66f084220": {
         "title": "Senior Manager, Supplier MDM Operations",
         "seen": "2026-10-24T01:21:34.153923"
+      },
+      "c5678bbd0c989aa5": {
+        "title": "Community Communications Lead",
+        "seen": "2026-10-24T06:12:06.919390"
+      },
+      "095e1c31d5b817a4": {
+        "title": "Early Access Deployment Engineer",
+        "seen": "2026-10-24T06:12:06.919523"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "22e838a04825719a": {
-        "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-        "seen": "2026-07-25T03:48:09.326792"
-      },
-      "232746f9768a0c46": {
-        "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-        "seen": "2026-07-25T03:48:10.847232"
-      },
       "3d5b78bcb5e5ab28": {
         "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
         "seen": "2026-07-27T01:08:01.466715"
@@ -15840,6 +15836,10 @@
       "04bd6ea9c07687be": {
         "title": "Sr. Engineering Manager - Pipelines Engine",
         "seen": "2026-10-24T01:21:36.230394"
+      },
+      "b97d28e304a475a5": {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+        "seen": "2026-10-24T06:12:10.461043"
       }
     }
   },
@@ -15850,10 +15850,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "a673810c31cc6024": {
-        "title": "Vice President, Data Product Strategy & Delivery Manager - Interaction Core",
-        "seen": "2026-07-25T03:48:20.232858"
-      },
       "61323b9ace7d38b2": {
         "title": "Compliance and Ops Risk Test Sr Specialist",
         "seen": "2026-07-25T06:16:16.968340"
@@ -68156,26 +68152,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "da255a530941834b": {
-        "title": "Area Manager, Early Career (2027) - (SoCal, HI)",
-        "seen": "2026-07-25T03:48:36.337532"
-      },
-      "00fee023dcfbbba3": {
-        "title": "Applied Scientist, AWS Automated Reasoning",
-        "seen": "2026-07-25T03:48:36.337620"
-      },
-      "f93503d14b24a3c5": {
-        "title": "Applied Scientist, AWS Identity",
-        "seen": "2026-07-25T03:48:36.337747"
-      },
-      "3beb6f860a6b31de": {
-        "title": "Software Development Engineer, Amazon WorkSpaces Applications",
-        "seen": "2026-07-25T03:48:36.337953"
-      },
-      "a3e6f9cab5656a57": {
-        "title": "Network Install Technician, Infrastructure Delivery",
-        "seen": "2026-07-25T03:48:37.845818"
-      },
       "ff83d6022e2db135": {
         "title": "Prime Air Ground Handler, Amazon Prime Air",
         "seen": "2026-07-25T06:16:31.896748"
@@ -104335,6 +104311,10 @@
       "7f620f118e4ee589": {
         "title": "Sr. Solutions Architect, Software and Technology",
         "seen": "2026-10-23T23:02:04.982904"
+      },
+      "d688cdb4e659138d": {
+        "title": "Senior Solutions Architect, Fintech, Fintech",
+        "seen": "2026-10-24T06:12:34.032796"
       }
     }
   },
@@ -110183,18 +110163,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "b477814b308c6ab2": {
-        "title": "Senior Applied Scientist for Tabular ML (f/m/d)",
-        "seen": "2026-07-25T03:49:04.880590"
-      },
-      "918aef56f5df8136": {
-        "title": "User Experience Design Specialist - Customer Experience",
-        "seen": "2026-07-25T03:49:06.463528"
-      },
-      "78c26a27a8572d33": {
-        "title": "Senior Solution Sales Executive - Business AI Platform (AI, AppDev, Integration)",
-        "seen": "2026-07-25T03:49:06.463875"
-      },
       "939bd24c36f0a892": {
         "title": "AI Advisor- GTM",
         "seen": "2026-07-25T14:47:22.324078"
