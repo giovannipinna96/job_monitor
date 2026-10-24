@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "e02a0dbdf6ab2923": {
-        "title": "Research Scientist, Takeoff Intel",
-        "seen": "2026-07-25T00:02:14.691494"
-      },
-      "f6711570c395c834": {
-        "title": "Staff Software Engineer, Environments Infrastructure",
-        "seen": "2026-07-25T00:02:16.143421"
-      },
       "8ef08c745208707a": {
         "title": "Senior Manager, Technical Accounting - M&A and Investments",
         "seen": "2026-07-25T03:47:59.431193"
@@ -4498,24 +4490,20 @@
       "fc1d71a76df922d0": {
         "title": "Senior Data Center Capacity Delivery Manager",
         "seen": "2026-10-23T23:01:01.967686"
+      },
+      "2e0d94f2252531b7": {
+        "title": "Communications Manager, Claude Platform",
+        "seen": "2026-10-24T01:21:30.412567"
+      },
+      "bb2ac2b85f154e0e": {
+        "title": "IT Support Engineer, Executive Support",
+        "seen": "2026-10-24T01:21:30.412906"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "095e1c31d5b817a4": {
-        "title": "Early Access Deployment Engineer",
-        "seen": "2026-07-25T00:02:19.803816"
-      },
-      "5e630d0059558919": {
-        "title": "Recruiting Coordinator Lead, Applied",
-        "seen": "2026-07-25T00:02:21.123286"
-      },
-      "00a91935067f6df1": {
-        "title": "Sr Structured Finance Execution Lead",
-        "seen": "2026-07-25T00:02:21.124516"
-      },
       "79497430606b3e23": {
         "title": "Applied AI Engineer, GTM Growth Engineering",
         "seen": "2026-07-25T03:48:03.628644"
@@ -10199,16 +10187,28 @@
       "69b622f2df0aec15": {
         "title": "Strategic Finance Generalist",
         "seen": "2026-10-23T23:01:06.095924"
+      },
+      "e5c790403d4ee752": {
+        "title": "Procurement Operations Specialist",
+        "seen": "2026-10-24T01:21:34.153426"
+      },
+      "b2946027241b1e9a": {
+        "title": "Senior Counsel, EU Policy/Regulatory",
+        "seen": "2026-10-24T01:21:34.153682"
+      },
+      "a0549af241cf56e9": {
+        "title": "Senior Manager, Ads Revenue Accounting",
+        "seen": "2026-10-24T01:21:34.153773"
+      },
+      "393e34d66f084220": {
+        "title": "Senior Manager, Supplier MDM Operations",
+        "seen": "2026-10-24T01:21:34.153923"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "f7ee4397eba3046f": {
-        "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-        "seen": "2026-07-25T00:02:23.200701"
-      },
       "22e838a04825719a": {
         "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
         "seen": "2026-07-25T03:48:09.326792"
@@ -15836,6 +15836,10 @@
       "fa40ae3d6eb5b9c5": {
         "title": "Staff Software Engineer- Foundation Model Inference",
         "seen": "2026-10-23T23:01:11.336234"
+      },
+      "04bd6ea9c07687be": {
+        "title": "Sr. Engineering Manager - Pipelines Engine",
+        "seen": "2026-10-24T01:21:36.230394"
       }
     }
   },
@@ -15846,14 +15850,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "6532abae40fc208f": {
-        "title": "J.P. Morgan Wealth Management - Vice President Product Owner",
-        "seen": "2026-07-25T00:02:32.500403"
-      },
-      "b26bf9c2f1b431ed": {
-        "title": "Technology Support Specialist",
-        "seen": "2026-07-25T00:02:32.500820"
-      },
       "a673810c31cc6024": {
         "title": "Vice President, Data Product Strategy & Delivery Manager - Interaction Core",
         "seen": "2026-07-25T03:48:20.232858"
@@ -67437,6 +67433,34 @@
       "39adf142c9446c49": {
         "title": "Software Engineer II - Cash Asset Management",
         "seen": "2026-10-23T23:01:32.816580"
+      },
+      "c37cb3dfa0dea620": {
+        "title": "Associate Banker, 30 Hours, Laredo, TX - International and Loop 20 Branch",
+        "seen": "2026-10-24T01:21:45.555017"
+      },
+      "375c9bd2b64b52ed": {
+        "title": "Branch Operations Lead - WA West Market - Tacoma, WA and Surrounding Areas",
+        "seen": "2026-10-24T01:21:46.881943"
+      },
+      "924f8b49e1538286": {
+        "title": "Applied AI ML Lead",
+        "seen": "2026-10-24T01:21:46.882218"
+      },
+      "6ed097925a56b5ad": {
+        "title": "Lead Software Engineer - Java/Python/AWS/AI/LLM",
+        "seen": "2026-10-24T01:21:48.213638"
+      },
+      "3b74032363b96b0f": {
+        "title": "Senior Lead Software Engineer - Java/Python/AWS/AI/LLM",
+        "seen": "2026-10-24T01:21:49.539601"
+      },
+      "7a1a2a4a1fa7829d": {
+        "title": "Associate Banker, 30 Hours, Houston, TX - Memorial Villages Branch (Bilingual Spanish and English Required)",
+        "seen": "2026-10-24T01:21:50.854840"
+      },
+      "ecc395c5cf5b1eaa": {
+        "title": "Associate Banker, 30 Hours, Fredericksburg, TX - Downtown Fredericksburg Branch",
+        "seen": "2026-10-24T01:21:50.855623"
       }
     }
   },
@@ -68132,26 +68156,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "b19fb6cf5c158d14": {
-        "title": "Software Development Engineer - Silicon Development Infrastructure",
-        "seen": "2026-07-25T00:02:45.304081"
-      },
-      "8cb0fa9366eaa4ef": {
-        "title": "Creative Director, Devices Brand Studio",
-        "seen": "2026-07-25T00:02:46.629738"
-      },
-      "0801f48268aea8c1": {
-        "title": "Head of Media, Amazon Gaming - Luna",
-        "seen": "2026-07-25T00:02:46.629993"
-      },
-      "39be4416406eb9a9": {
-        "title": "Satellite Hardware Engineer, Bus Structures",
-        "seen": "2026-07-25T00:02:46.630345"
-      },
-      "d6b695b8e879772b": {
-        "title": "Mechanical Engineer, Electronics Packaging, Avionics Mechanical",
-        "seen": "2026-07-25T00:02:48.021729"
-      },
       "da255a530941834b": {
         "title": "Area Manager, Early Career (2027) - (SoCal, HI)",
         "seen": "2026-07-25T03:48:36.337532"
@@ -104337,10 +104341,6 @@
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "0ad6dd04059a27de": {
-        "title": "Software Engineer, Machine Learning Infrastructure",
-        "seen": "2026-07-25T00:02:55.426369"
-      },
       "d181ff85b801e9c5": {
         "title": "Investment Lead",
         "seen": "2026-07-25T10:11:46.240035"
@@ -109716,6 +109716,10 @@
       "60cdc4de15714582": {
         "title": "Technical Account Manager",
         "seen": "2026-10-23T23:02:14.064739"
+      },
+      "4c38251863e7bf9a": {
+        "title": "Product Marketing, Data Products",
+        "seen": "2026-10-24T01:22:09.505879"
       }
     }
   },
@@ -120977,10 +120981,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "211d611c82b54369": {
-        "title": "Manager, Sales Incentive Compensation",
-        "seen": "2026-07-25T00:03:47.723472"
-      },
       "609f4697f2ffa3b1": {
         "title": "Live Ads Commercialization Manager (LATAM)",
         "seen": "2026-07-26T19:45:17.699959"
@@ -121908,6 +121908,10 @@
       "90d53fe20d80fe76": {
         "title": "Director, FP&A, Content",
         "seen": "2026-10-23T23:02:59.611486"
+      },
+      "09808ed65ec067b1": {
+        "title": "Administrative Assistant - Business & Legal Affairs (Stand-Up Comedy)",
+        "seen": "2026-10-24T01:22:55.782203"
       }
     }
   },
