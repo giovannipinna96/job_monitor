@@ -4688,10 +4688,6 @@
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "8612b79360ddc802": {
-        "title": "Software Engineer, API Agents",
-        "seen": "2026-08-01T06:37:52.184623"
-      },
       "3cab97e52fa551fd": {
         "title": "Order Management & Billing - Lead",
         "seen": "2026-08-01T15:36:14.168203"
@@ -10515,16 +10511,20 @@
       "b52e42d42ca603be": {
         "title": "Senior Counsel, AI Product",
         "seen": "2026-10-31T02:00:43.650798"
+      },
+      "eb5d9307ba22469f": {
+        "title": "Industrial Compute",
+        "seen": "2026-10-31T08:39:39.681199"
+      },
+      "16ab729c068b40af": {
+        "title": "Software Engineer, API Multimodal",
+        "seen": "2026-10-31T08:39:39.681463"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "3e3c365e2f7eac33": {
-        "title": "Specialist Solutions Architect - Cloud Platform & Infrastructure",
-        "seen": "2026-08-01T04:00:18.062984"
-      },
       "135b3d57a7673583": {
         "title": "Specialist Solutions Architect - AI/ML",
         "seen": "2026-08-03T10:25:00.377206"
@@ -16276,6 +16276,14 @@
       "c504904d3db1955a": {
         "title": "Sr. Staff, Technical Program Management",
         "seen": "2026-10-31T02:00:48.919751"
+      },
+      "32440f0130cec989": {
+        "title": "Named Core Account Executive",
+        "seen": "2026-10-31T08:39:43.287860"
+      },
+      "8c00bcac0df4aa7d": {
+        "title": "Staff Software Engineer - Streaming",
+        "seen": "2026-10-31T08:39:43.288303"
       }
     }
   },
@@ -16286,30 +16294,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "2a4042b74eb97437": {
-        "title": "Lead Architect",
-        "seen": "2026-08-01T04:00:26.400594"
-      },
-      "c0dc79e7aef9013a": {
-        "title": "Senior Product Associate - Service Product Group",
-        "seen": "2026-08-01T04:00:26.400698"
-      },
-      "46f475c49ce5a0da": {
-        "title": "Principal Architect - Cloud Foundations Customer Success",
-        "seen": "2026-08-01T04:00:26.400773"
-      },
-      "43581e82b0f008fb": {
-        "title": "Hiring Event - Part Time Associate Banker New Orleans (30 Hours)",
-        "seen": "2026-08-01T04:00:26.400850"
-      },
-      "9221d8fdf7cf58fa": {
-        "title": "Hiring Event - Part Time Associate Banker Glendale Burbank (30 Hours)",
-        "seen": "2026-08-01T04:00:26.400922"
-      },
-      "689129970af07f8a": {
-        "title": "Hiring Event - Part Time Associate Banker Indy Southwest (30 Hours)",
-        "seen": "2026-08-01T04:00:26.400995"
-      },
       "cae1fd465058633e": {
         "title": "Digital Connected Banking Operations & Readiness - Product Delivery, Associate",
         "seen": "2026-08-01T14:06:27.915788"
@@ -67285,6 +67269,18 @@
       "77abab547248fb67": {
         "title": "Product Manager Vice President - Go to Market Strategy & Execution Client Engagement",
         "seen": "2026-10-31T02:00:58.889371"
+      },
+      "fe160887251ab614": {
+        "title": "Part Time (20 Hours) Associate Banker, East Towne Branch, Madison, WI",
+        "seen": "2026-10-31T08:39:52.538394"
+      },
+      "9249e37061cd178b": {
+        "title": "Associate Banker, 20 Hours,  Huntley, IL - Huntley Branch",
+        "seen": "2026-10-31T08:39:52.538439"
+      },
+      "b449cbddff60f753": {
+        "title": "Part Time (30 Hours) Associate Banker, Eagle Glen Branch, Corona, CA Bilingual Spanish Required",
+        "seen": "2026-10-31T08:39:52.538468"
       }
     }
   },
@@ -68012,22 +68008,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "0c50cb03fb2768aa": {
-        "title": "Bus Hardware Engineering Manager, Amazon Leo",
-        "seen": "2026-08-01T04:00:39.464336"
-      },
-      "0481213408fe4777": {
-        "title": "Senior Manager, Bus Mechanical Engineering, Amazon Leo",
-        "seen": "2026-08-01T04:00:41.005929"
-      },
-      "c00176efea7bb6b2": {
-        "title": "Senior Process Engineer, NA SSD Network, Sub Same Day Process Engineering",
-        "seen": "2026-08-01T04:00:42.551005"
-      },
-      "510bb20fb33b2c8d": {
-        "title": "SDE II - Selling Partner Identity Verification and Registration, SPIV Tech",
-        "seen": "2026-08-01T04:00:44.245201"
-      },
       "5a2b5242854eb876": {
         "title": "Partenaire Associé(e), Ressources Humaines, PXT",
         "seen": "2026-08-01T10:57:51.611968"
@@ -103851,6 +103831,22 @@
       "b8a4c2a31047f629": {
         "title": "Data Center Technician",
         "seen": "2026-10-31T02:01:16.231141"
+      },
+      "b861e50c425842d8": {
+        "title": "SSL Lab Engineer 2nd shift, Space Simulation Lab",
+        "seen": "2026-10-31T08:40:06.662166"
+      },
+      "1d6fab0f4bec84bf": {
+        "title": "SSL Production Lab Engineer, Space Simulation Lab",
+        "seen": "2026-10-31T08:40:08.109468"
+      },
+      "63f41355318b1e33": {
+        "title": "Finance Manager, Accounting Transformation",
+        "seen": "2026-10-31T08:40:09.563276"
+      },
+      "ed7cc18ce644f0b0": {
+        "title": "Principal Product Manager, Amazon Customer Service",
+        "seen": "2026-10-31T08:40:09.563577"
       }
     }
   },
@@ -109847,34 +109843,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "bfca11a0f9c6c8a7": {
-        "title": "Digital Solution Advisor Specialist - SAP Data, Technology & AI (Italian/Spanish Speaker)",
-        "seen": "2026-08-01T04:01:10.972020"
-      },
-      "2a50e551ba996fa4": {
-        "title": "AI Data Lead - SAP-RPT Foundation Model Family (T3/T4) (f/m/d)",
-        "seen": "2026-08-01T04:01:12.517308"
-      },
-      "1b7b3c853f74adaf": {
-        "title": "Customer-Facing (Senior) Project Management Specialist (w/m/d) für die Branche Handel",
-        "seen": "2026-08-01T04:01:14.090796"
-      },
-      "5e6817b262a054a6": {
-        "title": "Solution Advisor Senior Specialist - SAP CX Commmerce",
-        "seen": "2026-08-01T04:01:14.091452"
-      },
-      "4ae825d5d5a4c655": {
-        "title": "IT Technology Services Specialist - SAP Basis, S4 HANA (Ex",
-        "seen": "2026-08-01T04:01:14.091557"
-      },
-      "93cffab6d1133c5d": {
-        "title": "SAP iXp Intern - Technical Project Coordinator",
-        "seen": "2026-08-01T04:01:14.091647"
-      },
-      "57a70be8135aa9c2": {
-        "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
-        "seen": "2026-08-01T04:01:15.675149"
-      },
       "11aec1e4b5efc8a1": {
         "title": "Forward Deployed AI Engineer (Associate)",
         "seen": "2026-08-02T05:56:59.386597"
@@ -120153,10 +120121,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "b5dde783a6fb628f": {
-        "title": "Full-Stack Software Engineer 5 - Ads Policy Infrastructure",
-        "seen": "2026-08-01T04:01:52.474743"
-      },
       "9899bd2069d75e10": {
         "title": "Experiences Creative Studio – Operations Manager",
         "seen": "2026-08-03T18:28:30.630906"
