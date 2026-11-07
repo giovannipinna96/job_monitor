@@ -47,14 +47,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "a8531084238389df": {
-        "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
-        "seen": "2026-08-07T23:58:24.171075"
-      },
-      "f43f564fe9155d47": {
-        "title": "GSOC Response & Policy Program Specialist",
-        "seen": "2026-08-08T01:58:49.939071"
-      },
       "d505762c4bdd32d6": {
         "title": "Account Executive, Public Sector",
         "seen": "2026-08-10T11:31:14.639393"
@@ -4830,32 +4822,40 @@
       "2ae76002b71112ab": {
         "title": "Web Design Manager",
         "seen": "2026-11-06T23:31:29.614442"
+      },
+      "9956d65add8ff463": {
+        "title": "Applied AI Architect, Enterprise Tech",
+        "seen": "2026-11-07T03:00:27.846901"
+      },
+      "ed9f2d5aaaba930b": {
+        "title": "Brand Strategy Lead, Brand Architecture & Naming",
+        "seen": "2026-11-07T03:00:29.223727"
+      },
+      "55b1cf6011159283": {
+        "title": "Legal Specialist, Law Enforcement",
+        "seen": "2026-11-07T03:00:29.224561"
+      },
+      "45ab446bd231acb4": {
+        "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+        "seen": "2026-11-07T03:00:29.224751"
+      },
+      "38165b1e843f6ce3": {
+        "title": "Staff Software Engineer, Claude Code",
+        "seen": "2026-11-07T03:00:30.531508"
+      },
+      "cd44102e8b8ebaef": {
+        "title": "Staff+ Software Engineer, Privacy",
+        "seen": "2026-11-07T03:00:31.841422"
+      },
+      "a60c464a8bd454df": {
+        "title": "Staff+ Software Engineer, STEM",
+        "seen": "2026-11-07T03:00:33.178304"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "ff4be36c828cbb69": {
-        "title": "Actuator Electromagnetic Design Engineer",
-        "seen": "2026-08-08T01:58:52.509003"
-      },
-      "0caafd61e1265d0d": {
-        "title": "Actuator Gear Design Engineer",
-        "seen": "2026-08-08T01:58:54.143053"
-      },
-      "fa2b6d071544680f": {
-        "title": "Support Program Manager, Live Support",
-        "seen": "2026-08-08T01:58:55.672475"
-      },
-      "7bf220ab21dc0838": {
-        "title": "Support Program Manager, Partnerships",
-        "seen": "2026-08-08T01:58:55.672999"
-      },
-      "ef1c0cafa1b4ac63": {
-        "title": "Technical Community Lead, Pro",
-        "seen": "2026-08-08T01:58:55.673080"
-      },
       "0154470ca527eba8": {
         "title": "New Geography and International Growth Lead",
         "seen": "2026-08-09T01:30:21.987061"
@@ -10823,6 +10823,38 @@
       "8a24b9b6d3711d4c": {
         "title": "Sourcing Manager, Core Products",
         "seen": "2026-11-06T23:31:44.159993"
+      },
+      "88d3f8daf06b7230": {
+        "title": "Controls Engineer, BMS & EPMS",
+        "seen": "2026-11-07T03:00:36.998857"
+      },
+      "cd36e486eddc3647": {
+        "title": "Controls Engineer, Power Generation and Microgird",
+        "seen": "2026-11-07T03:00:38.318748"
+      },
+      "4582a4eedb03fdc8": {
+        "title": "Research Engineer / Research Scientist- Post Training",
+        "seen": "2026-11-07T03:00:39.633985"
+      },
+      "ddbd8c65029639b7": {
+        "title": "Research Engineer / Research Scientist - Post Training, Memory",
+        "seen": "2026-11-07T03:00:40.973482"
+      },
+      "c3c67871b8f8293d": {
+        "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+        "seen": "2026-11-07T03:00:42.291074"
+      },
+      "3946354052fce707": {
+        "title": "Research Engineer/Research Scientist - Post Training, North Stars",
+        "seen": "2026-11-07T03:00:43.624391"
+      },
+      "e3be87f262e4e8fc": {
+        "title": "Research Engineer / Research Scientist - Post Training, Personalization",
+        "seen": "2026-11-07T03:00:44.939626"
+      },
+      "d1b6dc23c7e245a7": {
+        "title": "Researcher, Recursive Self-Improvement Safety",
+        "seen": "2026-11-07T03:00:46.287743"
       }
     }
   },
@@ -16684,6 +16716,22 @@
       "f776fd27b1ea133c": {
         "title": "Staff Software Engineer - Access Management",
         "seen": "2026-11-06T23:31:49.232905"
+      },
+      "2f749831a92903a7": {
+        "title": "Lakebase Sales Specialist",
+        "seen": "2026-11-07T03:00:49.725345"
+      },
+      "f67f1e5fd61802bd": {
+        "title": "Senior Delivery Partner Manager, Services",
+        "seen": "2026-11-07T03:00:49.725502"
+      },
+      "43f01d8e62c29b05": {
+        "title": "Staff Product Manager, SAP",
+        "seen": "2026-11-07T03:00:49.725876"
+      },
+      "c70faa2124cb0559": {
+        "title": "Staff Technical Program Manager - Cleared/Security",
+        "seen": "2026-11-07T03:00:49.725982"
       }
     }
   },
@@ -16694,14 +16742,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "ac58ca47e393116b": {
-        "title": "Branch Operations Lead - Sonoma Market- Eureka, CA",
-        "seen": "2026-08-08T01:59:05.822265"
-      },
-      "dfacdbc297957ce6": {
-        "title": "Senior Product Delivery Associate - Strategic Delivery &  Product Operations – Small Business Card",
-        "seen": "2026-08-08T01:59:05.822418"
-      },
       "6e5943761ad4709e": {
         "title": "Part-Time (20 Hours) Associate Banker, Pleasantburg Dr & Chalmers Rd, Greenville, SC",
         "seen": "2026-08-08T03:39:29.543979"
@@ -67073,6 +67113,54 @@
       "2ea3d434c8b50ef5": {
         "title": "Business Relationship Manager II - Assistant Vice President",
         "seen": "2026-11-06T23:32:07.044157"
+      },
+      "1b2d47620506eb05": {
+        "title": "Card Lending Services (CLS) – Business Analysis Associate II / Strategy & Innovation",
+        "seen": "2026-11-07T03:00:58.054578"
+      },
+      "3d638231a31312f4": {
+        "title": "Branch Operations Lead - Santa Cruz Branch - Santa Cruz, CA",
+        "seen": "2026-11-07T03:00:58.054669"
+      },
+      "b198fa15e8a97f85": {
+        "title": "Branch Manager - East F St Branch - Oakdale, CA",
+        "seen": "2026-11-07T03:00:58.054717"
+      },
+      "4d414f1cd9737c57": {
+        "title": "Part Time (30 Hours) Associate Banker, Sheridan and Alberta Branch, Buffalo, NY",
+        "seen": "2026-11-07T03:00:58.054753"
+      },
+      "dd06fd856d53ff9c": {
+        "title": "Part Time (30 Hours) Associate Banker, Elmsford Main St Branch, Elmsford NY",
+        "seen": "2026-11-07T03:00:58.054786"
+      },
+      "3eb36200e315b69b": {
+        "title": "Part Time (30 Hours) Associate Banker, Pompton Plains Pequannock Branch, Pompton Plains, NJ",
+        "seen": "2026-11-07T03:00:59.368228"
+      },
+      "07a7bf532774a7db": {
+        "title": "Part Time (30 Hours) Associate Banker, Heathcote Branch, Scarsdale, NY",
+        "seen": "2026-11-07T03:01:00.679313"
+      },
+      "98897b6bbc55232a": {
+        "title": "Private Client Banker - NW St Louis Market - Chesterfield, MO",
+        "seen": "2026-11-07T03:01:00.679592"
+      },
+      "032465b3abcdde6b": {
+        "title": "Relationship Banker - Minnesota Northern Market",
+        "seen": "2026-11-07T03:01:00.679667"
+      },
+      "602685c522b2f432": {
+        "title": "Relationship Banker - SC St Louis Market - Frontenac, MO",
+        "seen": "2026-11-07T03:01:00.679706"
+      },
+      "93e528c593ef2356": {
+        "title": "Relationship Banker - Fair Oaks and California - Pasadena, CA",
+        "seen": "2026-11-07T03:01:00.679740"
+      },
+      "0c5ca045c7b02dab": {
+        "title": "Margin & Collateral Analyst",
+        "seen": "2026-11-07T03:01:02.002054"
       }
     }
   },
@@ -67828,14 +67916,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "f90cad348ea76918": {
-        "title": "Software Development Engineer, Conversational Ads Experience",
-        "seen": "2026-08-08T01:59:19.587480"
-      },
-      "28659880e9c04bb7": {
-        "title": "Senior Solutions Manager, Finance Operations- Business Partnering",
-        "seen": "2026-08-08T01:59:21.110533"
-      },
       "e9df2e78c127896e": {
         "title": "Software Development Engineer, Amazon Lists",
         "seen": "2026-08-08T03:39:44.483429"
@@ -103127,16 +103207,32 @@
       "349cecff3f6a6209": {
         "title": "Principal TPM - Privacy, Regulation Tech & Assurance",
         "seen": "2026-11-06T23:32:32.123045"
+      },
+      "2d13b14c7ac41408": {
+        "title": "Certified Pharmacy Technician, Amazon Pharmacy",
+        "seen": "2026-11-07T03:01:15.051879"
+      },
+      "a25d80b0c2797ae9": {
+        "title": "Principal Design Verification Engineer , Annapurna Labs",
+        "seen": "2026-11-07T03:01:15.051936"
+      },
+      "ad618afa061302e4": {
+        "title": "Data Center Technician",
+        "seen": "2026-11-07T03:01:16.369682"
+      },
+      "ff4a71d856efcd5b": {
+        "title": "ESU Manager III, Emergency Services Unit, Protective Services",
+        "seen": "2026-11-07T03:01:17.694844"
+      },
+      "d2cc3d305ef99d9d": {
+        "title": "ECAD Application Engineer, Design Technologies",
+        "seen": "2026-11-07T03:01:17.695086"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "f96d7f358181c672": {
-        "title": "Customer Success Manager, Key Accounts",
-        "seen": "2026-08-07T23:58:58.097120"
-      },
       "649f1c60f1a1628f": {
         "title": "Engagement Manager, Professional Services (SEA/GCN)",
         "seen": "2026-08-08T17:57:59.889622"
@@ -118993,10 +119089,6 @@
   "9980a5cc8665": {
     "name": "Netflix",
     "jobs": {
-      "45b6ccbdb1e002c2": {
-        "title": "Senior Manager, Policy Communications",
-        "seen": "2026-08-07T23:59:53.024523"
-      },
       "a2c33134cdbfcfa2": {
         "title": "Financial Analyst, Music Royalties",
         "seen": "2026-08-10T04:14:54.832335"
@@ -119968,6 +120060,10 @@
       "a6f71d91c30e1425": {
         "title": "Software Engineer in Test 5 - Android Player",
         "seen": "2026-11-06T23:33:29.186785"
+      },
+      "981ce93cf83c88c3": {
+        "title": "Research Engineer 6 - TL, Messaging Algorithms",
+        "seen": "2026-11-07T03:02:09.583913"
       }
     }
   },
