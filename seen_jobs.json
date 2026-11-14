@@ -11,26 +11,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "18d4095f87c8b3e3": {
-        "title": "Executive Support Senior Program Manager, Tech Advisor",
-        "seen": "2026-08-15T01:06:29.223878"
-      },
-      "68606039c5d3c1cc": {
-        "title": "Manager, Corporate Network Engineering",
-        "seen": "2026-08-15T01:06:29.224057"
-      },
-      "3af42a09ceab3341": {
-        "title": "Research Scientist, Life Sciences (Chemistry)",
-        "seen": "2026-08-15T01:06:30.739368"
-      },
-      "fdf03522fe01080b": {
-        "title": "Finance & Strategy Manager, Machines",
-        "seen": "2026-08-15T03:36:38.304572"
-      },
-      "74adc3409510474a": {
-        "title": "Pre-training Distributed Systems Tech Lead / Manager",
-        "seen": "2026-08-15T03:36:38.304802"
-      },
       "5cc99cacb7f9820c": {
         "title": "Staff+ Software Engineer, Platform Ecosystem",
         "seen": "2026-08-15T20:19:53.310041"
@@ -4530,44 +4510,36 @@
       "5275e594bc9d01f8": {
         "title": "Technical Program Manager, Life Sciences Research (Genetic Medicine)",
         "seen": "2026-11-14T00:09:38.515239"
+      },
+      "cc12450ea06b780c": {
+        "title": "Corporate Counsel, Public Reporting",
+        "seen": "2026-11-14T06:52:20.032776"
+      },
+      "758f6ff95231a94a": {
+        "title": "Manager, Enterprise Sales - Industries, ANZ",
+        "seen": "2026-11-14T06:52:20.033054"
+      },
+      "a3520316f9426542": {
+        "title": "Partner Sales Manager, Systems Integrators",
+        "seen": "2026-11-14T06:52:20.033137"
+      },
+      "054924ed23183ebb": {
+        "title": "Partner Success Lead",
+        "seen": "2026-11-14T06:52:20.033180"
+      },
+      "747150cd1010070d": {
+        "title": "Staff+ Software Engineer, Safeguards Data",
+        "seen": "2026-11-14T06:52:20.033546"
+      },
+      "4a196ac37d521f66": {
+        "title": "Strategic Account Executive, Industries",
+        "seen": "2026-11-14T06:52:21.543053"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "edd49e71f5447308": {
-        "title": "AI Support Engineer - Toronto",
-        "seen": "2026-08-15T01:06:34.677871"
-      },
-      "a03194b09cbb9674": {
-        "title": "Applied AI Engineer, Digital Natives",
-        "seen": "2026-08-15T01:06:36.182877"
-      },
-      "850b585584a01da9": {
-        "title": "Director of Product Finance, Compute & Infrastructure Demand",
-        "seen": "2026-08-15T01:06:37.662525"
-      },
-      "b2abba7168ac6f08": {
-        "title": "IT Software Architect, SaaS Enablement and Governance",
-        "seen": "2026-08-15T01:06:37.663396"
-      },
-      "942fcf712b91f5a0": {
-        "title": "Senior Support Engineer - Toronto",
-        "seen": "2026-08-15T01:06:39.155778"
-      },
-      "6621743a656c30b5": {
-        "title": "Optical Interconnect System Engineer",
-        "seen": "2026-08-15T03:36:41.907986"
-      },
-      "82d4907ce6bdf609": {
-        "title": "Data Scientist, Safety",
-        "seen": "2026-08-15T04:28:07.083420"
-      },
-      "8ed334f2ad922c2e": {
-        "title": "Tech Lead, Deployment & Operations — Custom Infrastructure",
-        "seen": "2026-08-15T04:28:08.688258"
-      },
       "c5e7e5491d58dd63": {
         "title": "Applied AI Engineer",
         "seen": "2026-08-17T05:33:11.018731"
@@ -10015,24 +9987,36 @@
       "7bec2e18867af40f": {
         "title": "Product Marketing Lead, Healthcare & Life Sciences",
         "seen": "2026-11-14T00:09:46.115276"
+      },
+      "fb53e4d31d2e72da": {
+        "title": "Certification Architect",
+        "seen": "2026-11-14T06:52:24.022630"
+      },
+      "7a5c0c297b81888a": {
+        "title": "Enterprise Sales Manager, Healthcare & Life Sciences",
+        "seen": "2026-11-14T06:52:24.022834"
+      },
+      "dadbbfa96b5ac39b": {
+        "title": "Growth Product Marketing Manager",
+        "seen": "2026-11-14T06:52:24.023001"
+      },
+      "4a1846e45a86e4b7": {
+        "title": "HR Business Partner, GTM",
+        "seen": "2026-11-14T06:52:24.023067"
+      },
+      "ba1d5da7b66bd136": {
+        "title": "Lead HR Business Partner, GTM",
+        "seen": "2026-11-14T06:52:24.023135"
+      },
+      "bc13082f9d155f06": {
+        "title": "Senior Counsel, AI Product (Enterprise/API)",
+        "seen": "2026-11-14T06:52:24.023396"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "7b67894d2a858125": {
-        "title": "Sr. Developer Advocate, AI and Machine Learning",
-        "seen": "2026-08-15T01:06:42.799109"
-      },
-      "e0d44d492d8b1527": {
-        "title": "Senior Software Engineer (App-Framework)",
-        "seen": "2026-08-15T05:28:06.945102"
-      },
-      "2e3b7fee4dc9119c": {
-        "title": "Manager, Developer Relations - Open Source",
-        "seen": "2026-08-15T06:34:29.701928"
-      },
       "fccb6b19dc638464": {
         "title": "Senior Software Engineer (Backend)",
         "seen": "2026-08-15T08:25:17.671992"
@@ -15320,6 +15304,30 @@
       "95f01fd73fb4414c": {
         "title": "Strategy & Execution Manager - Deal Desk Transformation",
         "seen": "2026-11-14T00:09:49.530009"
+      },
+      "7b015ec16e48c738": {
+        "title": "Principal Product Marketing Manager, Application Development",
+        "seen": "2026-11-14T06:52:27.563866"
+      },
+      "a86676863442cdde": {
+        "title": "Senior Software Engineer - Fullstack",
+        "seen": "2026-11-14T06:52:27.564042"
+      },
+      "bbd6d0bdd69f2127": {
+        "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
+        "seen": "2026-11-14T06:52:29.006165"
+      },
+      "e080054df6a7973b": {
+        "title": "Sr. Developer Advocate, Open Source — Omnigent",
+        "seen": "2026-11-14T06:52:30.451378"
+      },
+      "d6bac764202d8bf5": {
+        "title": "Staff Software Engineer - AI Research Infrastructure",
+        "seen": "2026-11-14T06:52:30.452168"
+      },
+      "2d9bcab562ac53a1": {
+        "title": "Staff Software Engineer - Backend",
+        "seen": "2026-11-14T06:52:31.892259"
       }
     }
   },
@@ -15330,30 +15338,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "0b01d039bb1f6117": {
-        "title": "Commercial Banker-Healthcare, Higher Education & Non-Profit-Vice President",
-        "seen": "2026-08-15T01:06:52.439384"
-      },
-      "5d7927f46d4a5e32": {
-        "title": "Relationship Executive-Healthcare, Higher Education & Non-Profit",
-        "seen": "2026-08-15T02:32:21.703418"
-      },
-      "8f4fd58d8ba14a18": {
-        "title": "Relationship Banker - Sierra Mountain Market - El Dorado Hills, CA",
-        "seen": "2026-08-15T02:32:21.703510"
-      },
-      "fc6293becf0ad674": {
-        "title": "Consumer and Community Banking - Paralegal I",
-        "seen": "2026-08-15T02:32:23.333340"
-      },
-      "b4b1cdd482f71c9c": {
-        "title": "Branch Manager - Marlboro Plaza Branch - Englishtown, NJ",
-        "seen": "2026-08-15T02:32:23.333693"
-      },
-      "438100fa313fbfc9": {
-        "title": "Relationship Executive-Healthcare, Higher Education & Non-Profit-Executive Director",
-        "seen": "2026-08-15T03:36:53.403969"
-      },
       "7f42c8470753cae3": {
         "title": "Lead Software Engineer - Data Engineer and Applied AI",
         "seen": "2026-08-15T21:18:56.638307"
@@ -64789,6 +64773,18 @@
       "f506b664b382e1d3": {
         "title": "Part Time (30 hour) Associate Banker - Winchester Rd (New Build) - Huntsville, AL",
         "seen": "2026-11-14T00:10:17.581291"
+      },
+      "489b64732d46a070": {
+        "title": "Director of Software Engineering",
+        "seen": "2026-11-14T06:52:41.649963"
+      },
+      "8bf1cfaf229d454c": {
+        "title": "Product Controller",
+        "seen": "2026-11-14T06:52:43.106006"
+      },
+      "64b4c0808885a79a": {
+        "title": "Associate Banker, 30 Hours, Albuquerque, NM - Paseo Del Norte and Wyoming Branch",
+        "seen": "2026-11-14T06:52:43.106559"
       }
     }
   },
@@ -65444,34 +65440,6 @@
   "254e2cf3723a": {
     "name": "Amazon",
     "jobs": {
-      "c160f7bdef9c3096": {
-        "title": "Opto-Mechanical Engineer, Amazon LEO",
-        "seen": "2026-08-15T01:07:05.633877"
-      },
-      "ed143091f3ca103d": {
-        "title": "Principal Engagement Manager , Professional Services, HCLS",
-        "seen": "2026-08-15T02:32:37.044036"
-      },
-      "c66c702982936156": {
-        "title": "Software Development Engineer, AWS OpenSearch",
-        "seen": "2026-08-15T02:32:37.044124"
-      },
-      "781f5c3061b0a885": {
-        "title": "Software Development Engineer, Early Career - 2026",
-        "seen": "2026-08-15T02:32:38.533166"
-      },
-      "8bc6477fec3d9016": {
-        "title": "Applied Scientist I, Grocery, Retail & In-Store Experience (GRAISE)",
-        "seen": "2026-08-15T03:37:06.417881"
-      },
-      "bc076582a318df70": {
-        "title": "Data Center Technician",
-        "seen": "2026-08-15T03:37:07.717919"
-      },
-      "2b0ec03bba6261b5": {
-        "title": "Data Center Technician",
-        "seen": "2026-08-15T04:28:31.546378"
-      },
       "045b2dd42ddad66c": {
         "title": "Software Development Engineer, Amazon Security: ASCOT Engineering",
         "seen": "2026-08-15T18:26:06.592566"
@@ -100359,20 +100327,68 @@
       "eae10adccffec57b": {
         "title": "Software Development Engineer - ML, Prime Video Personalization, Harmonia Optimizer",
         "seen": "2026-11-14T00:11:06.695396"
+      },
+      "4814291f6662d141": {
+        "title": "Sr. Electrical Engineer, Prime Air Perception",
+        "seen": "2026-11-14T06:52:56.865046"
+      },
+      "8820d61f4eeadd76": {
+        "title": "Sr. Aerospace Hardware Reliability Engineer, Prime Air",
+        "seen": "2026-11-14T06:52:58.320369"
+      },
+      "cb9705ea2506d34e": {
+        "title": "Software Development Engineer, AWS",
+        "seen": "2026-11-14T06:52:59.782582"
+      },
+      "c7e6fbaa7184fe0c": {
+        "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+        "seen": "2026-11-14T06:53:01.227081"
+      },
+      "2c65960858ff2275": {
+        "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+        "seen": "2026-11-14T06:53:02.714982"
+      },
+      "5e6592f16626dfd3": {
+        "title": "Drone Avionics Electrical Engineer, Prime Air",
+        "seen": "2026-11-14T06:53:04.158958"
+      },
+      "6e38d6361780b08f": {
+        "title": "Sr. Technical Program Manager, Alexa Shopping",
+        "seen": "2026-11-14T06:53:05.617485"
+      },
+      "844a54c8a54c9c8f": {
+        "title": "TAM, AWS Enterprise Support, Strategic Industries, AutoMfg",
+        "seen": "2026-11-14T06:53:05.617802"
+      },
+      "b4e5fc60e99e73c9": {
+        "title": "Principal, TIPM, DC Infra Capacity Delivery",
+        "seen": "2026-11-14T06:53:05.617877"
+      },
+      "1208d476b148d800": {
+        "title": "Sr. Operations Manager",
+        "seen": "2026-11-14T06:53:05.617975"
+      },
+      "cdf7b57b43be70e7": {
+        "title": "ASIC Characterization Engineer, Silicon",
+        "seen": "2026-11-14T06:53:05.618014"
+      },
+      "067929bf9d0937d9": {
+        "title": "Senior Manager, Product Management, Technical",
+        "seen": "2026-11-14T06:53:07.053815"
+      },
+      "ce94d15eac372180": {
+        "title": "Account Manager, RBS Flex",
+        "seen": "2026-11-14T06:53:07.053975"
+      },
+      "625034fcb0196be3": {
+        "title": "Network Support Engineer, Leo Networking Software",
+        "seen": "2026-11-14T06:53:07.054058"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "97cea8482b16da81": {
-        "title": "Staff Engineer, Link Balance",
-        "seen": "2026-08-15T03:37:15.094384"
-      },
-      "af327d097b6d0a2a": {
-        "title": "Staff Software Engineer, Link",
-        "seen": "2026-08-15T05:28:36.308264"
-      },
       "57c64369c3b2d26e": {
         "title": "F&S COE Manager",
         "seen": "2026-08-17T05:33:50.534611"
@@ -105860,6 +105876,14 @@
       "151e8b8910bab1f6": {
         "title": "Technical Solutions Engineer",
         "seen": "2026-11-14T00:11:14.179226"
+      },
+      "c9e835b10d81cd95": {
+        "title": "Engineering Manager, Terminal",
+        "seen": "2026-11-14T06:53:14.655510"
+      },
+      "d23127f598938a3d": {
+        "title": "Partner Development Manager",
+        "seen": "2026-11-14T06:53:16.098394"
       }
     }
   },
@@ -106199,22 +106223,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "ef4c327f5850d3b4": {
-        "title": "Senior/Principal Architect (f/m/d) Healthcare",
-        "seen": "2026-08-15T02:33:05.763649"
-      },
-      "240c66101f458a3b": {
-        "title": "(Principal / Senior) Consultant (w/m/d) Healthcare",
-        "seen": "2026-08-15T02:33:05.763762"
-      },
-      "264080c1f955597a": {
-        "title": "Forward Deployed Application Engineering Chief Expert (f/m/d)",
-        "seen": "2026-08-15T02:33:05.763838"
-      },
-      "bdeab74d0062d25a": {
-        "title": "Vertriebsleiter (f/m/d) / Sales Manager LoB Finance&Spend Consumer Industries",
-        "seen": "2026-08-15T02:33:07.253461"
-      },
       "ebcd265111ae72c5": {
         "title": "Sales Development Associate - Italian Speaker (temporary contract)",
         "seen": "2026-08-16T05:54:27.351905"
@@ -115572,6 +115580,10 @@
       "28cd71ead15955c0": {
         "title": "Business Partner, Finance Procurement Operations - Studio",
         "seen": "2026-11-14T00:12:13.919599"
+      },
+      "b9589baa40c07cdb": {
+        "title": "Administrative Assistant, Content Licensing",
+        "seen": "2026-11-14T06:53:56.471777"
       }
     }
   },
