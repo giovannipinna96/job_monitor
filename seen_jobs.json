@@ -11,18 +11,6 @@
   "ed2fea193ef2": {
     "name": "Anthropic",
     "jobs": {
-      "3a75fb870210f769": {
-        "title": "Policy Design Manager, Conventional Weapons",
-        "seen": "2026-08-22T04:30:27.725856"
-      },
-      "003be338c5906374": {
-        "title": "Safety & Security Counsel",
-        "seen": "2026-08-22T04:30:27.726112"
-      },
-      "eeb120a8803c6f73": {
-        "title": "Safety & Security Counsel, EMEA",
-        "seen": "2026-08-22T04:30:27.726192"
-      },
       "6fdd16c35c57fcd1": {
         "title": "Technical Program Manager, Data Center Infrastructure",
         "seen": "2026-08-22T19:47:04.823473"
@@ -4342,16 +4330,28 @@
       "286c25151613bb0f": {
         "title": "Research Operations, External Artifacts",
         "seen": "2026-11-21T04:09:21.856833"
+      },
+      "2a677ee252e12a2e": {
+        "title": "Account Executive, AI Native",
+        "seen": "2026-11-21T12:54:07.420886"
+      },
+      "f5d166c3f0c6c09c": {
+        "title": "Principal Engineer Capacity/Compute",
+        "seen": "2026-11-21T12:54:08.836449"
+      },
+      "33f0d6cc82f4e71c": {
+        "title": "Research Engineer, Finetuning",
+        "seen": "2026-11-21T12:54:10.214687"
+      },
+      "662931feebb2ff5f": {
+        "title": "Support Engineer",
+        "seen": "2026-11-21T12:54:11.651548"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "c1d7b8aa25d2eb09": {
-        "title": "Software Engineer, RL Training Infra",
-        "seen": "2026-08-22T05:02:14.065938"
-      },
       "bbc6913c4a6935cf": {
         "title": "Customer Success Manager, Ads Solutions",
         "seen": "2026-08-22T13:54:33.108879"
@@ -10005,26 +10005,6 @@
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "a058971709514fd3": {
-        "title": "Senior Software Engineer - Search",
-        "seen": "2026-08-22T04:30:32.272934"
-      },
-      "5ad2a7b5326198d6": {
-        "title": "Senior Software Engineer (Infra)",
-        "seen": "2026-08-22T05:02:17.636642"
-      },
-      "f63bcd5b80401e4b": {
-        "title": "Sr. Forward Deployed Engineer",
-        "seen": "2026-08-22T05:02:19.012909"
-      },
-      "52c66249188c658a": {
-        "title": "Sr. Forward Deployed Engineer",
-        "seen": "2026-08-22T05:53:02.934135"
-      },
-      "6cd15c615a65b696": {
-        "title": "Sr. Forward Deployed Engineer",
-        "seen": "2026-08-22T07:56:41.910853"
-      },
       "4e9bf199f4dacef5": {
         "title": "Sr. Forward Deployed Engineer",
         "seen": "2026-08-22T13:54:35.208350"
@@ -15452,6 +15432,18 @@
       "28c77f48f80d2c43": {
         "title": "Staff Software Engineer - Backend",
         "seen": "2026-11-21T04:09:36.333252"
+      },
+      "970ca218afb287b2": {
+        "title": "Director, Field Engineering",
+        "seen": "2026-11-21T12:54:17.967239"
+      },
+      "78bc95cc1a80915d": {
+        "title": "Senior Engineering Manager for Self-Serve (Learning)",
+        "seen": "2026-11-21T12:54:19.318503"
+      },
+      "5769296a27d9d1e7": {
+        "title": "Sr. Staff Forward Deployed Engineer",
+        "seen": "2026-11-21T12:54:20.630616"
       }
     }
   },
@@ -15462,14 +15454,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "bd8f0952bb5da3c6": {
-        "title": "Financial Analysis - Marketing Expense Finance - Senior Associate",
-        "seen": "2026-08-22T04:30:42.578428"
-      },
-      "f536702c1fd48ce6": {
-        "title": "Technical Project Manager III -  (Risk & Vendor Management)",
-        "seen": "2026-08-22T07:56:51.811494"
-      },
       "c8aa9ffdb836198c": {
         "title": "Branch Manager -Central Market- Houston, TX",
         "seen": "2026-08-22T20:19:52.701217"
@@ -64145,6 +64129,30 @@
       "1cd21a1c646093e0": {
         "title": "Relationship Banker - Nutley Center Branch - Nutley, NJ",
         "seen": "2026-11-21T04:09:45.831707"
+      },
+      "a41212f609f89da3": {
+        "title": "Applied AI & ML Lead – Markets Operations",
+        "seen": "2026-11-21T12:54:29.957272"
+      },
+      "2d2e0ea8d7d36291": {
+        "title": "Relationship Banker - Livingston, NJ",
+        "seen": "2026-11-21T12:54:31.254332"
+      },
+      "134bebd5b8c26a4d": {
+        "title": "Associate Relationship Banker - Kearny, NJ",
+        "seen": "2026-11-21T12:54:31.254569"
+      },
+      "02752032c01301ad": {
+        "title": "Private Client Banker - Summit NJ",
+        "seen": "2026-11-21T12:54:31.254643"
+      },
+      "9e274fc5b8b4852d": {
+        "title": "Branch Operations Lead -  New Jersey Sussex County Market",
+        "seen": "2026-11-21T12:54:31.254725"
+      },
+      "e47843a269b431ab": {
+        "title": "Data Management Director",
+        "seen": "2026-11-21T12:54:31.254793"
       }
     }
   },
@@ -99059,6 +99067,10 @@
       "2ac658b3590e4943": {
         "title": "Expansion Transaction Manager , APAC Data Center Supply Solutions",
         "seen": "2026-11-21T04:10:15.010907"
+      },
+      "b82d14755224fe62": {
+        "title": "Operations Manager, AMZL-Delivery Station",
+        "seen": "2026-11-21T12:54:44.856338"
       }
     }
   },
@@ -104636,6 +104648,10 @@
       "e926835a76c65d48": {
         "title": "Staff Product Manager, Billing",
         "seen": "2026-11-21T04:10:25.651483"
+      },
+      "e32e67d1eff30f8b": {
+        "title": "Staff Software Engineer, Startup Products",
+        "seen": "2026-11-21T12:54:50.916840"
       }
     }
   },
@@ -104943,46 +104959,6 @@
   "c7ec014dc4b7": {
     "name": "SAP",
     "jobs": {
-      "c5c89fe0c2a89531": {
-        "title": "AI Engineer - Applied AI & Data Validation",
-        "seen": "2026-08-22T05:03:05.913498"
-      },
-      "207cd4439fac142f": {
-        "title": "Growth Officer - Japan",
-        "seen": "2026-08-22T05:03:07.293724"
-      },
-      "f87fb5f575e7cbc6": {
-        "title": "Working Student (f/m/d) - User Experience Design for AI at Customer Experience & Solutions (CXS)",
-        "seen": "2026-08-22T05:03:07.294533"
-      },
-      "fe973e8d79307b2a": {
-        "title": "SAP NS2 Sr. DevOps & Automation Transformation Architect",
-        "seen": "2026-08-22T05:03:08.677503"
-      },
-      "273102707f5d4b8e": {
-        "title": "Business Processes Senior Consultant for QM and PP in CoE EMEA",
-        "seen": "2026-08-22T05:03:10.061111"
-      },
-      "5bf5775ce5ed7898": {
-        "title": "Principal Data Scientist/ AI Application Development Expert",
-        "seen": "2026-08-22T05:03:10.061922"
-      },
-      "b75e508be4911935": {
-        "title": "Principal Machine Learning Engineer",
-        "seen": "2026-08-22T05:03:11.452007"
-      },
-      "1bebf0da254cf376": {
-        "title": "(Senior) Developer (f/m/d) for Sovereign Cloud Onsite / ApeiroRA / EU AI Projects",
-        "seen": "2026-08-22T05:03:12.869353"
-      },
-      "192539fe7b1fd371": {
-        "title": "Principal Finance Architect",
-        "seen": "2026-08-22T05:03:14.248639"
-      },
-      "341062cc613389aa": {
-        "title": "Development Expert (m/f/d) - - Identity & Trust Services, SAP Cloud Infrastructure",
-        "seen": "2026-08-22T05:03:14.249423"
-      },
       "7d4e2e7121422dfb": {
         "title": "Senior/Principal Enterprise Architect (f/m/d) - Switzerland",
         "seen": "2026-08-23T07:32:39.541262"
@@ -112567,6 +112543,10 @@
       "a56aee2ae7d88f67": {
         "title": "Regional Vice President, Sales (DACH)",
         "seen": "2026-11-21T04:11:03.877043"
+      },
+      "8e9566a7d6b6fa56": {
+        "title": "Senior Frontend Platform Engineer, Design Systems",
+        "seen": "2026-11-21T12:55:29.611297"
       }
     }
   },
