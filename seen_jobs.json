@@ -4350,16 +4350,24 @@
       "2b7d68bfccd4bfcb": {
         "title": "Principal Engineer Capacity/Compute",
         "seen": "2026-11-22T15:32:33.378676"
+      },
+      "60a49adb4c2c3e3f": {
+        "title": "Campaign Manager",
+        "seen": "2026-11-22T21:31:49.901974"
+      },
+      "e23db5f042b80d27": {
+        "title": "Head of Campaign Operations",
+        "seen": "2026-11-22T21:31:51.346226"
+      },
+      "7e40bbc5064b557c": {
+        "title": "Program Manager, Cloud Partners",
+        "seen": "2026-11-22T21:31:52.724491"
       }
     }
   },
   "0351bf9839e1": {
     "name": "OpenAI",
     "jobs": {
-      "d4d077f431269e37": {
-        "title": "Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment",
-        "seen": "2026-08-23T20:19:48.386684"
-      },
       "4296d2e5e2298b96": {
         "title": "BIM Designer & Coordinator",
         "seen": "2026-08-23T22:19:29.521000"
@@ -9991,16 +9999,36 @@
       "4baa8c054e4136ce": {
         "title": "Technical Program Manager, Support Delivery",
         "seen": "2026-11-21T04:09:31.370643"
+      },
+      "1f88c059dbff720b": {
+        "title": "Research Engineer / Research Scientist, Health",
+        "seen": "2026-11-22T21:31:55.818415"
+      },
+      "47700473f5531ff5": {
+        "title": "Research Engineer / Research Scientist, Human Flourishing",
+        "seen": "2026-11-22T21:31:57.199519"
+      },
+      "ec8c2bd9b9010e13": {
+        "title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)",
+        "seen": "2026-11-22T21:31:58.558056"
+      },
+      "21dcc15a01d1e735": {
+        "title": "Research Engineer / Research Scientist - Post Training, Memory",
+        "seen": "2026-11-22T21:31:59.970549"
+      },
+      "558faddb11ba2072": {
+        "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+        "seen": "2026-11-22T21:32:01.341658"
+      },
+      "e1f24b342b0c3c6f": {
+        "title": "Research Engineer/Research Scientist-Post Training, Proactivity",
+        "seen": "2026-11-22T21:32:02.706337"
       }
     }
   },
   "53f544e61688": {
     "name": "Databricks",
     "jobs": {
-      "d4ca034a69b986d5": {
-        "title": "Staff Designated Support Engineer",
-        "seen": "2026-08-23T17:45:06.390835"
-      },
       "88cecb7d4df42bac": {
         "title": "Emerging Enterprise Hunter Account Executive",
         "seen": "2026-08-24T02:44:17.911443"
@@ -15458,26 +15486,6 @@
   "5a2d62b08651": {
     "name": "JP Morgan",
     "jobs": {
-      "a75f0d15ebcbf3bf": {
-        "title": "Part Time (30 Hours) Associate Banker, Bay Shore Commons Branch, Bay Shore, NY Bilingual Spanish Required",
-        "seen": "2026-08-23T18:26:04.939866"
-      },
-      "4c3d03799ceaa0e8": {
-        "title": "Real Estate Appraisal Analyst",
-        "seen": "2026-08-23T20:20:00.319439"
-      },
-      "801eeff7f3f54f62": {
-        "title": "Supplier Cybersecurity Controls Assessor, Vice President",
-        "seen": "2026-08-23T20:20:01.899624"
-      },
-      "64b40ba409dc0365": {
-        "title": "CB Risk Reporting Analyst",
-        "seen": "2026-08-23T20:48:55.127050"
-      },
-      "7892fa488d2e1b32": {
-        "title": "PricingDirect Evaluator - Securitized Products Group - Vice President",
-        "seen": "2026-08-23T21:19:31.199128"
-      },
       "7f012558e045677b": {
         "title": "Vice President, Global Product Marketing Lead Treasury Services",
         "seen": "2026-08-23T22:19:42.390782"
@@ -64069,6 +64077,18 @@
       "e3e0515858a57b98": {
         "title": "Branch Manager - Long Island Central, NY",
         "seen": "2026-11-22T00:06:29.471831"
+      },
+      "75369861f32131cc": {
+        "title": "Software Engineer III  - Java Developer + AWS + Spark + Databricks",
+        "seen": "2026-11-22T21:32:14.456838"
+      },
+      "b32b8e16a75146c9": {
+        "title": "Branch Operations Lead - Magee Oracle - Tucson, AZ",
+        "seen": "2026-11-22T21:32:15.825936"
+      },
+      "c3015e6a98bb9025": {
+        "title": "Branch Operations Lead - Village of Oak Creek - Sedona, AZ",
+        "seen": "2026-11-22T21:32:15.826167"
       }
     }
   },
@@ -99003,20 +99023,16 @@
       "94e3eb79841f8ffc": {
         "title": "Senior Risk Manager, AI Assurance & Inspections, FORGE",
         "seen": "2026-11-22T15:33:08.951819"
+      },
+      "490111ecf571fe55": {
+        "title": "Sr. Life Sciences Business Development Lead, AAIS HCLS GTM",
+        "seen": "2026-11-22T21:32:29.024373"
       }
     }
   },
   "297cf6f6ebd6": {
     "name": "Stripe",
     "jobs": {
-      "f9e1a13f4b759fd7": {
-        "title": "Solutions Architect, Platforms (Presales)",
-        "seen": "2026-08-23T19:45:42.336882"
-      },
-      "d9f2403cf3b0a0d3": {
-        "title": "Solutions Architect, SMB (Presales)",
-        "seen": "2026-08-23T19:45:42.336940"
-      },
       "7cbf8bb04d2ccd3d": {
         "title": "Account Executive, Commercial Hunter",
         "seen": "2026-08-24T02:44:50.301720"
@@ -104580,6 +104596,10 @@
       "e32e67d1eff30f8b": {
         "title": "Staff Software Engineer, Startup Products",
         "seen": "2026-11-21T12:54:50.916840"
+      },
+      "858bf53fb3dd3efc": {
+        "title": "Engineering Manager - Developer Tooling",
+        "seen": "2026-11-22T21:32:36.492959"
       }
     }
   },
